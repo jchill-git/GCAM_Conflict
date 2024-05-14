@@ -1,0 +1,134 @@
+,105540
+scenario,PolicyReference
+region,Africa_Eastern
+sector,resid cooling
+input_x,elect_td_bld
+year,2100
+Electricity Cooling (EJ),0.594778
+ssp,0
+Electricity (EJ)H2 central production,0.02187721531347
+Electricity (EJ)H2 industrial,0.15976534
+Electricity (EJ)H2 liquid truck,0.0851596
+Electricity (EJ)H2 pipeline,0.0144264
+Electricity (EJ)H2 wholesale dispensing,0.30964912
+Electricity (EJ)agricultural energy use,0.006619705
+Electricity (EJ)cement,0.0892119384
+Electricity (EJ)comm cooling,0.291324
+Electricity (EJ)comm others,4.64546
+Electricity (EJ)construction energy use,0.0005333908
+Electricity (EJ)desalinated water,6.0464e-06
+Electricity (EJ)industrial wastewater treatment,0.0136561
+Electricity (EJ)industrial water abstraction,0.00367929
+Electricity (EJ)industrial water treatment,0.00575396
+Electricity (EJ)iron and steel,0.1365231656
+Electricity (EJ)irrigation water abstraction,0.0103635
+Electricity (EJ)mining energy use,0.0019358351
+Electricity (EJ)municipal wastewater treatment,0.0200274
+Electricity (EJ)municipal water abstraction,0.00700331
+Electricity (EJ)municipal water distribution,0.0152605
+Electricity (EJ)municipal water treatment,0.0145216
+Electricity (EJ)other industrial energy use,14.6309289
+Electricity (EJ)refining,0.019020404205
+Electricity (EJ)resid cooling,0.594778
+Electricity (EJ)resid others,4.61768
+Electricity (EJ)trn_aviation_intl,0.00254247
+Electricity (EJ)trn_freight,0.00458754
+Electricity (EJ)trn_freight_road,0.91675103
+Electricity (EJ)trn_pass,1.04112729
+Electricity (EJ)trn_pass_road,0.00396039
+Electricity (EJ)trn_pass_road_LDV,0.00360822
+Electricity (EJ)trn_pass_road_LDV_4W,0.69210004
+Electricity (EJ)trn_shipping_intl,0.00269391
+Electricity (EJ)aluminum,0.0
+Electricity (EJ)chemical energy use,0.0
+Electricity (EJ)comm heating,0.0
+Electricity (EJ)resid heating,0.0
+Electricity (EJ)CO2 removal,0.030885360118006
+Population (Thousands),681323
+fuel_x,a oil
+Energy Consumption (EJ)a oil,0.443006
+Energy Consumption (EJ)b natural gas,0.2889529
+Energy Consumption (EJ)c coal,0.0273336
+Energy Consumption (EJ)d biomass,15.9925876239102
+Energy Consumption (EJ)e nuclear,4.57377197374
+Energy Consumption (EJ)f hydro,0.569829
+Energy Consumption (EJ)g wind,13.9425286
+Energy Consumption (EJ)h solar,12.716835506
+Energy Consumption (EJ)i geothermal,0.072588178
+Energy Consumption (EJ)j traditional biomass,1.060222
+gcam-consumer,FoodDemand
+nodeinput,FoodDemand
+Food Price Staple/Nonstaple,FoodDemand_Staples
+Food Price (2005$/Mcal/day),0.146492
+output_x,FoodDemand_NonStaples
+Food Consumption By Type (Pcal) NonStaples,541.1558
+output_y,FoodDemand_Staples
+Food Consumption By Type (Pcal) Staples,249.9299
+Total Food Consumption (Pcal),791.0857
+account_x,GDP
+GDP per capita (million 1990$),8902450.0
+subresource,groundwater grade hist
+Water Resources (km^3) grade hist,0.0
+Water Resources (km^3)groundwater grade1,4.249392
+Water Resources (km^3)groundwater grade10,0.0
+Water Resources (km^3)groundwater grade11,4.88189
+Water Resources (km^3)groundwater grade12,11.5409
+Water Resources (km^3)groundwater grade13,19.9049
+Water Resources (km^3)groundwater grade14,15.2222
+Water Resources (km^3)groundwater grade15,13.0244
+Water Resources (km^3)groundwater grade16,1.48109
+Water Resources (km^3)groundwater grade17,0.0
+Water Resources (km^3)groundwater grade18,0.0
+Water Resources (km^3)groundwater grade19,0.0
+Water Resources (km^3)groundwater grade2,0.0
+Water Resources (km^3)groundwater grade20,0.0
+Water Resources (km^3)groundwater grade3,0.168517
+Water Resources (km^3)groundwater grade4,0.0
+Water Resources (km^3)groundwater grade5,0.0
+Water Resources (km^3)groundwater grade6,0.0
+Water Resources (km^3)groundwater grade7,0.0
+Water Resources (km^3)groundwater grade8,0.0
+Water Resources (km^3)groundwater grade9,0.0
+Water Resources (km^3)runoff,243.9137
+input_y,water_td_irr_Madagascar_W
+Water Withdrawals (km^3),13.2058978321144
+input water consumption by region,water_td_muni_C
+Municipal Water Consumption (km^3),2.17492
+account_y,GDP
+GDP (Million 1990$),8902450
+fuel_y,electricity
+Electricity Price (1975$/GJ),8.5472
+Food Price (1990$/Mcal/day),0.09898108108108108
+Total GDP (1990$),8902450000000
+Food Price Mcal/day / GDP,1.1118409098740356e-14
+GDP/Food Price Mcal/day,89940925101712.03
+ratio non staples to staples,2.165230330584696
+food consumption per person,1.1611022965612492e-06
+Total Residential Electricity Consumption (EJ),5.212458
+Total Electricity Consumption Residential (kWh),1447904999999.9595
+Residental Electricity consumption per capita (kWh pp),2125.137416467607
+Total Electricity Used (EJ),28.977313610818474
+Total Electricity Consumption Per Capita (kWh pp),11814.152436924462
+Electricity Availability,2.9535381092311153
+Total Energy Consumption (EJ),49.6876553816502
+Non-Biomass Ratio,0.9786622654690295
+Water Consumption per capita (L/day),8.745756317498236
+Normalized Water Consumption Per Capita,0.08745756317498236
+total groundwater use (km3),70.473289
+total runoff use (km3),243.9137
+Runoff to Groundwater Use,0.7110728548662908
+Electricity Price (1990$/GJ),20.769696000000003
+GDP/Electricity Price,428626880239.3641
+ind_1_norm,0.021480353993894245
+ind_2_norm,0.6460276720904267
+ind_3_norm,0.5017450840996299
+ind_4_norm,0.3486841428178277
+ind_5_norm,0.205756714618079
+ind_6_norm,0.969055524221627
+ind_7_norm,0.03943660969205274
+ind_8_norm,0.7877144877572392
+food_sub_indicator,0.19095244657466848
+energy_sub_indicator,0.41119228592378737
+water_sub_indicator,0.17625206042046004
+FEW_index,0.24008671503896353
+FEW index normalized (ndc),0.2907004371887608

@@ -1,0 +1,705 @@
+"","Units","scenario","region","year","account","value","rundate"
+"1","million 1990$","Reference","Africa_Eastern",1975,"GDP",28893,2024-02-25 19:37:56
+"2","million 1990$","Reference","Africa_Eastern",1990,"GDP",46850,2024-02-25 19:37:56
+"3","million 1990$","Reference","Africa_Eastern",2005,"GDP",85953,2024-02-25 19:37:56
+"4","million 1990$","Reference","Africa_Eastern",2010,"GDP",119402,2024-02-25 19:37:56
+"5","million 1990$","Reference","Africa_Eastern",2015,"GDP",151679,2024-02-25 19:37:56
+"6","million 1990$","Reference","Africa_Eastern",2020,"GDP",187112,2024-02-25 19:37:56
+"7","million 1990$","Reference","Africa_Eastern",2025,"GDP",241305,2024-02-25 19:37:56
+"8","million 1990$","Reference","Africa_Eastern",2030,"GDP",367627,2024-02-25 19:37:56
+"9","million 1990$","Reference","Africa_Eastern",2035,"GDP",573177,2024-02-25 19:37:56
+"10","million 1990$","Reference","Africa_Eastern",2040,"GDP",876494,2024-02-25 19:37:56
+"11","million 1990$","Reference","Africa_Eastern",2045,"GDP",1302290,2024-02-25 19:37:56
+"12","million 1990$","Reference","Africa_Eastern",2050,"GDP",1873670,2024-02-25 19:37:56
+"13","million 1990$","Reference","Africa_Eastern",2055,"GDP",2611600,2024-02-25 19:37:56
+"14","million 1990$","Reference","Africa_Eastern",2060,"GDP",3530180,2024-02-25 19:37:56
+"15","million 1990$","Reference","Africa_Eastern",2065,"GDP",4633260,2024-02-25 19:37:56
+"16","million 1990$","Reference","Africa_Eastern",2070,"GDP",5912980,2024-02-25 19:37:56
+"17","million 1990$","Reference","Africa_Eastern",2075,"GDP",7357240,2024-02-25 19:37:56
+"18","million 1990$","Reference","Africa_Eastern",2080,"GDP",8952420,2024-02-25 19:37:56
+"19","million 1990$","Reference","Africa_Eastern",2085,"GDP",10681900,2024-02-25 19:37:56
+"20","million 1990$","Reference","Africa_Eastern",2090,"GDP",12523200,2024-02-25 19:37:56
+"21","million 1990$","Reference","Africa_Eastern",2095,"GDP",14453500,2024-02-25 19:37:56
+"22","million 1990$","Reference","Africa_Eastern",2100,"GDP",16434300,2024-02-25 19:37:56
+"23","million 1990$","Reference","Africa_Northern",1975,"GDP",84938,2024-02-25 19:37:56
+"24","million 1990$","Reference","Africa_Northern",1990,"GDP",190375,2024-02-25 19:37:56
+"25","million 1990$","Reference","Africa_Northern",2005,"GDP",310900,2024-02-25 19:37:56
+"26","million 1990$","Reference","Africa_Northern",2010,"GDP",387805,2024-02-25 19:37:56
+"27","million 1990$","Reference","Africa_Northern",2015,"GDP",418411,2024-02-25 19:37:56
+"28","million 1990$","Reference","Africa_Northern",2020,"GDP",515797,2024-02-25 19:37:56
+"29","million 1990$","Reference","Africa_Northern",2025,"GDP",630777,2024-02-25 19:37:56
+"30","million 1990$","Reference","Africa_Northern",2030,"GDP",848784,2024-02-25 19:37:56
+"31","million 1990$","Reference","Africa_Northern",2035,"GDP",1131780,2024-02-25 19:37:56
+"32","million 1990$","Reference","Africa_Northern",2040,"GDP",1459650,2024-02-25 19:37:56
+"33","million 1990$","Reference","Africa_Northern",2045,"GDP",1819930,2024-02-25 19:37:56
+"34","million 1990$","Reference","Africa_Northern",2050,"GDP",2198330,2024-02-25 19:37:56
+"35","million 1990$","Reference","Africa_Northern",2055,"GDP",2598220,2024-02-25 19:37:56
+"36","million 1990$","Reference","Africa_Northern",2060,"GDP",3021990,2024-02-25 19:37:56
+"37","million 1990$","Reference","Africa_Northern",2065,"GDP",3464200,2024-02-25 19:37:56
+"38","million 1990$","Reference","Africa_Northern",2070,"GDP",3900660,2024-02-25 19:37:56
+"39","million 1990$","Reference","Africa_Northern",2075,"GDP",4321660,2024-02-25 19:37:56
+"40","million 1990$","Reference","Africa_Northern",2080,"GDP",4732750,2024-02-25 19:37:56
+"41","million 1990$","Reference","Africa_Northern",2085,"GDP",5135970,2024-02-25 19:37:56
+"42","million 1990$","Reference","Africa_Northern",2090,"GDP",5538130,2024-02-25 19:37:56
+"43","million 1990$","Reference","Africa_Northern",2095,"GDP",5938530,2024-02-25 19:37:56
+"44","million 1990$","Reference","Africa_Northern",2100,"GDP",6318020,2024-02-25 19:37:56
+"45","million 1990$","Reference","Africa_Southern",1975,"GDP",28497,2024-02-25 19:37:56
+"46","million 1990$","Reference","Africa_Southern",1990,"GDP",42717,2024-02-25 19:37:56
+"47","million 1990$","Reference","Africa_Southern",2005,"GDP",79377,2024-02-25 19:37:56
+"48","million 1990$","Reference","Africa_Southern",2010,"GDP",120196,2024-02-25 19:37:56
+"49","million 1990$","Reference","Africa_Southern",2015,"GDP",155391,2024-02-25 19:37:56
+"50","million 1990$","Reference","Africa_Southern",2020,"GDP",172716,2024-02-25 19:37:56
+"51","million 1990$","Reference","Africa_Southern",2025,"GDP",212867,2024-02-25 19:37:56
+"52","million 1990$","Reference","Africa_Southern",2030,"GDP",301627,2024-02-25 19:37:56
+"53","million 1990$","Reference","Africa_Southern",2035,"GDP",436219,2024-02-25 19:37:56
+"54","million 1990$","Reference","Africa_Southern",2040,"GDP",627758,2024-02-25 19:37:56
+"55","million 1990$","Reference","Africa_Southern",2045,"GDP",892795,2024-02-25 19:37:56
+"56","million 1990$","Reference","Africa_Southern",2050,"GDP",1248580,2024-02-25 19:37:56
+"57","million 1990$","Reference","Africa_Southern",2055,"GDP",1708730,2024-02-25 19:37:56
+"58","million 1990$","Reference","Africa_Southern",2060,"GDP",2282770,2024-02-25 19:37:56
+"59","million 1990$","Reference","Africa_Southern",2065,"GDP",2974420,2024-02-25 19:37:56
+"60","million 1990$","Reference","Africa_Southern",2070,"GDP",3779100,2024-02-25 19:37:56
+"61","million 1990$","Reference","Africa_Southern",2075,"GDP",4685450,2024-02-25 19:37:56
+"62","million 1990$","Reference","Africa_Southern",2080,"GDP",5693230,2024-02-25 19:37:56
+"63","million 1990$","Reference","Africa_Southern",2085,"GDP",6789670,2024-02-25 19:37:56
+"64","million 1990$","Reference","Africa_Southern",2090,"GDP",7959190,2024-02-25 19:37:56
+"65","million 1990$","Reference","Africa_Southern",2095,"GDP",9185950,2024-02-25 19:37:56
+"66","million 1990$","Reference","Africa_Southern",2100,"GDP",10444700,2024-02-25 19:37:56
+"67","million 1990$","Reference","Africa_Western",1975,"GDP",136747,2024-02-25 19:37:56
+"68","million 1990$","Reference","Africa_Western",1990,"GDP",167596,2024-02-25 19:37:56
+"69","million 1990$","Reference","Africa_Western",2005,"GDP",292856,2024-02-25 19:37:56
+"70","million 1990$","Reference","Africa_Western",2010,"GDP",393371,2024-02-25 19:37:56
+"71","million 1990$","Reference","Africa_Western",2015,"GDP",499850,2024-02-25 19:37:56
+"72","million 1990$","Reference","Africa_Western",2020,"GDP",565228,2024-02-25 19:37:56
+"73","million 1990$","Reference","Africa_Western",2025,"GDP",697511,2024-02-25 19:37:56
+"74","million 1990$","Reference","Africa_Western",2030,"GDP",1071620,2024-02-25 19:37:56
+"75","million 1990$","Reference","Africa_Western",2035,"GDP",1662660,2024-02-25 19:37:56
+"76","million 1990$","Reference","Africa_Western",2040,"GDP",2506880,2024-02-25 19:37:56
+"77","million 1990$","Reference","Africa_Western",2045,"GDP",3657810,2024-02-25 19:37:56
+"78","million 1990$","Reference","Africa_Western",2050,"GDP",5169700,2024-02-25 19:37:56
+"79","million 1990$","Reference","Africa_Western",2055,"GDP",7101260,2024-02-25 19:37:56
+"80","million 1990$","Reference","Africa_Western",2060,"GDP",9500560,2024-02-25 19:37:56
+"81","million 1990$","Reference","Africa_Western",2065,"GDP",12391800,2024-02-25 19:37:56
+"82","million 1990$","Reference","Africa_Western",2070,"GDP",15762200,2024-02-25 19:37:56
+"83","million 1990$","Reference","Africa_Western",2075,"GDP",19585600,2024-02-25 19:37:56
+"84","million 1990$","Reference","Africa_Western",2080,"GDP",23863600,2024-02-25 19:37:56
+"85","million 1990$","Reference","Africa_Western",2085,"GDP",28553800,2024-02-25 19:37:56
+"86","million 1990$","Reference","Africa_Western",2090,"GDP",33599800,2024-02-25 19:37:56
+"87","million 1990$","Reference","Africa_Western",2095,"GDP",38946600,2024-02-25 19:37:56
+"88","million 1990$","Reference","Africa_Western",2100,"GDP",44485700,2024-02-25 19:37:56
+"89","million 1990$","Reference","Argentina",1975,"GDP",136953,2024-02-25 19:37:56
+"90","million 1990$","Reference","Argentina",1990,"GDP",129111,2024-02-25 19:37:56
+"91","million 1990$","Reference","Argentina",2005,"GDP",221566,2024-02-25 19:37:56
+"92","million 1990$","Reference","Argentina",2010,"GDP",281343,2024-02-25 19:37:56
+"93","million 1990$","Reference","Argentina",2015,"GDP",302727,2024-02-25 19:37:56
+"94","million 1990$","Reference","Argentina",2020,"GDP",299468,2024-02-25 19:37:56
+"95","million 1990$","Reference","Argentina",2025,"GDP",355995,2024-02-25 19:37:56
+"96","million 1990$","Reference","Argentina",2030,"GDP",440128,2024-02-25 19:37:56
+"97","million 1990$","Reference","Argentina",2035,"GDP",541395,2024-02-25 19:37:56
+"98","million 1990$","Reference","Argentina",2040,"GDP",646581,2024-02-25 19:37:56
+"99","million 1990$","Reference","Argentina",2045,"GDP",750615,2024-02-25 19:37:56
+"100","million 1990$","Reference","Argentina",2050,"GDP",852721,2024-02-25 19:37:56
+"101","million 1990$","Reference","Argentina",2055,"GDP",953904,2024-02-25 19:37:56
+"102","million 1990$","Reference","Argentina",2060,"GDP",1054280,2024-02-25 19:37:56
+"103","million 1990$","Reference","Argentina",2065,"GDP",1153490,2024-02-25 19:37:56
+"104","million 1990$","Reference","Argentina",2070,"GDP",1248480,2024-02-25 19:37:56
+"105","million 1990$","Reference","Argentina",2075,"GDP",1336040,2024-02-25 19:37:56
+"106","million 1990$","Reference","Argentina",2080,"GDP",1420240,2024-02-25 19:37:56
+"107","million 1990$","Reference","Argentina",2085,"GDP",1499740,2024-02-25 19:37:56
+"108","million 1990$","Reference","Argentina",2090,"GDP",1574080,2024-02-25 19:37:56
+"109","million 1990$","Reference","Argentina",2095,"GDP",1642840,2024-02-25 19:37:56
+"110","million 1990$","Reference","Argentina",2100,"GDP",1703420,2024-02-25 19:37:56
+"111","million 1990$","Reference","Australia_NZ",1975,"GDP",295338,2024-02-25 19:37:56
+"112","million 1990$","Reference","Australia_NZ",1990,"GDP",475381,2024-02-25 19:37:56
+"113","million 1990$","Reference","Australia_NZ",2005,"GDP",772867,2024-02-25 19:37:56
+"114","million 1990$","Reference","Australia_NZ",2010,"GDP",882794,2024-02-25 19:37:56
+"115","million 1990$","Reference","Australia_NZ",2015,"GDP",1013760,2024-02-25 19:37:56
+"116","million 1990$","Reference","Australia_NZ",2020,"GDP",1153320,2024-02-25 19:37:56
+"117","million 1990$","Reference","Australia_NZ",2025,"GDP",1324800,2024-02-25 19:37:56
+"118","million 1990$","Reference","Australia_NZ",2030,"GDP",1597910,2024-02-25 19:37:56
+"119","million 1990$","Reference","Australia_NZ",2035,"GDP",1932210,2024-02-25 19:37:56
+"120","million 1990$","Reference","Australia_NZ",2040,"GDP",2318730,2024-02-25 19:37:56
+"121","million 1990$","Reference","Australia_NZ",2045,"GDP",2761760,2024-02-25 19:37:56
+"122","million 1990$","Reference","Australia_NZ",2050,"GDP",3246730,2024-02-25 19:37:56
+"123","million 1990$","Reference","Australia_NZ",2055,"GDP",3783300,2024-02-25 19:37:56
+"124","million 1990$","Reference","Australia_NZ",2060,"GDP",4398420,2024-02-25 19:37:56
+"125","million 1990$","Reference","Australia_NZ",2065,"GDP",5094140,2024-02-25 19:37:56
+"126","million 1990$","Reference","Australia_NZ",2070,"GDP",5871140,2024-02-25 19:37:56
+"127","million 1990$","Reference","Australia_NZ",2075,"GDP",6717720,2024-02-25 19:37:56
+"128","million 1990$","Reference","Australia_NZ",2080,"GDP",7622040,2024-02-25 19:37:56
+"129","million 1990$","Reference","Australia_NZ",2085,"GDP",8577710,2024-02-25 19:37:56
+"130","million 1990$","Reference","Australia_NZ",2090,"GDP",9589430,2024-02-25 19:37:56
+"131","million 1990$","Reference","Australia_NZ",2095,"GDP",10668100,2024-02-25 19:37:56
+"132","million 1990$","Reference","Australia_NZ",2100,"GDP",11825700,2024-02-25 19:37:56
+"133","million 1990$","Reference","Brazil",1975,"GDP",479174,2024-02-25 19:37:56
+"134","million 1990$","Reference","Brazil",1990,"GDP",786901,2024-02-25 19:37:56
+"135","million 1990$","Reference","Brazil",2005,"GDP",1170820,2024-02-25 19:37:56
+"136","million 1990$","Reference","Brazil",2010,"GDP",1457110,2024-02-25 19:37:56
+"137","million 1990$","Reference","Brazil",2015,"GDP",1542290,2024-02-25 19:37:56
+"138","million 1990$","Reference","Brazil",2020,"GDP",1594440,2024-02-25 19:37:56
+"139","million 1990$","Reference","Brazil",2025,"GDP",1806570,2024-02-25 19:37:56
+"140","million 1990$","Reference","Brazil",2030,"GDP",2235880,2024-02-25 19:37:56
+"141","million 1990$","Reference","Brazil",2035,"GDP",2775860,2024-02-25 19:37:56
+"142","million 1990$","Reference","Brazil",2040,"GDP",3380880,2024-02-25 19:37:56
+"143","million 1990$","Reference","Brazil",2045,"GDP",4023880,2024-02-25 19:37:56
+"144","million 1990$","Reference","Brazil",2050,"GDP",4677320,2024-02-25 19:37:56
+"145","million 1990$","Reference","Brazil",2055,"GDP",5343030,2024-02-25 19:37:56
+"146","million 1990$","Reference","Brazil",2060,"GDP",6011860,2024-02-25 19:37:56
+"147","million 1990$","Reference","Brazil",2065,"GDP",6651700,2024-02-25 19:37:56
+"148","million 1990$","Reference","Brazil",2070,"GDP",7254060,2024-02-25 19:37:56
+"149","million 1990$","Reference","Brazil",2075,"GDP",7839080,2024-02-25 19:37:56
+"150","million 1990$","Reference","Brazil",2080,"GDP",8395730,2024-02-25 19:37:56
+"151","million 1990$","Reference","Brazil",2085,"GDP",8915570,2024-02-25 19:37:56
+"152","million 1990$","Reference","Brazil",2090,"GDP",9383710,2024-02-25 19:37:56
+"153","million 1990$","Reference","Brazil",2095,"GDP",9802020,2024-02-25 19:37:56
+"154","million 1990$","Reference","Brazil",2100,"GDP",10159300,2024-02-25 19:37:56
+"155","million 1990$","Reference","Canada",1975,"GDP",426773,2024-02-25 19:37:56
+"156","million 1990$","Reference","Canada",1990,"GDP",668962,2024-02-25 19:37:56
+"157","million 1990$","Reference","Canada",2005,"GDP",1005700,2024-02-25 19:37:56
+"158","million 1990$","Reference","Canada",2010,"GDP",1064370,2024-02-25 19:37:56
+"159","million 1990$","Reference","Canada",2015,"GDP",1189080,2024-02-25 19:37:56
+"160","million 1990$","Reference","Canada",2020,"GDP",1303830,2024-02-25 19:37:56
+"161","million 1990$","Reference","Canada",2025,"GDP",1428890,2024-02-25 19:37:56
+"162","million 1990$","Reference","Canada",2030,"GDP",1671600,2024-02-25 19:37:56
+"163","million 1990$","Reference","Canada",2035,"GDP",1997840,2024-02-25 19:37:56
+"164","million 1990$","Reference","Canada",2040,"GDP",2388990,2024-02-25 19:37:56
+"165","million 1990$","Reference","Canada",2045,"GDP",2831650,2024-02-25 19:37:56
+"166","million 1990$","Reference","Canada",2050,"GDP",3309720,2024-02-25 19:37:56
+"167","million 1990$","Reference","Canada",2055,"GDP",3824790,2024-02-25 19:37:56
+"168","million 1990$","Reference","Canada",2060,"GDP",4398940,2024-02-25 19:37:56
+"169","million 1990$","Reference","Canada",2065,"GDP",5046890,2024-02-25 19:37:56
+"170","million 1990$","Reference","Canada",2070,"GDP",5772070,2024-02-25 19:37:56
+"171","million 1990$","Reference","Canada",2075,"GDP",6567530,2024-02-25 19:37:56
+"172","million 1990$","Reference","Canada",2080,"GDP",7427300,2024-02-25 19:37:56
+"173","million 1990$","Reference","Canada",2085,"GDP",8340270,2024-02-25 19:37:56
+"174","million 1990$","Reference","Canada",2090,"GDP",9307800,2024-02-25 19:37:56
+"175","million 1990$","Reference","Canada",2095,"GDP",10342100,2024-02-25 19:37:56
+"176","million 1990$","Reference","Canada",2100,"GDP",11460400,2024-02-25 19:37:56
+"177","million 1990$","Reference","Central America and Caribbean",1975,"GDP",77055,2024-02-25 19:37:56
+"178","million 1990$","Reference","Central America and Caribbean",1990,"GDP",113765,2024-02-25 19:37:56
+"179","million 1990$","Reference","Central America and Caribbean",2005,"GDP",178918,2024-02-25 19:37:56
+"180","million 1990$","Reference","Central America and Caribbean",2010,"GDP",218884,2024-02-25 19:37:56
+"181","million 1990$","Reference","Central America and Caribbean",2015,"GDP",262055,2024-02-25 19:37:56
+"182","million 1990$","Reference","Central America and Caribbean",2020,"GDP",300444,2024-02-25 19:37:56
+"183","million 1990$","Reference","Central America and Caribbean",2025,"GDP",354151,2024-02-25 19:37:56
+"184","million 1990$","Reference","Central America and Caribbean",2030,"GDP",452330,2024-02-25 19:37:56
+"185","million 1990$","Reference","Central America and Caribbean",2035,"GDP",581471,2024-02-25 19:37:56
+"186","million 1990$","Reference","Central America and Caribbean",2040,"GDP",733648,2024-02-25 19:37:56
+"187","million 1990$","Reference","Central America and Caribbean",2045,"GDP",905996,2024-02-25 19:37:56
+"188","million 1990$","Reference","Central America and Caribbean",2050,"GDP",1092410,2024-02-25 19:37:56
+"189","million 1990$","Reference","Central America and Caribbean",2055,"GDP",1290290,2024-02-25 19:37:56
+"190","million 1990$","Reference","Central America and Caribbean",2060,"GDP",1495820,2024-02-25 19:37:56
+"191","million 1990$","Reference","Central America and Caribbean",2065,"GDP",1707480,2024-02-25 19:37:56
+"192","million 1990$","Reference","Central America and Caribbean",2070,"GDP",1920030,2024-02-25 19:37:56
+"193","million 1990$","Reference","Central America and Caribbean",2075,"GDP",2131510,2024-02-25 19:37:56
+"194","million 1990$","Reference","Central America and Caribbean",2080,"GDP",2348830,2024-02-25 19:37:56
+"195","million 1990$","Reference","Central America and Caribbean",2085,"GDP",2568110,2024-02-25 19:37:56
+"196","million 1990$","Reference","Central America and Caribbean",2090,"GDP",2787210,2024-02-25 19:37:56
+"197","million 1990$","Reference","Central America and Caribbean",2095,"GDP",3004370,2024-02-25 19:37:56
+"198","million 1990$","Reference","Central America and Caribbean",2100,"GDP",3214520,2024-02-25 19:37:56
+"199","million 1990$","Reference","Central Asia",1975,"GDP",82754,2024-02-25 19:37:56
+"200","million 1990$","Reference","Central Asia",1990,"GDP",126205,2024-02-25 19:37:56
+"201","million 1990$","Reference","Central Asia",2005,"GDP",134479,2024-02-25 19:37:56
+"202","million 1990$","Reference","Central Asia",2010,"GDP",198646,2024-02-25 19:37:56
+"203","million 1990$","Reference","Central Asia",2015,"GDP",258609,2024-02-25 19:37:56
+"204","million 1990$","Reference","Central Asia",2020,"GDP",313001,2024-02-25 19:37:56
+"205","million 1990$","Reference","Central Asia",2025,"GDP",390843,2024-02-25 19:37:56
+"206","million 1990$","Reference","Central Asia",2030,"GDP",520789,2024-02-25 19:37:56
+"207","million 1990$","Reference","Central Asia",2035,"GDP",674891,2024-02-25 19:37:56
+"208","million 1990$","Reference","Central Asia",2040,"GDP",833063,2024-02-25 19:37:56
+"209","million 1990$","Reference","Central Asia",2045,"GDP",979575,2024-02-25 19:37:56
+"210","million 1990$","Reference","Central Asia",2050,"GDP",1102030,2024-02-25 19:37:56
+"211","million 1990$","Reference","Central Asia",2055,"GDP",1208130,2024-02-25 19:37:56
+"212","million 1990$","Reference","Central Asia",2060,"GDP",1314360,2024-02-25 19:37:56
+"213","million 1990$","Reference","Central Asia",2065,"GDP",1426880,2024-02-25 19:37:56
+"214","million 1990$","Reference","Central Asia",2070,"GDP",1533200,2024-02-25 19:37:56
+"215","million 1990$","Reference","Central Asia",2075,"GDP",1624360,2024-02-25 19:37:56
+"216","million 1990$","Reference","Central Asia",2080,"GDP",1710800,2024-02-25 19:37:56
+"217","million 1990$","Reference","Central Asia",2085,"GDP",1793670,2024-02-25 19:37:56
+"218","million 1990$","Reference","Central Asia",2090,"GDP",1878140,2024-02-25 19:37:56
+"219","million 1990$","Reference","Central Asia",2095,"GDP",1964610,2024-02-25 19:37:56
+"220","million 1990$","Reference","Central Asia",2100,"GDP",2047200,2024-02-25 19:37:56
+"221","million 1990$","Reference","China",1975,"GDP",182652,2024-02-25 19:37:56
+"222","million 1990$","Reference","China",1990,"GDP",620812,2024-02-25 19:37:56
+"223","million 1990$","Reference","China",2005,"GDP",2490310,2024-02-25 19:37:56
+"224","million 1990$","Reference","China",2010,"GDP",4193840,2024-02-25 19:37:56
+"225","million 1990$","Reference","China",2015,"GDP",6072280,2024-02-25 19:37:56
+"226","million 1990$","Reference","China",2020,"GDP",8275130,2024-02-25 19:37:56
+"227","million 1990$","Reference","China",2025,"GDP",11002100,2024-02-25 19:37:56
+"228","million 1990$","Reference","China",2030,"GDP",15346100,2024-02-25 19:37:56
+"229","million 1990$","Reference","China",2035,"GDP",19973500,2024-02-25 19:37:56
+"230","million 1990$","Reference","China",2040,"GDP",24170400,2024-02-25 19:37:56
+"231","million 1990$","Reference","China",2045,"GDP",27783700,2024-02-25 19:37:56
+"232","million 1990$","Reference","China",2050,"GDP",30559000,2024-02-25 19:37:56
+"233","million 1990$","Reference","China",2055,"GDP",32495400,2024-02-25 19:37:56
+"234","million 1990$","Reference","China",2060,"GDP",33956600,2024-02-25 19:37:56
+"235","million 1990$","Reference","China",2065,"GDP",34998100,2024-02-25 19:37:56
+"236","million 1990$","Reference","China",2070,"GDP",35659900,2024-02-25 19:37:56
+"237","million 1990$","Reference","China",2075,"GDP",35927900,2024-02-25 19:37:56
+"238","million 1990$","Reference","China",2080,"GDP",36059500,2024-02-25 19:37:56
+"239","million 1990$","Reference","China",2085,"GDP",35976500,2024-02-25 19:37:56
+"240","million 1990$","Reference","China",2090,"GDP",35766200,2024-02-25 19:37:56
+"241","million 1990$","Reference","China",2095,"GDP",35436100,2024-02-25 19:37:56
+"242","million 1990$","Reference","China",2100,"GDP",34933600,2024-02-25 19:37:56
+"243","million 1990$","Reference","Colombia",1975,"GDP",52859,2024-02-25 19:37:56
+"244","million 1990$","Reference","Colombia",1990,"GDP",97665,2024-02-25 19:37:56
+"245","million 1990$","Reference","Colombia",2005,"GDP",151684,2024-02-25 19:37:56
+"246","million 1990$","Reference","Colombia",2010,"GDP",189339,2024-02-25 19:37:56
+"247","million 1990$","Reference","Colombia",2015,"GDP",236902,2024-02-25 19:37:56
+"248","million 1990$","Reference","Colombia",2020,"GDP",270036,2024-02-25 19:37:56
+"249","million 1990$","Reference","Colombia",2025,"GDP",324062,2024-02-25 19:37:56
+"250","million 1990$","Reference","Colombia",2030,"GDP",411496,2024-02-25 19:37:56
+"251","million 1990$","Reference","Colombia",2035,"GDP",529137,2024-02-25 19:37:56
+"252","million 1990$","Reference","Colombia",2040,"GDP",667463,2024-02-25 19:37:56
+"253","million 1990$","Reference","Colombia",2045,"GDP",821442,2024-02-25 19:37:56
+"254","million 1990$","Reference","Colombia",2050,"GDP",987244,2024-02-25 19:37:56
+"255","million 1990$","Reference","Colombia",2055,"GDP",1163170,2024-02-25 19:37:56
+"256","million 1990$","Reference","Colombia",2060,"GDP",1346810,2024-02-25 19:37:56
+"257","million 1990$","Reference","Colombia",2065,"GDP",1535600,2024-02-25 19:37:56
+"258","million 1990$","Reference","Colombia",2070,"GDP",1724440,2024-02-25 19:37:56
+"259","million 1990$","Reference","Colombia",2075,"GDP",1909310,2024-02-25 19:37:56
+"260","million 1990$","Reference","Colombia",2080,"GDP",2093980,2024-02-25 19:37:56
+"261","million 1990$","Reference","Colombia",2085,"GDP",2275020,2024-02-25 19:37:56
+"262","million 1990$","Reference","Colombia",2090,"GDP",2446820,2024-02-25 19:37:56
+"263","million 1990$","Reference","Colombia",2095,"GDP",2606800,2024-02-25 19:37:56
+"264","million 1990$","Reference","Colombia",2100,"GDP",2750270,2024-02-25 19:37:56
+"265","million 1990$","Reference","EU-12",1975,"GDP",351442,2024-02-25 19:37:56
+"266","million 1990$","Reference","EU-12",1990,"GDP",529361,2024-02-25 19:37:56
+"267","million 1990$","Reference","EU-12",2005,"GDP",731723,2024-02-25 19:37:56
+"268","million 1990$","Reference","EU-12",2010,"GDP",849136,2024-02-25 19:37:56
+"269","million 1990$","Reference","EU-12",2015,"GDP",958313,2024-02-25 19:37:56
+"270","million 1990$","Reference","EU-12",2020,"GDP",1152440,2024-02-25 19:37:56
+"271","million 1990$","Reference","EU-12",2025,"GDP",1325500,2024-02-25 19:37:56
+"272","million 1990$","Reference","EU-12",2030,"GDP",1583900,2024-02-25 19:37:56
+"273","million 1990$","Reference","EU-12",2035,"GDP",1872400,2024-02-25 19:37:56
+"274","million 1990$","Reference","EU-12",2040,"GDP",2159940,2024-02-25 19:37:56
+"275","million 1990$","Reference","EU-12",2045,"GDP",2436660,2024-02-25 19:37:56
+"276","million 1990$","Reference","EU-12",2050,"GDP",2709900,2024-02-25 19:37:56
+"277","million 1990$","Reference","EU-12",2055,"GDP",2990090,2024-02-25 19:37:56
+"278","million 1990$","Reference","EU-12",2060,"GDP",3300670,2024-02-25 19:37:56
+"279","million 1990$","Reference","EU-12",2065,"GDP",3645570,2024-02-25 19:37:56
+"280","million 1990$","Reference","EU-12",2070,"GDP",4013210,2024-02-25 19:37:56
+"281","million 1990$","Reference","EU-12",2075,"GDP",4389320,2024-02-25 19:37:56
+"282","million 1990$","Reference","EU-12",2080,"GDP",4775480,2024-02-25 19:37:56
+"283","million 1990$","Reference","EU-12",2085,"GDP",5174030,2024-02-25 19:37:56
+"284","million 1990$","Reference","EU-12",2090,"GDP",5590610,2024-02-25 19:37:56
+"285","million 1990$","Reference","EU-12",2095,"GDP",6037600,2024-02-25 19:37:56
+"286","million 1990$","Reference","EU-12",2100,"GDP",6521990,2024-02-25 19:37:56
+"287","million 1990$","Reference","EU-15",1975,"GDP",4711010,2024-02-25 19:37:56
+"288","million 1990$","Reference","EU-15",1990,"GDP",7288400,2024-02-25 19:37:56
+"289","million 1990$","Reference","EU-15",2005,"GDP",9949180,2024-02-25 19:37:56
+"290","million 1990$","Reference","EU-15",2010,"GDP",10317600,2024-02-25 19:37:56
+"291","million 1990$","Reference","EU-15",2015,"GDP",10847300,2024-02-25 19:37:56
+"292","million 1990$","Reference","EU-15",2020,"GDP",11824000,2024-02-25 19:37:56
+"293","million 1990$","Reference","EU-15",2025,"GDP",12785100,2024-02-25 19:37:56
+"294","million 1990$","Reference","EU-15",2030,"GDP",14516700,2024-02-25 19:37:56
+"295","million 1990$","Reference","EU-15",2035,"GDP",16658200,2024-02-25 19:37:56
+"296","million 1990$","Reference","EU-15",2040,"GDP",19113800,2024-02-25 19:37:56
+"297","million 1990$","Reference","EU-15",2045,"GDP",21850200,2024-02-25 19:37:56
+"298","million 1990$","Reference","EU-15",2050,"GDP",24842700,2024-02-25 19:37:56
+"299","million 1990$","Reference","EU-15",2055,"GDP",28181000,2024-02-25 19:37:56
+"300","million 1990$","Reference","EU-15",2060,"GDP",32008700,2024-02-25 19:37:56
+"301","million 1990$","Reference","EU-15",2065,"GDP",36328600,2024-02-25 19:37:56
+"302","million 1990$","Reference","EU-15",2070,"GDP",41122400,2024-02-25 19:37:56
+"303","million 1990$","Reference","EU-15",2075,"GDP",46369800,2024-02-25 19:37:56
+"304","million 1990$","Reference","EU-15",2080,"GDP",52082700,2024-02-25 19:37:56
+"305","million 1990$","Reference","EU-15",2085,"GDP",58243700,2024-02-25 19:37:56
+"306","million 1990$","Reference","EU-15",2090,"GDP",64892300,2024-02-25 19:37:56
+"307","million 1990$","Reference","EU-15",2095,"GDP",72086800,2024-02-25 19:37:56
+"308","million 1990$","Reference","EU-15",2100,"GDP",79913400,2024-02-25 19:37:56
+"309","million 1990$","Reference","Europe_Eastern",1975,"GDP",108569,2024-02-25 19:37:56
+"310","million 1990$","Reference","Europe_Eastern",1990,"GDP",163162,2024-02-25 19:37:56
+"311","million 1990$","Reference","Europe_Eastern",2005,"GDP",115143,2024-02-25 19:37:56
+"312","million 1990$","Reference","Europe_Eastern",2010,"GDP",131294,2024-02-25 19:37:56
+"313","million 1990$","Reference","Europe_Eastern",2015,"GDP",124640,2024-02-25 19:37:56
+"314","million 1990$","Reference","Europe_Eastern",2020,"GDP",140321,2024-02-25 19:37:56
+"315","million 1990$","Reference","Europe_Eastern",2025,"GDP",164244,2024-02-25 19:37:56
+"316","million 1990$","Reference","Europe_Eastern",2030,"GDP",213932,2024-02-25 19:37:56
+"317","million 1990$","Reference","Europe_Eastern",2035,"GDP",275715,2024-02-25 19:37:56
+"318","million 1990$","Reference","Europe_Eastern",2040,"GDP",340910,2024-02-25 19:37:56
+"319","million 1990$","Reference","Europe_Eastern",2045,"GDP",405469,2024-02-25 19:37:56
+"320","million 1990$","Reference","Europe_Eastern",2050,"GDP",467523,2024-02-25 19:37:56
+"321","million 1990$","Reference","Europe_Eastern",2055,"GDP",530530,2024-02-25 19:37:56
+"322","million 1990$","Reference","Europe_Eastern",2060,"GDP",597601,2024-02-25 19:37:56
+"323","million 1990$","Reference","Europe_Eastern",2065,"GDP",665450,2024-02-25 19:37:56
+"324","million 1990$","Reference","Europe_Eastern",2070,"GDP",728385,2024-02-25 19:37:56
+"325","million 1990$","Reference","Europe_Eastern",2075,"GDP",782550,2024-02-25 19:37:56
+"326","million 1990$","Reference","Europe_Eastern",2080,"GDP",831212,2024-02-25 19:37:56
+"327","million 1990$","Reference","Europe_Eastern",2085,"GDP",876410,2024-02-25 19:37:56
+"328","million 1990$","Reference","Europe_Eastern",2090,"GDP",919141,2024-02-25 19:37:56
+"329","million 1990$","Reference","Europe_Eastern",2095,"GDP",958862,2024-02-25 19:37:56
+"330","million 1990$","Reference","Europe_Eastern",2100,"GDP",991333,2024-02-25 19:37:56
+"331","million 1990$","Reference","Europe_Non_EU",1975,"GDP",164035,2024-02-25 19:37:56
+"332","million 1990$","Reference","Europe_Non_EU",1990,"GDP",324529,2024-02-25 19:37:56
+"333","million 1990$","Reference","Europe_Non_EU",2005,"GDP",516687,2024-02-25 19:37:56
+"334","million 1990$","Reference","Europe_Non_EU",2010,"GDP",600092,2024-02-25 19:37:56
+"335","million 1990$","Reference","Europe_Non_EU",2015,"GDP",810903,2024-02-25 19:37:56
+"336","million 1990$","Reference","Europe_Non_EU",2020,"GDP",924205,2024-02-25 19:37:56
+"337","million 1990$","Reference","Europe_Non_EU",2025,"GDP",1089330,2024-02-25 19:37:56
+"338","million 1990$","Reference","Europe_Non_EU",2030,"GDP",1340610,2024-02-25 19:37:56
+"339","million 1990$","Reference","Europe_Non_EU",2035,"GDP",1638050,2024-02-25 19:37:56
+"340","million 1990$","Reference","Europe_Non_EU",2040,"GDP",1961060,2024-02-25 19:37:56
+"341","million 1990$","Reference","Europe_Non_EU",2045,"GDP",2293750,2024-02-25 19:37:56
+"342","million 1990$","Reference","Europe_Non_EU",2050,"GDP",2623890,2024-02-25 19:37:56
+"343","million 1990$","Reference","Europe_Non_EU",2055,"GDP",2956240,2024-02-25 19:37:56
+"344","million 1990$","Reference","Europe_Non_EU",2060,"GDP",3289540,2024-02-25 19:37:56
+"345","million 1990$","Reference","Europe_Non_EU",2065,"GDP",3618450,2024-02-25 19:37:56
+"346","million 1990$","Reference","Europe_Non_EU",2070,"GDP",3932550,2024-02-25 19:37:56
+"347","million 1990$","Reference","Europe_Non_EU",2075,"GDP",4223080,2024-02-25 19:37:56
+"348","million 1990$","Reference","Europe_Non_EU",2080,"GDP",4500390,2024-02-25 19:37:56
+"349","million 1990$","Reference","Europe_Non_EU",2085,"GDP",4767260,2024-02-25 19:37:56
+"350","million 1990$","Reference","Europe_Non_EU",2090,"GDP",5024060,2024-02-25 19:37:56
+"351","million 1990$","Reference","Europe_Non_EU",2095,"GDP",5270030,2024-02-25 19:37:56
+"352","million 1990$","Reference","Europe_Non_EU",2100,"GDP",5486280,2024-02-25 19:37:56
+"353","million 1990$","Reference","European Free Trade Association",1975,"GDP",309556,2024-02-25 19:37:56
+"354","million 1990$","Reference","European Free Trade Association",1990,"GDP",458899,2024-02-25 19:37:56
+"355","million 1990$","Reference","European Free Trade Association",2005,"GDP",623971,2024-02-25 19:37:56
+"356","million 1990$","Reference","European Free Trade Association",2010,"GDP",676971,2024-02-25 19:37:56
+"357","million 1990$","Reference","European Free Trade Association",2015,"GDP",736409,2024-02-25 19:37:56
+"358","million 1990$","Reference","European Free Trade Association",2020,"GDP",801835,2024-02-25 19:37:56
+"359","million 1990$","Reference","European Free Trade Association",2025,"GDP",877700,2024-02-25 19:37:56
+"360","million 1990$","Reference","European Free Trade Association",2030,"GDP",1014580,2024-02-25 19:37:56
+"361","million 1990$","Reference","European Free Trade Association",2035,"GDP",1178090,2024-02-25 19:37:56
+"362","million 1990$","Reference","European Free Trade Association",2040,"GDP",1356460,2024-02-25 19:37:56
+"363","million 1990$","Reference","European Free Trade Association",2045,"GDP",1551700,2024-02-25 19:37:56
+"364","million 1990$","Reference","European Free Trade Association",2050,"GDP",1770270,2024-02-25 19:37:56
+"365","million 1990$","Reference","European Free Trade Association",2055,"GDP",2018180,2024-02-25 19:37:56
+"366","million 1990$","Reference","European Free Trade Association",2060,"GDP",2299700,2024-02-25 19:37:56
+"367","million 1990$","Reference","European Free Trade Association",2065,"GDP",2617690,2024-02-25 19:37:56
+"368","million 1990$","Reference","European Free Trade Association",2070,"GDP",2974380,2024-02-25 19:37:56
+"369","million 1990$","Reference","European Free Trade Association",2075,"GDP",3368090,2024-02-25 19:37:56
+"370","million 1990$","Reference","European Free Trade Association",2080,"GDP",3796660,2024-02-25 19:37:56
+"371","million 1990$","Reference","European Free Trade Association",2085,"GDP",4255640,2024-02-25 19:37:56
+"372","million 1990$","Reference","European Free Trade Association",2090,"GDP",4745210,2024-02-25 19:37:56
+"373","million 1990$","Reference","European Free Trade Association",2095,"GDP",5268950,2024-02-25 19:37:56
+"374","million 1990$","Reference","European Free Trade Association",2100,"GDP",5836780,2024-02-25 19:37:56
+"375","million 1990$","Reference","India",1975,"GDP",157355,2024-02-25 19:37:56
+"376","million 1990$","Reference","India",1990,"GDP",306659,2024-02-25 19:37:56
+"377","million 1990$","Reference","India",2005,"GDP",730410,2024-02-25 19:37:56
+"378","million 1990$","Reference","India",2010,"GDP",1088920,2024-02-25 19:37:56
+"379","million 1990$","Reference","India",2015,"GDP",1513410,2024-02-25 19:37:56
+"380","million 1990$","Reference","India",2020,"GDP",2165300,2024-02-25 19:37:56
+"381","million 1990$","Reference","India",2025,"GDP",3105080,2024-02-25 19:37:56
+"382","million 1990$","Reference","India",2030,"GDP",4490320,2024-02-25 19:37:56
+"383","million 1990$","Reference","India",2035,"GDP",6406620,2024-02-25 19:37:56
+"384","million 1990$","Reference","India",2040,"GDP",8766040,2024-02-25 19:37:56
+"385","million 1990$","Reference","India",2045,"GDP",11499200,2024-02-25 19:37:56
+"386","million 1990$","Reference","India",2050,"GDP",14501100,2024-02-25 19:37:56
+"387","million 1990$","Reference","India",2055,"GDP",17735000,2024-02-25 19:37:56
+"388","million 1990$","Reference","India",2060,"GDP",21140300,2024-02-25 19:37:56
+"389","million 1990$","Reference","India",2065,"GDP",24622900,2024-02-25 19:37:56
+"390","million 1990$","Reference","India",2070,"GDP",28046400,2024-02-25 19:37:56
+"391","million 1990$","Reference","India",2075,"GDP",31320300,2024-02-25 19:37:56
+"392","million 1990$","Reference","India",2080,"GDP",34482800,2024-02-25 19:37:56
+"393","million 1990$","Reference","India",2085,"GDP",37489900,2024-02-25 19:37:56
+"394","million 1990$","Reference","India",2090,"GDP",40287300,2024-02-25 19:37:56
+"395","million 1990$","Reference","India",2095,"GDP",42847400,2024-02-25 19:37:56
+"396","million 1990$","Reference","India",2100,"GDP",45110200,2024-02-25 19:37:56
+"397","million 1990$","Reference","Indonesia",1975,"GDP",68394,2024-02-25 19:37:56
+"398","million 1990$","Reference","Indonesia",1990,"GDP",204381,2024-02-25 19:37:56
+"399","million 1990$","Reference","Indonesia",2005,"GDP",376810,2024-02-25 19:37:56
+"400","million 1990$","Reference","Indonesia",2010,"GDP",498117,2024-02-25 19:37:56
+"401","million 1990$","Reference","Indonesia",2015,"GDP",651844,2024-02-25 19:37:56
+"402","million 1990$","Reference","Indonesia",2020,"GDP",837337,2024-02-25 19:37:56
+"403","million 1990$","Reference","Indonesia",2025,"GDP",1096630,2024-02-25 19:37:56
+"404","million 1990$","Reference","Indonesia",2030,"GDP",1598500,2024-02-25 19:37:56
+"405","million 1990$","Reference","Indonesia",2035,"GDP",2281910,2024-02-25 19:37:56
+"406","million 1990$","Reference","Indonesia",2040,"GDP",3098070,2024-02-25 19:37:56
+"407","million 1990$","Reference","Indonesia",2045,"GDP",3997550,2024-02-25 19:37:56
+"408","million 1990$","Reference","Indonesia",2050,"GDP",4941230,2024-02-25 19:37:56
+"409","million 1990$","Reference","Indonesia",2055,"GDP",5913520,2024-02-25 19:37:56
+"410","million 1990$","Reference","Indonesia",2060,"GDP",6892470,2024-02-25 19:37:56
+"411","million 1990$","Reference","Indonesia",2065,"GDP",7850700,2024-02-25 19:37:56
+"412","million 1990$","Reference","Indonesia",2070,"GDP",8748270,2024-02-25 19:37:56
+"413","million 1990$","Reference","Indonesia",2075,"GDP",9582320,2024-02-25 19:37:56
+"414","million 1990$","Reference","Indonesia",2080,"GDP",10364700,2024-02-25 19:37:56
+"415","million 1990$","Reference","Indonesia",2085,"GDP",11091500,2024-02-25 19:37:56
+"416","million 1990$","Reference","Indonesia",2090,"GDP",11763400,2024-02-25 19:37:56
+"417","million 1990$","Reference","Indonesia",2095,"GDP",12380200,2024-02-25 19:37:56
+"418","million 1990$","Reference","Indonesia",2100,"GDP",12929700,2024-02-25 19:37:56
+"419","million 1990$","Reference","Japan",1975,"GDP",1539700,2024-02-25 19:37:56
+"420","million 1990$","Reference","Japan",1990,"GDP",3102790,2024-02-25 19:37:56
+"421","million 1990$","Reference","Japan",2005,"GDP",3741800,2024-02-25 19:37:56
+"422","million 1990$","Reference","Japan",2010,"GDP",3760140,2024-02-25 19:37:56
+"423","million 1990$","Reference","Japan",2015,"GDP",3955610,2024-02-25 19:37:56
+"424","million 1990$","Reference","Japan",2020,"GDP",4147900,2024-02-25 19:37:56
+"425","million 1990$","Reference","Japan",2025,"GDP",4310050,2024-02-25 19:37:56
+"426","million 1990$","Reference","Japan",2030,"GDP",4820050,2024-02-25 19:37:56
+"427","million 1990$","Reference","Japan",2035,"GDP",5411270,2024-02-25 19:37:56
+"428","million 1990$","Reference","Japan",2040,"GDP",6003800,2024-02-25 19:37:56
+"429","million 1990$","Reference","Japan",2045,"GDP",6640660,2024-02-25 19:37:56
+"430","million 1990$","Reference","Japan",2050,"GDP",7306710,2024-02-25 19:37:56
+"431","million 1990$","Reference","Japan",2055,"GDP",8032970,2024-02-25 19:37:56
+"432","million 1990$","Reference","Japan",2060,"GDP",8817840,2024-02-25 19:37:56
+"433","million 1990$","Reference","Japan",2065,"GDP",9640140,2024-02-25 19:37:56
+"434","million 1990$","Reference","Japan",2070,"GDP",10503600,2024-02-25 19:37:56
+"435","million 1990$","Reference","Japan",2075,"GDP",11401800,2024-02-25 19:37:56
+"436","million 1990$","Reference","Japan",2080,"GDP",12325100,2024-02-25 19:37:56
+"437","million 1990$","Reference","Japan",2085,"GDP",13285000,2024-02-25 19:37:56
+"438","million 1990$","Reference","Japan",2090,"GDP",14287400,2024-02-25 19:37:56
+"439","million 1990$","Reference","Japan",2095,"GDP",15333300,2024-02-25 19:37:56
+"440","million 1990$","Reference","Japan",2100,"GDP",16436900,2024-02-25 19:37:56
+"441","million 1990$","Reference","Mexico",1975,"GDP",242424,2024-02-25 19:37:56
+"442","million 1990$","Reference","Mexico",1990,"GDP",337810,2024-02-25 19:37:56
+"443","million 1990$","Reference","Mexico",2005,"GDP",648288,2024-02-25 19:37:56
+"444","million 1990$","Reference","Mexico",2010,"GDP",697805,2024-02-25 19:37:56
+"445","million 1990$","Reference","Mexico",2015,"GDP",807043,2024-02-25 19:37:56
+"446","million 1990$","Reference","Mexico",2020,"GDP",895798,2024-02-25 19:37:56
+"447","million 1990$","Reference","Mexico",2025,"GDP",1026180,2024-02-25 19:37:56
+"448","million 1990$","Reference","Mexico",2030,"GDP",1255520,2024-02-25 19:37:56
+"449","million 1990$","Reference","Mexico",2035,"GDP",1548000,2024-02-25 19:37:56
+"450","million 1990$","Reference","Mexico",2040,"GDP",1869620,2024-02-25 19:37:56
+"451","million 1990$","Reference","Mexico",2045,"GDP",2213630,2024-02-25 19:37:56
+"452","million 1990$","Reference","Mexico",2050,"GDP",2577560,2024-02-25 19:37:56
+"453","million 1990$","Reference","Mexico",2055,"GDP",2954470,2024-02-25 19:37:56
+"454","million 1990$","Reference","Mexico",2060,"GDP",3334370,2024-02-25 19:37:56
+"455","million 1990$","Reference","Mexico",2065,"GDP",3722810,2024-02-25 19:37:56
+"456","million 1990$","Reference","Mexico",2070,"GDP",4106360,2024-02-25 19:37:56
+"457","million 1990$","Reference","Mexico",2075,"GDP",4486220,2024-02-25 19:37:56
+"458","million 1990$","Reference","Mexico",2080,"GDP",4870730,2024-02-25 19:37:56
+"459","million 1990$","Reference","Mexico",2085,"GDP",5251360,2024-02-25 19:37:56
+"460","million 1990$","Reference","Mexico",2090,"GDP",5625200,2024-02-25 19:37:56
+"461","million 1990$","Reference","Mexico",2095,"GDP",5988640,2024-02-25 19:37:56
+"462","million 1990$","Reference","Mexico",2100,"GDP",6323990,2024-02-25 19:37:56
+"463","million 1990$","Reference","Middle East",1975,"GDP",396427,2024-02-25 19:37:56
+"464","million 1990$","Reference","Middle East",1990,"GDP",643521,2024-02-25 19:37:56
+"465","million 1990$","Reference","Middle East",2005,"GDP",1162480,2024-02-25 19:37:56
+"466","million 1990$","Reference","Middle East",2010,"GDP",1426150,2024-02-25 19:37:56
+"467","million 1990$","Reference","Middle East",2015,"GDP",1668130,2024-02-25 19:37:56
+"468","million 1990$","Reference","Middle East",2020,"GDP",1845010,2024-02-25 19:37:56
+"469","million 1990$","Reference","Middle East",2025,"GDP",2107270,2024-02-25 19:37:56
+"470","million 1990$","Reference","Middle East",2030,"GDP",2715960,2024-02-25 19:37:56
+"471","million 1990$","Reference","Middle East",2035,"GDP",3490430,2024-02-25 19:37:56
+"472","million 1990$","Reference","Middle East",2040,"GDP",4367120,2024-02-25 19:37:56
+"473","million 1990$","Reference","Middle East",2045,"GDP",5289750,2024-02-25 19:37:56
+"474","million 1990$","Reference","Middle East",2050,"GDP",6213320,2024-02-25 19:37:56
+"475","million 1990$","Reference","Middle East",2055,"GDP",7151930,2024-02-25 19:37:56
+"476","million 1990$","Reference","Middle East",2060,"GDP",8138320,2024-02-25 19:37:56
+"477","million 1990$","Reference","Middle East",2065,"GDP",9171600,2024-02-25 19:37:56
+"478","million 1990$","Reference","Middle East",2070,"GDP",10207600,2024-02-25 19:37:56
+"479","million 1990$","Reference","Middle East",2075,"GDP",11238400,2024-02-25 19:37:56
+"480","million 1990$","Reference","Middle East",2080,"GDP",12300000,2024-02-25 19:37:56
+"481","million 1990$","Reference","Middle East",2085,"GDP",13391700,2024-02-25 19:37:56
+"482","million 1990$","Reference","Middle East",2090,"GDP",14516000,2024-02-25 19:37:56
+"483","million 1990$","Reference","Middle East",2095,"GDP",15659000,2024-02-25 19:37:56
+"484","million 1990$","Reference","Middle East",2100,"GDP",16782700,2024-02-25 19:37:56
+"485","million 1990$","Reference","Pakistan",1975,"GDP",21183,2024-02-25 19:37:56
+"486","million 1990$","Reference","Pakistan",1990,"GDP",51831,2024-02-25 19:37:56
+"487","million 1990$","Reference","Pakistan",2005,"GDP",97328,2024-02-25 19:37:56
+"488","million 1990$","Reference","Pakistan",2010,"GDP",115119,2024-02-25 19:37:56
+"489","million 1990$","Reference","Pakistan",2015,"GDP",140118,2024-02-25 19:37:56
+"490","million 1990$","Reference","Pakistan",2020,"GDP",171875,2024-02-25 19:37:56
+"491","million 1990$","Reference","Pakistan",2025,"GDP",200400,2024-02-25 19:37:56
+"492","million 1990$","Reference","Pakistan",2030,"GDP",277768,2024-02-25 19:37:56
+"493","million 1990$","Reference","Pakistan",2035,"GDP",395130,2024-02-25 19:37:56
+"494","million 1990$","Reference","Pakistan",2040,"GDP",554683,2024-02-25 19:37:56
+"495","million 1990$","Reference","Pakistan",2045,"GDP",758757,2024-02-25 19:37:56
+"496","million 1990$","Reference","Pakistan",2050,"GDP",1004980,2024-02-25 19:37:56
+"497","million 1990$","Reference","Pakistan",2055,"GDP",1292560,2024-02-25 19:37:56
+"498","million 1990$","Reference","Pakistan",2060,"GDP",1619240,2024-02-25 19:37:56
+"499","million 1990$","Reference","Pakistan",2065,"GDP",1982260,2024-02-25 19:37:56
+"500","million 1990$","Reference","Pakistan",2070,"GDP",2377230,2024-02-25 19:37:56
+"501","million 1990$","Reference","Pakistan",2075,"GDP",2789600,2024-02-25 19:37:56
+"502","million 1990$","Reference","Pakistan",2080,"GDP",3216460,2024-02-25 19:37:56
+"503","million 1990$","Reference","Pakistan",2085,"GDP",3652100,2024-02-25 19:37:56
+"504","million 1990$","Reference","Pakistan",2090,"GDP",4094420,2024-02-25 19:37:56
+"505","million 1990$","Reference","Pakistan",2095,"GDP",4544060,2024-02-25 19:37:56
+"506","million 1990$","Reference","Pakistan",2100,"GDP",4991830,2024-02-25 19:37:56
+"507","million 1990$","Reference","Russia",1975,"GDP",652340,2024-02-25 19:37:56
+"508","million 1990$","Reference","Russia",1990,"GDP",932707,2024-02-25 19:37:56
+"509","million 1990$","Reference","Russia",2005,"GDP",845254,2024-02-25 19:37:56
+"510","million 1990$","Reference","Russia",2010,"GDP",1005950,2024-02-25 19:37:56
+"511","million 1990$","Reference","Russia",2015,"GDP",1093850,2024-02-25 19:37:56
+"512","million 1990$","Reference","Russia",2020,"GDP",1179500,2024-02-25 19:37:56
+"513","million 1990$","Reference","Russia",2025,"GDP",1311370,2024-02-25 19:37:56
+"514","million 1990$","Reference","Russia",2030,"GDP",1669340,2024-02-25 19:37:56
+"515","million 1990$","Reference","Russia",2035,"GDP",2086700,2024-02-25 19:37:56
+"516","million 1990$","Reference","Russia",2040,"GDP",2486320,2024-02-25 19:37:56
+"517","million 1990$","Reference","Russia",2045,"GDP",2827080,2024-02-25 19:37:56
+"518","million 1990$","Reference","Russia",2050,"GDP",3100620,2024-02-25 19:37:56
+"519","million 1990$","Reference","Russia",2055,"GDP",3351520,2024-02-25 19:37:56
+"520","million 1990$","Reference","Russia",2060,"GDP",3632700,2024-02-25 19:37:56
+"521","million 1990$","Reference","Russia",2065,"GDP",3921120,2024-02-25 19:37:56
+"522","million 1990$","Reference","Russia",2070,"GDP",4179650,2024-02-25 19:37:56
+"523","million 1990$","Reference","Russia",2075,"GDP",4390590,2024-02-25 19:37:56
+"524","million 1990$","Reference","Russia",2080,"GDP",4577880,2024-02-25 19:37:56
+"525","million 1990$","Reference","Russia",2085,"GDP",4762230,2024-02-25 19:37:56
+"526","million 1990$","Reference","Russia",2090,"GDP",4950210,2024-02-25 19:37:56
+"527","million 1990$","Reference","Russia",2095,"GDP",5135440,2024-02-25 19:37:56
+"528","million 1990$","Reference","Russia",2100,"GDP",5287860,2024-02-25 19:37:56
+"529","million 1990$","Reference","South Africa",1975,"GDP",104957,2024-02-25 19:37:56
+"530","million 1990$","Reference","South Africa",1990,"GDP",147056,2024-02-25 19:37:56
+"531","million 1990$","Reference","South Africa",2005,"GDP",212566,2024-02-25 19:37:56
+"532","million 1990$","Reference","South Africa",2010,"GDP",247608,2024-02-25 19:37:56
+"533","million 1990$","Reference","South Africa",2015,"GDP",276336,2024-02-25 19:37:56
+"534","million 1990$","Reference","South Africa",2020,"GDP",291286,2024-02-25 19:37:56
+"535","million 1990$","Reference","South Africa",2025,"GDP",326652,2024-02-25 19:37:56
+"536","million 1990$","Reference","South Africa",2030,"GDP",415957,2024-02-25 19:37:56
+"537","million 1990$","Reference","South Africa",2035,"GDP",526672,2024-02-25 19:37:56
+"538","million 1990$","Reference","South Africa",2040,"GDP",652176,2024-02-25 19:37:56
+"539","million 1990$","Reference","South Africa",2045,"GDP",787393,2024-02-25 19:37:56
+"540","million 1990$","Reference","South Africa",2050,"GDP",927027,2024-02-25 19:37:56
+"541","million 1990$","Reference","South Africa",2055,"GDP",1070270,2024-02-25 19:37:56
+"542","million 1990$","Reference","South Africa",2060,"GDP",1217330,2024-02-25 19:37:56
+"543","million 1990$","Reference","South Africa",2065,"GDP",1361230,2024-02-25 19:37:56
+"544","million 1990$","Reference","South Africa",2070,"GDP",1495470,2024-02-25 19:37:56
+"545","million 1990$","Reference","South Africa",2075,"GDP",1619740,2024-02-25 19:37:56
+"546","million 1990$","Reference","South Africa",2080,"GDP",1734250,2024-02-25 19:37:56
+"547","million 1990$","Reference","South Africa",2085,"GDP",1838110,2024-02-25 19:37:56
+"548","million 1990$","Reference","South Africa",2090,"GDP",1932740,2024-02-25 19:37:56
+"549","million 1990$","Reference","South Africa",2095,"GDP",2018100,2024-02-25 19:37:56
+"550","million 1990$","Reference","South Africa",2100,"GDP",2092370,2024-02-25 19:37:56
+"551","million 1990$","Reference","South America_Northern",1975,"GDP",129655,2024-02-25 19:37:56
+"552","million 1990$","Reference","South America_Northern",1990,"GDP",118067,2024-02-25 19:37:56
+"553","million 1990$","Reference","South America_Northern",2005,"GDP",164925,2024-02-25 19:37:56
+"554","million 1990$","Reference","South America_Northern",2010,"GDP",197957,2024-02-25 19:37:56
+"555","million 1990$","Reference","South America_Northern",2015,"GDP",200478,2024-02-25 19:37:56
+"556","million 1990$","Reference","South America_Northern",2020,"GDP",81659,2024-02-25 19:37:56
+"557","million 1990$","Reference","South America_Northern",2025,"GDP",80625,2024-02-25 19:37:56
+"558","million 1990$","Reference","South America_Northern",2030,"GDP",100460,2024-02-25 19:37:56
+"559","million 1990$","Reference","South America_Northern",2035,"GDP",126919,2024-02-25 19:37:56
+"560","million 1990$","Reference","South America_Northern",2040,"GDP",157703,2024-02-25 19:37:56
+"561","million 1990$","Reference","South America_Northern",2045,"GDP",192536,2024-02-25 19:37:56
+"562","million 1990$","Reference","South America_Northern",2050,"GDP",230367,2024-02-25 19:37:56
+"563","million 1990$","Reference","South America_Northern",2055,"GDP",270923,2024-02-25 19:37:56
+"564","million 1990$","Reference","South America_Northern",2060,"GDP",313602,2024-02-25 19:37:56
+"565","million 1990$","Reference","South America_Northern",2065,"GDP",356705,2024-02-25 19:37:56
+"566","million 1990$","Reference","South America_Northern",2070,"GDP",398589,2024-02-25 19:37:56
+"567","million 1990$","Reference","South America_Northern",2075,"GDP",438593,2024-02-25 19:37:56
+"568","million 1990$","Reference","South America_Northern",2080,"GDP",477879,2024-02-25 19:37:56
+"569","million 1990$","Reference","South America_Northern",2085,"GDP",515749,2024-02-25 19:37:56
+"570","million 1990$","Reference","South America_Northern",2090,"GDP",550928,2024-02-25 19:37:56
+"571","million 1990$","Reference","South America_Northern",2095,"GDP",582867,2024-02-25 19:37:56
+"572","million 1990$","Reference","South America_Northern",2100,"GDP",610710,2024-02-25 19:37:56
+"573","million 1990$","Reference","South America_Southern",1975,"GDP",97808,2024-02-25 19:37:56
+"574","million 1990$","Reference","South America_Southern",1990,"GDP",143309,2024-02-25 19:37:56
+"575","million 1990$","Reference","South America_Southern",2005,"GDP",269065,2024-02-25 19:37:56
+"576","million 1990$","Reference","South America_Southern",2010,"GDP",340130,2024-02-25 19:37:56
+"577","million 1990$","Reference","South America_Southern",2015,"GDP",419481,2024-02-25 19:37:56
+"578","million 1990$","Reference","South America_Southern",2020,"GDP",481164,2024-02-25 19:37:56
+"579","million 1990$","Reference","South America_Southern",2025,"GDP",570595,2024-02-25 19:37:56
+"580","million 1990$","Reference","South America_Southern",2030,"GDP",731230,2024-02-25 19:37:56
+"581","million 1990$","Reference","South America_Southern",2035,"GDP",928662,2024-02-25 19:37:56
+"582","million 1990$","Reference","South America_Southern",2040,"GDP",1147000,2024-02-25 19:37:56
+"583","million 1990$","Reference","South America_Southern",2045,"GDP",1378810,2024-02-25 19:37:56
+"584","million 1990$","Reference","South America_Southern",2050,"GDP",1615400,2024-02-25 19:37:56
+"585","million 1990$","Reference","South America_Southern",2055,"GDP",1854600,2024-02-25 19:37:56
+"586","million 1990$","Reference","South America_Southern",2060,"GDP",2093690,2024-02-25 19:37:56
+"587","million 1990$","Reference","South America_Southern",2065,"GDP",2332940,2024-02-25 19:37:56
+"588","million 1990$","Reference","South America_Southern",2070,"GDP",2566190,2024-02-25 19:37:56
+"589","million 1990$","Reference","South America_Southern",2075,"GDP",2788930,2024-02-25 19:37:56
+"590","million 1990$","Reference","South America_Southern",2080,"GDP",3008210,2024-02-25 19:37:56
+"591","million 1990$","Reference","South America_Southern",2085,"GDP",3220980,2024-02-25 19:37:56
+"592","million 1990$","Reference","South America_Southern",2090,"GDP",3425400,2024-02-25 19:37:56
+"593","million 1990$","Reference","South America_Southern",2095,"GDP",3619430,2024-02-25 19:37:56
+"594","million 1990$","Reference","South America_Southern",2100,"GDP",3797550,2024-02-25 19:37:56
+"595","million 1990$","Reference","South Asia",1975,"GDP",24869,2024-02-25 19:37:56
+"596","million 1990$","Reference","South Asia",1990,"GDP",49977,2024-02-25 19:37:56
+"597","million 1990$","Reference","South Asia",2005,"GDP",100536,2024-02-25 19:37:56
+"598","million 1990$","Reference","South Asia",2010,"GDP",136817,2024-02-25 19:37:56
+"599","million 1990$","Reference","South Asia",2015,"GDP",183569,2024-02-25 19:37:56
+"600","million 1990$","Reference","South Asia",2020,"GDP",244604,2024-02-25 19:37:56
+"601","million 1990$","Reference","South Asia",2025,"GDP",329251,2024-02-25 19:37:56
+"602","million 1990$","Reference","South Asia",2030,"GDP",478794,2024-02-25 19:37:56
+"603","million 1990$","Reference","South Asia",2035,"GDP",694887,2024-02-25 19:37:56
+"604","million 1990$","Reference","South Asia",2040,"GDP",973746,2024-02-25 19:37:56
+"605","million 1990$","Reference","South Asia",2045,"GDP",1313240,2024-02-25 19:37:56
+"606","million 1990$","Reference","South Asia",2050,"GDP",1709330,2024-02-25 19:37:56
+"607","million 1990$","Reference","South Asia",2055,"GDP",2159150,2024-02-25 19:37:56
+"608","million 1990$","Reference","South Asia",2060,"GDP",2657680,2024-02-25 19:37:56
+"609","million 1990$","Reference","South Asia",2065,"GDP",3195180,2024-02-25 19:37:56
+"610","million 1990$","Reference","South Asia",2070,"GDP",3759630,2024-02-25 19:37:56
+"611","million 1990$","Reference","South Asia",2075,"GDP",4347190,2024-02-25 19:37:56
+"612","million 1990$","Reference","South Asia",2080,"GDP",4952780,2024-02-25 19:37:56
+"613","million 1990$","Reference","South Asia",2085,"GDP",5569210,2024-02-25 19:37:56
+"614","million 1990$","Reference","South Asia",2090,"GDP",6192220,2024-02-25 19:37:56
+"615","million 1990$","Reference","South Asia",2095,"GDP",6820920,2024-02-25 19:37:56
+"616","million 1990$","Reference","South Asia",2100,"GDP",7443790,2024-02-25 19:37:56
+"617","million 1990$","Reference","South Korea",1975,"GDP",66098,2024-02-25 19:37:56
+"618","million 1990$","Reference","South Korea",1990,"GDP",239387,2024-02-25 19:37:56
+"619","million 1990$","Reference","South Korea",2005,"GDP",590217,2024-02-25 19:37:56
+"620","million 1990$","Reference","South Korea",2010,"GDP",722014,2024-02-25 19:37:56
+"621","million 1990$","Reference","South Korea",2015,"GDP",836983,2024-02-25 19:37:56
+"622","million 1990$","Reference","South Korea",2020,"GDP",961472,2024-02-25 19:37:56
+"623","million 1990$","Reference","South Korea",2025,"GDP",1116340,2024-02-25 19:37:56
+"624","million 1990$","Reference","South Korea",2030,"GDP",1322960,2024-02-25 19:37:56
+"625","million 1990$","Reference","South Korea",2035,"GDP",1529360,2024-02-25 19:37:56
+"626","million 1990$","Reference","South Korea",2040,"GDP",1723230,2024-02-25 19:37:56
+"627","million 1990$","Reference","South Korea",2045,"GDP",1910870,2024-02-25 19:37:56
+"628","million 1990$","Reference","South Korea",2050,"GDP",2092690,2024-02-25 19:37:56
+"629","million 1990$","Reference","South Korea",2055,"GDP",2279340,2024-02-25 19:37:56
+"630","million 1990$","Reference","South Korea",2060,"GDP",2457270,2024-02-25 19:37:56
+"631","million 1990$","Reference","South Korea",2065,"GDP",2638130,2024-02-25 19:37:56
+"632","million 1990$","Reference","South Korea",2070,"GDP",2834170,2024-02-25 19:37:56
+"633","million 1990$","Reference","South Korea",2075,"GDP",3032300,2024-02-25 19:37:56
+"634","million 1990$","Reference","South Korea",2080,"GDP",3240180,2024-02-25 19:37:56
+"635","million 1990$","Reference","South Korea",2085,"GDP",3454410,2024-02-25 19:37:56
+"636","million 1990$","Reference","South Korea",2090,"GDP",3672390,2024-02-25 19:37:56
+"637","million 1990$","Reference","South Korea",2095,"GDP",3890900,2024-02-25 19:37:56
+"638","million 1990$","Reference","South Korea",2100,"GDP",4120570,2024-02-25 19:37:56
+"639","million 1990$","Reference","Southeast Asia",1975,"GDP",133096,2024-02-25 19:37:56
+"640","million 1990$","Reference","Southeast Asia",1990,"GDP",295563,2024-02-25 19:37:56
+"641","million 1990$","Reference","Southeast Asia",2005,"GDP",639163,2024-02-25 19:37:56
+"642","million 1990$","Reference","Southeast Asia",2010,"GDP",819557,2024-02-25 19:37:56
+"643","million 1990$","Reference","Southeast Asia",2015,"GDP",1030700,2024-02-25 19:37:56
+"644","million 1990$","Reference","Southeast Asia",2020,"GDP",1298860,2024-02-25 19:37:56
+"645","million 1990$","Reference","Southeast Asia",2025,"GDP",1646170,2024-02-25 19:37:56
+"646","million 1990$","Reference","Southeast Asia",2030,"GDP",2190520,2024-02-25 19:37:56
+"647","million 1990$","Reference","Southeast Asia",2035,"GDP",2884600,2024-02-25 19:37:56
+"648","million 1990$","Reference","Southeast Asia",2040,"GDP",3688350,2024-02-25 19:37:56
+"649","million 1990$","Reference","Southeast Asia",2045,"GDP",4579620,2024-02-25 19:37:56
+"650","million 1990$","Reference","Southeast Asia",2050,"GDP",5529380,2024-02-25 19:37:56
+"651","million 1990$","Reference","Southeast Asia",2055,"GDP",6533160,2024-02-25 19:37:56
+"652","million 1990$","Reference","Southeast Asia",2060,"GDP",7579780,2024-02-25 19:37:56
+"653","million 1990$","Reference","Southeast Asia",2065,"GDP",8654430,2024-02-25 19:37:56
+"654","million 1990$","Reference","Southeast Asia",2070,"GDP",9717990,2024-02-25 19:37:56
+"655","million 1990$","Reference","Southeast Asia",2075,"GDP",10750200,2024-02-25 19:37:56
+"656","million 1990$","Reference","Southeast Asia",2080,"GDP",11759100,2024-02-25 19:37:56
+"657","million 1990$","Reference","Southeast Asia",2085,"GDP",12732000,2024-02-25 19:37:56
+"658","million 1990$","Reference","Southeast Asia",2090,"GDP",13664000,2024-02-25 19:37:56
+"659","million 1990$","Reference","Southeast Asia",2095,"GDP",14553400,2024-02-25 19:37:56
+"660","million 1990$","Reference","Southeast Asia",2100,"GDP",15375200,2024-02-25 19:37:56
+"661","million 1990$","Reference","Taiwan",1975,"GDP",30075,2024-02-25 19:37:56
+"662","million 1990$","Reference","Taiwan",1990,"GDP",102832,2024-02-25 19:37:56
+"663","million 1990$","Reference","Taiwan",2005,"GDP",239736,2024-02-25 19:37:56
+"664","million 1990$","Reference","Taiwan",2010,"GDP",295761,2024-02-25 19:37:56
+"665","million 1990$","Reference","Taiwan",2015,"GDP",335788,2024-02-25 19:37:56
+"666","million 1990$","Reference","Taiwan",2020,"GDP",378960,2024-02-25 19:37:56
+"667","million 1990$","Reference","Taiwan",2025,"GDP",426481,2024-02-25 19:37:56
+"668","million 1990$","Reference","Taiwan",2030,"GDP",486973,2024-02-25 19:37:56
+"669","million 1990$","Reference","Taiwan",2035,"GDP",549918,2024-02-25 19:37:56
+"670","million 1990$","Reference","Taiwan",2040,"GDP",610481,2024-02-25 19:37:56
+"671","million 1990$","Reference","Taiwan",2045,"GDP",662593,2024-02-25 19:37:56
+"672","million 1990$","Reference","Taiwan",2050,"GDP",702355,2024-02-25 19:37:56
+"673","million 1990$","Reference","Taiwan",2055,"GDP",730908,2024-02-25 19:37:56
+"674","million 1990$","Reference","Taiwan",2060,"GDP",757363,2024-02-25 19:37:56
+"675","million 1990$","Reference","Taiwan",2065,"GDP",805877,2024-02-25 19:37:56
+"676","million 1990$","Reference","Taiwan",2070,"GDP",848449,2024-02-25 19:37:56
+"677","million 1990$","Reference","Taiwan",2075,"GDP",883163,2024-02-25 19:37:56
+"678","million 1990$","Reference","Taiwan",2080,"GDP",913661,2024-02-25 19:37:56
+"679","million 1990$","Reference","Taiwan",2085,"GDP",935206,2024-02-25 19:37:56
+"680","million 1990$","Reference","Taiwan",2090,"GDP",950718,2024-02-25 19:37:56
+"681","million 1990$","Reference","Taiwan",2095,"GDP",960177,2024-02-25 19:37:56
+"682","million 1990$","Reference","Taiwan",2100,"GDP",961505,2024-02-25 19:37:56
+"683","million 1990$","Reference","USA",1975,"GDP",3619360,2024-02-25 19:37:56
+"684","million 1990$","Reference","USA",1990,"GDP",6019980,2024-02-25 19:37:56
+"685","million 1990$","Reference","USA",2005,"GDP",9574160,2024-02-25 19:37:56
+"686","million 1990$","Reference","USA",2010,"GDP",9936530,2024-02-25 19:37:56
+"687","million 1990$","Reference","USA",2015,"GDP",11061600,2024-02-25 19:37:56
+"688","million 1990$","Reference","USA",2020,"GDP",12301600,2024-02-25 19:37:56
+"689","million 1990$","Reference","USA",2025,"GDP",13522400,2024-02-25 19:37:56
+"690","million 1990$","Reference","USA",2030,"GDP",15802100,2024-02-25 19:37:56
+"691","million 1990$","Reference","USA",2035,"GDP",18303000,2024-02-25 19:37:56
+"692","million 1990$","Reference","USA",2040,"GDP",20895800,2024-02-25 19:37:56
+"693","million 1990$","Reference","USA",2045,"GDP",23633600,2024-02-25 19:37:56
+"694","million 1990$","Reference","USA",2050,"GDP",26525500,2024-02-25 19:37:56
+"695","million 1990$","Reference","USA",2055,"GDP",29709700,2024-02-25 19:37:56
+"696","million 1990$","Reference","USA",2060,"GDP",33296300,2024-02-25 19:37:56
+"697","million 1990$","Reference","USA",2065,"GDP",37347500,2024-02-25 19:37:56
+"698","million 1990$","Reference","USA",2070,"GDP",41826200,2024-02-25 19:37:56
+"699","million 1990$","Reference","USA",2075,"GDP",46778400,2024-02-25 19:37:56
+"700","million 1990$","Reference","USA",2080,"GDP",52248500,2024-02-25 19:37:56
+"701","million 1990$","Reference","USA",2085,"GDP",58183600,2024-02-25 19:37:56
+"702","million 1990$","Reference","USA",2090,"GDP",64619800,2024-02-25 19:37:56
+"703","million 1990$","Reference","USA",2095,"GDP",71582000,2024-02-25 19:37:56
+"704","million 1990$","Reference","USA",2100,"GDP",79131900,2024-02-25 19:37:56

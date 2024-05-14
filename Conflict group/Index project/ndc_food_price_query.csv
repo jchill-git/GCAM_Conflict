@@ -1,0 +1,1409 @@
+"","Units","scenario","region","gcam-consumer","nodeinput","input","year","value","rundate"
+"1","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.713716,2024-03-11 09:44:58
+"2","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.358485,2024-03-11 09:44:58
+"3","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.327379,2024-03-11 09:44:58
+"4","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.274034,2024-03-11 09:44:58
+"5","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.270179,2024-03-11 09:44:58
+"6","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.278469,2024-03-11 09:44:58
+"7","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.382689,2024-03-11 09:44:58
+"8","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.3671,2024-03-11 09:44:58
+"9","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.378864,2024-03-11 09:44:58
+"10","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.399227,2024-03-11 09:44:58
+"11","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.437772,2024-03-11 09:44:58
+"12","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.471631,2024-03-11 09:44:58
+"13","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.513903,2024-03-11 09:44:58
+"14","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.543035,2024-03-11 09:44:58
+"15","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.586713,2024-03-11 09:44:58
+"16","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.614845,2024-03-11 09:44:58
+"17","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.649534,2024-03-11 09:44:58
+"18","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.677115,2024-03-11 09:44:58
+"19","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.708495,2024-03-11 09:44:58
+"20","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.734809,2024-03-11 09:44:58
+"21","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.762345,2024-03-11 09:44:58
+"22","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.78391,2024-03-11 09:44:58
+"23","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0393059,2024-03-11 09:44:58
+"24","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0393309,2024-03-11 09:44:58
+"25","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.03756,2024-03-11 09:44:58
+"26","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.03618,2024-03-11 09:44:58
+"27","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0369779,2024-03-11 09:44:58
+"28","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.037424,2024-03-11 09:44:58
+"29","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0517298,2024-03-11 09:44:58
+"30","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0472955,2024-03-11 09:44:58
+"31","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0476733,2024-03-11 09:44:58
+"32","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0492245,2024-03-11 09:44:58
+"33","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0537563,2024-03-11 09:44:58
+"34","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0593202,2024-03-11 09:44:58
+"35","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0713856,2024-03-11 09:44:58
+"36","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0785961,2024-03-11 09:44:58
+"37","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0956819,2024-03-11 09:44:58
+"38","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.102489,2024-03-11 09:44:58
+"39","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.114617,2024-03-11 09:44:58
+"40","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.122268,2024-03-11 09:44:58
+"41","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.130689,2024-03-11 09:44:58
+"42","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.136625,2024-03-11 09:44:58
+"43","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.142177,2024-03-11 09:44:58
+"44","2005$/Mcal/day","PolicyReference","Africa_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.146492,2024-03-11 09:44:58
+"45","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.385124,2024-03-11 09:44:58
+"46","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.320242,2024-03-11 09:44:58
+"47","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.326498,2024-03-11 09:44:58
+"48","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.308137,2024-03-11 09:44:58
+"49","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.304967,2024-03-11 09:44:58
+"50","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.308243,2024-03-11 09:44:58
+"51","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.321751,2024-03-11 09:44:58
+"52","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.322745,2024-03-11 09:44:58
+"53","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.32923,2024-03-11 09:44:58
+"54","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.336165,2024-03-11 09:44:58
+"55","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.349503,2024-03-11 09:44:58
+"56","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.360491,2024-03-11 09:44:58
+"57","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.374012,2024-03-11 09:44:58
+"58","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.386127,2024-03-11 09:44:58
+"59","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.396934,2024-03-11 09:44:58
+"60","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.408175,2024-03-11 09:44:58
+"61","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.420094,2024-03-11 09:44:58
+"62","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.430814,2024-03-11 09:44:58
+"63","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.441618,2024-03-11 09:44:58
+"64","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.450867,2024-03-11 09:44:58
+"65","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.461098,2024-03-11 09:44:58
+"66","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.471311,2024-03-11 09:44:58
+"67","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.02604,2024-03-11 09:44:58
+"68","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.025817,2024-03-11 09:44:58
+"69","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.026863,2024-03-11 09:44:58
+"70","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0264329,2024-03-11 09:44:58
+"71","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0261315,2024-03-11 09:44:58
+"72","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0265475,2024-03-11 09:44:58
+"73","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0298446,2024-03-11 09:44:58
+"74","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0296614,2024-03-11 09:44:58
+"75","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0313445,2024-03-11 09:44:58
+"76","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0326688,2024-03-11 09:44:58
+"77","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0353135,2024-03-11 09:44:58
+"78","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0373703,2024-03-11 09:44:58
+"79","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0400212,2024-03-11 09:44:58
+"80","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0423409,2024-03-11 09:44:58
+"81","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0446869,2024-03-11 09:44:58
+"82","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0471029,2024-03-11 09:44:58
+"83","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.049542,2024-03-11 09:44:58
+"84","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0516682,2024-03-11 09:44:58
+"85","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.053898,2024-03-11 09:44:58
+"86","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.055738,2024-03-11 09:44:58
+"87","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0577187,2024-03-11 09:44:58
+"88","2005$/Mcal/day","PolicyReference","Africa_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0597107,2024-03-11 09:44:58
+"89","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.559309,2024-03-11 09:44:58
+"90","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.288219,2024-03-11 09:44:58
+"91","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.254791,2024-03-11 09:44:58
+"92","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.232156,2024-03-11 09:44:58
+"93","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.226534,2024-03-11 09:44:58
+"94","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.2286,2024-03-11 09:44:58
+"95","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.257136,2024-03-11 09:44:58
+"96","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.256383,2024-03-11 09:44:58
+"97","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.264487,2024-03-11 09:44:58
+"98","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.274915,2024-03-11 09:44:58
+"99","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.294546,2024-03-11 09:44:58
+"100","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.311022,2024-03-11 09:44:58
+"101","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.344113,2024-03-11 09:44:58
+"102","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.36398,2024-03-11 09:44:58
+"103","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.408679,2024-03-11 09:44:58
+"104","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.429588,2024-03-11 09:44:58
+"105","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.462515,2024-03-11 09:44:58
+"106","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.48099,2024-03-11 09:44:58
+"107","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.503204,2024-03-11 09:44:58
+"108","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.519906,2024-03-11 09:44:58
+"109","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.538846,2024-03-11 09:44:58
+"110","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.554772,2024-03-11 09:44:58
+"111","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.044549,2024-03-11 09:44:58
+"112","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0421755,2024-03-11 09:44:58
+"113","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0417657,2024-03-11 09:44:58
+"114","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0441231,2024-03-11 09:44:58
+"115","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0433531,2024-03-11 09:44:58
+"116","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0433045,2024-03-11 09:44:58
+"117","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0484046,2024-03-11 09:44:58
+"118","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0475851,2024-03-11 09:44:58
+"119","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0487804,2024-03-11 09:44:58
+"120","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0507821,2024-03-11 09:44:58
+"121","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0557807,2024-03-11 09:44:58
+"122","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0609418,2024-03-11 09:44:58
+"123","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0748641,2024-03-11 09:44:58
+"124","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0807162,2024-03-11 09:44:58
+"125","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0999164,2024-03-11 09:44:58
+"126","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.1063,2024-03-11 09:44:58
+"127","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.121898,2024-03-11 09:44:58
+"128","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.128342,2024-03-11 09:44:58
+"129","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.137404,2024-03-11 09:44:58
+"130","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.143009,2024-03-11 09:44:58
+"131","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.149867,2024-03-11 09:44:58
+"132","2005$/Mcal/day","PolicyReference","Africa_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.154776,2024-03-11 09:44:58
+"133","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.390602,2024-03-11 09:44:58
+"134","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.287137,2024-03-11 09:44:58
+"135","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.28545,2024-03-11 09:44:58
+"136","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.259493,2024-03-11 09:44:58
+"137","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.248112,2024-03-11 09:44:58
+"138","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.250051,2024-03-11 09:44:58
+"139","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.282258,2024-03-11 09:44:58
+"140","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.281947,2024-03-11 09:44:58
+"141","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.289401,2024-03-11 09:44:58
+"142","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.297537,2024-03-11 09:44:58
+"143","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.313211,2024-03-11 09:44:58
+"144","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.327478,2024-03-11 09:44:58
+"145","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.347397,2024-03-11 09:44:58
+"146","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.371764,2024-03-11 09:44:58
+"147","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.404786,2024-03-11 09:44:58
+"148","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.445353,2024-03-11 09:44:58
+"149","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.489807,2024-03-11 09:44:58
+"150","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.530063,2024-03-11 09:44:58
+"151","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.566535,2024-03-11 09:44:58
+"152","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.601033,2024-03-11 09:44:58
+"153","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.636177,2024-03-11 09:44:58
+"154","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.665796,2024-03-11 09:44:58
+"155","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0528215,2024-03-11 09:44:58
+"156","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0510511,2024-03-11 09:44:58
+"157","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0497996,2024-03-11 09:44:58
+"158","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0524772,2024-03-11 09:44:58
+"159","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.054664,2024-03-11 09:44:58
+"160","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0548705,2024-03-11 09:44:58
+"161","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.062893,2024-03-11 09:44:58
+"162","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0620497,2024-03-11 09:44:58
+"163","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0631053,2024-03-11 09:44:58
+"164","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.064357,2024-03-11 09:44:58
+"165","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0671847,2024-03-11 09:44:58
+"166","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0699976,2024-03-11 09:44:58
+"167","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0756819,2024-03-11 09:44:58
+"168","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.083561,2024-03-11 09:44:58
+"169","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.094516,2024-03-11 09:44:58
+"170","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.107871,2024-03-11 09:44:58
+"171","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.123142,2024-03-11 09:44:58
+"172","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.138051,2024-03-11 09:44:58
+"173","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.151672,2024-03-11 09:44:58
+"174","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.16616,2024-03-11 09:44:58
+"175","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.181906,2024-03-11 09:44:58
+"176","2005$/Mcal/day","PolicyReference","Africa_Western","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.196044,2024-03-11 09:44:58
+"177","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.751776,2024-03-11 09:44:58
+"178","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.326043,2024-03-11 09:44:58
+"179","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.276584,2024-03-11 09:44:58
+"180","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.249561,2024-03-11 09:44:58
+"181","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.264681,2024-03-11 09:44:58
+"182","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.267923,2024-03-11 09:44:58
+"183","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.288948,2024-03-11 09:44:58
+"184","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.295583,2024-03-11 09:44:58
+"185","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.309989,2024-03-11 09:44:58
+"186","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.324575,2024-03-11 09:44:58
+"187","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.34824,2024-03-11 09:44:58
+"188","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.367007,2024-03-11 09:44:58
+"189","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.38669,2024-03-11 09:44:58
+"190","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.40336,2024-03-11 09:44:58
+"191","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.419897,2024-03-11 09:44:58
+"192","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.43632,2024-03-11 09:44:58
+"193","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.453059,2024-03-11 09:44:58
+"194","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.467928,2024-03-11 09:44:58
+"195","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.484523,2024-03-11 09:44:58
+"196","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.498271,2024-03-11 09:44:58
+"197","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.512816,2024-03-11 09:44:58
+"198","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.525108,2024-03-11 09:44:58
+"199","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0352119,2024-03-11 09:44:58
+"200","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0343037,2024-03-11 09:44:58
+"201","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0328921,2024-03-11 09:44:58
+"202","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0292686,2024-03-11 09:44:58
+"203","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0330233,2024-03-11 09:44:58
+"204","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.033004,2024-03-11 09:44:58
+"205","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0362371,2024-03-11 09:44:58
+"206","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0360834,2024-03-11 09:44:58
+"207","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0377368,2024-03-11 09:44:58
+"208","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0392507,2024-03-11 09:44:58
+"209","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0421054,2024-03-11 09:44:58
+"210","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0440749,2024-03-11 09:44:58
+"211","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0466082,2024-03-11 09:44:58
+"212","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0486968,2024-03-11 09:44:58
+"213","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0506425,2024-03-11 09:44:58
+"214","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0525136,2024-03-11 09:44:58
+"215","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0543076,2024-03-11 09:44:58
+"216","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0558659,2024-03-11 09:44:58
+"217","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0576357,2024-03-11 09:44:58
+"218","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0591077,2024-03-11 09:44:58
+"219","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0607125,2024-03-11 09:44:58
+"220","2005$/Mcal/day","PolicyReference","Argentina","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0620769,2024-03-11 09:44:58
+"221","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.529085,2024-03-11 09:44:58
+"222","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.316421,2024-03-11 09:44:58
+"223","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.335188,2024-03-11 09:44:58
+"224","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.299982,2024-03-11 09:44:58
+"225","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.277175,2024-03-11 09:44:58
+"226","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.279343,2024-03-11 09:44:58
+"227","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.296718,2024-03-11 09:44:58
+"228","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.296613,2024-03-11 09:44:58
+"229","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.304751,2024-03-11 09:44:58
+"230","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.31332,2024-03-11 09:44:58
+"231","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.329472,2024-03-11 09:44:58
+"232","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.342731,2024-03-11 09:44:58
+"233","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.35754,2024-03-11 09:44:58
+"234","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.370108,2024-03-11 09:44:58
+"235","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.380774,2024-03-11 09:44:58
+"236","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.391102,2024-03-11 09:44:58
+"237","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.401501,2024-03-11 09:44:58
+"238","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.410413,2024-03-11 09:44:58
+"239","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.420395,2024-03-11 09:44:58
+"240","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.429032,2024-03-11 09:44:58
+"241","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.438969,2024-03-11 09:44:58
+"242","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.44788,2024-03-11 09:44:58
+"243","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0327537,2024-03-11 09:44:58
+"244","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0367484,2024-03-11 09:44:58
+"245","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0351936,2024-03-11 09:44:58
+"246","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0372342,2024-03-11 09:44:58
+"247","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0346706,2024-03-11 09:44:58
+"248","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0345643,2024-03-11 09:44:58
+"249","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0375577,2024-03-11 09:44:58
+"250","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0371104,2024-03-11 09:44:58
+"251","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0387401,2024-03-11 09:44:58
+"252","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0402283,2024-03-11 09:44:58
+"253","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.042973,2024-03-11 09:44:58
+"254","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.04505,2024-03-11 09:44:58
+"255","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0475697,2024-03-11 09:44:58
+"256","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0496894,2024-03-11 09:44:58
+"257","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0517602,2024-03-11 09:44:58
+"258","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0537212,2024-03-11 09:44:58
+"259","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0555983,2024-03-11 09:44:58
+"260","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0572037,2024-03-11 09:44:58
+"261","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0589805,2024-03-11 09:44:58
+"262","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0604629,2024-03-11 09:44:58
+"263","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0620935,2024-03-11 09:44:58
+"264","2005$/Mcal/day","PolicyReference","Australia_NZ","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0635276,2024-03-11 09:44:58
+"265","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.395505,2024-03-11 09:44:58
+"266","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.148224,2024-03-11 09:44:58
+"267","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.155235,2024-03-11 09:44:58
+"268","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.147656,2024-03-11 09:44:58
+"269","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.143647,2024-03-11 09:44:58
+"270","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.145673,2024-03-11 09:44:58
+"271","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.165018,2024-03-11 09:44:58
+"272","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.164274,2024-03-11 09:44:58
+"273","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.169221,2024-03-11 09:44:58
+"274","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.177775,2024-03-11 09:44:58
+"275","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.198922,2024-03-11 09:44:58
+"276","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.21637,2024-03-11 09:44:58
+"277","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.232512,2024-03-11 09:44:58
+"278","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.248332,2024-03-11 09:44:58
+"279","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.261381,2024-03-11 09:44:58
+"280","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.273322,2024-03-11 09:44:58
+"281","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.283557,2024-03-11 09:44:58
+"282","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.291636,2024-03-11 09:44:58
+"283","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.299603,2024-03-11 09:44:58
+"284","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.305755,2024-03-11 09:44:58
+"285","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.312238,2024-03-11 09:44:58
+"286","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.317411,2024-03-11 09:44:58
+"287","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0244895,2024-03-11 09:44:58
+"288","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0226963,2024-03-11 09:44:58
+"289","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0222024,2024-03-11 09:44:58
+"290","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0218787,2024-03-11 09:44:58
+"291","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0213125,2024-03-11 09:44:58
+"292","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0215445,2024-03-11 09:44:58
+"293","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0253588,2024-03-11 09:44:58
+"294","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.02414,2024-03-11 09:44:58
+"295","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0247893,2024-03-11 09:44:58
+"296","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0262611,2024-03-11 09:44:58
+"297","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0304701,2024-03-11 09:44:58
+"298","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0340167,2024-03-11 09:44:58
+"299","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0372027,2024-03-11 09:44:58
+"300","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0406363,2024-03-11 09:44:58
+"301","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0433322,2024-03-11 09:44:58
+"302","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0457637,2024-03-11 09:44:58
+"303","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0475824,2024-03-11 09:44:58
+"304","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0489344,2024-03-11 09:44:58
+"305","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0501758,2024-03-11 09:44:58
+"306","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0511665,2024-03-11 09:44:58
+"307","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0522493,2024-03-11 09:44:58
+"308","2005$/Mcal/day","PolicyReference","Brazil","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0531763,2024-03-11 09:44:58
+"309","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.308641,2024-03-11 09:44:58
+"310","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.281344,2024-03-11 09:44:58
+"311","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.270202,2024-03-11 09:44:58
+"312","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.262009,2024-03-11 09:44:58
+"313","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.251943,2024-03-11 09:44:58
+"314","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.253948,2024-03-11 09:44:58
+"315","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.270992,2024-03-11 09:44:58
+"316","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.271184,2024-03-11 09:44:58
+"317","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.279194,2024-03-11 09:44:58
+"318","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.287045,2024-03-11 09:44:58
+"319","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.301996,2024-03-11 09:44:58
+"320","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.314965,2024-03-11 09:44:58
+"321","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.330026,2024-03-11 09:44:58
+"322","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.343354,2024-03-11 09:44:58
+"323","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.355378,2024-03-11 09:44:58
+"324","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.367418,2024-03-11 09:44:58
+"325","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.379424,2024-03-11 09:44:58
+"326","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.390171,2024-03-11 09:44:58
+"327","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.40189,2024-03-11 09:44:58
+"328","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.41194,2024-03-11 09:44:58
+"329","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.422781,2024-03-11 09:44:58
+"330","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.432257,2024-03-11 09:44:58
+"331","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0293753,2024-03-11 09:44:58
+"332","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0293177,2024-03-11 09:44:58
+"333","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.026563,2024-03-11 09:44:58
+"334","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0280629,2024-03-11 09:44:58
+"335","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.03005,2024-03-11 09:44:58
+"336","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0304188,2024-03-11 09:44:58
+"337","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0336615,2024-03-11 09:44:58
+"338","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.03328,2024-03-11 09:44:58
+"339","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0350322,2024-03-11 09:44:58
+"340","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0364679,2024-03-11 09:44:58
+"341","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.039293,2024-03-11 09:44:58
+"342","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.041725,2024-03-11 09:44:58
+"343","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0447362,2024-03-11 09:44:58
+"344","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0474432,2024-03-11 09:44:58
+"345","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0501097,2024-03-11 09:44:58
+"346","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0526212,2024-03-11 09:44:58
+"347","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0549191,2024-03-11 09:44:58
+"348","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0568836,2024-03-11 09:44:58
+"349","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0588714,2024-03-11 09:44:58
+"350","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0606252,2024-03-11 09:44:58
+"351","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0625141,2024-03-11 09:44:58
+"352","2005$/Mcal/day","PolicyReference","Canada","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.064164,2024-03-11 09:44:58
+"353","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.414733,2024-03-11 09:44:58
+"354","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.249867,2024-03-11 09:44:58
+"355","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.241264,2024-03-11 09:44:58
+"356","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.203734,2024-03-11 09:44:58
+"357","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.190566,2024-03-11 09:44:58
+"358","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.192335,2024-03-11 09:44:58
+"359","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.204546,2024-03-11 09:44:58
+"360","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.202836,2024-03-11 09:44:58
+"361","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.207419,2024-03-11 09:44:58
+"362","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.212045,2024-03-11 09:44:58
+"363","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.22199,2024-03-11 09:44:58
+"364","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.22982,2024-03-11 09:44:58
+"365","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.239226,2024-03-11 09:44:58
+"366","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.247447,2024-03-11 09:44:58
+"367","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.255764,2024-03-11 09:44:58
+"368","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.263965,2024-03-11 09:44:58
+"369","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.272127,2024-03-11 09:44:58
+"370","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.279059,2024-03-11 09:44:58
+"371","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.286955,2024-03-11 09:44:58
+"372","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.293414,2024-03-11 09:44:58
+"373","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.300419,2024-03-11 09:44:58
+"374","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.30654,2024-03-11 09:44:58
+"375","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0350073,2024-03-11 09:44:58
+"376","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0331184,2024-03-11 09:44:58
+"377","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0366597,2024-03-11 09:44:58
+"378","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0349213,2024-03-11 09:44:58
+"379","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0342061,2024-03-11 09:44:58
+"380","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0345113,2024-03-11 09:44:58
+"381","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0387307,2024-03-11 09:44:58
+"382","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0373367,2024-03-11 09:44:58
+"383","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0384468,2024-03-11 09:44:58
+"384","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0394738,2024-03-11 09:44:58
+"385","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0420275,2024-03-11 09:44:58
+"386","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0438489,2024-03-11 09:44:58
+"387","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0465435,2024-03-11 09:44:58
+"388","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0488963,2024-03-11 09:44:58
+"389","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.051273,2024-03-11 09:44:58
+"390","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0536069,2024-03-11 09:44:58
+"391","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0558021,2024-03-11 09:44:58
+"392","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0575778,2024-03-11 09:44:58
+"393","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0595613,2024-03-11 09:44:58
+"394","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0611844,2024-03-11 09:44:58
+"395","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.062949,2024-03-11 09:44:58
+"396","2005$/Mcal/day","PolicyReference","Central America and Caribbean","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0644616,2024-03-11 09:44:58
+"397","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.447138,2024-03-11 09:44:58
+"398","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.275531,2024-03-11 09:44:58
+"399","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.270391,2024-03-11 09:44:58
+"400","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.254284,2024-03-11 09:44:58
+"401","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.246765,2024-03-11 09:44:58
+"402","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.248799,2024-03-11 09:44:58
+"403","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.2581,2024-03-11 09:44:58
+"404","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.259516,2024-03-11 09:44:58
+"405","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.264169,2024-03-11 09:44:58
+"406","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.268489,2024-03-11 09:44:58
+"407","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.275923,2024-03-11 09:44:58
+"408","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.282408,2024-03-11 09:44:58
+"409","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.290137,2024-03-11 09:44:58
+"410","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.297017,2024-03-11 09:44:58
+"411","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.304102,2024-03-11 09:44:58
+"412","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.311592,2024-03-11 09:44:58
+"413","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.319214,2024-03-11 09:44:58
+"414","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.325964,2024-03-11 09:44:58
+"415","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.333152,2024-03-11 09:44:58
+"416","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.339383,2024-03-11 09:44:58
+"417","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.346131,2024-03-11 09:44:58
+"418","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.35204,2024-03-11 09:44:58
+"419","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0224052,2024-03-11 09:44:58
+"420","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0220503,2024-03-11 09:44:58
+"421","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0234974,2024-03-11 09:44:58
+"422","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0244156,2024-03-11 09:44:58
+"423","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0258825,2024-03-11 09:44:58
+"424","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0260412,2024-03-11 09:44:58
+"425","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0282237,2024-03-11 09:44:58
+"426","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0282781,2024-03-11 09:44:58
+"427","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0294834,2024-03-11 09:44:58
+"428","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0304146,2024-03-11 09:44:58
+"429","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0321255,2024-03-11 09:44:58
+"430","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0336841,2024-03-11 09:44:58
+"431","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0357041,2024-03-11 09:44:58
+"432","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0374239,2024-03-11 09:44:58
+"433","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0390986,2024-03-11 09:44:58
+"434","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0407671,2024-03-11 09:44:58
+"435","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0423249,2024-03-11 09:44:58
+"436","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0436358,2024-03-11 09:44:58
+"437","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0450113,2024-03-11 09:44:58
+"438","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0461914,2024-03-11 09:44:58
+"439","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0474832,2024-03-11 09:44:58
+"440","2005$/Mcal/day","PolicyReference","Central Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0486092,2024-03-11 09:44:58
+"441","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.505005,2024-03-11 09:44:58
+"442","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.441619,2024-03-11 09:44:58
+"443","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.496844,2024-03-11 09:44:58
+"444","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.482886,2024-03-11 09:44:58
+"445","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.483567,2024-03-11 09:44:58
+"446","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.487699,2024-03-11 09:44:58
+"447","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.5022,2024-03-11 09:44:58
+"448","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.504746,2024-03-11 09:44:58
+"449","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.513188,2024-03-11 09:44:58
+"450","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.52099,2024-03-11 09:44:58
+"451","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.533845,2024-03-11 09:44:58
+"452","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.544423,2024-03-11 09:44:58
+"453","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.556525,2024-03-11 09:44:58
+"454","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.565692,2024-03-11 09:44:58
+"455","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.569426,2024-03-11 09:44:58
+"456","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.574247,2024-03-11 09:44:58
+"457","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.579606,2024-03-11 09:44:58
+"458","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.584249,2024-03-11 09:44:58
+"459","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.58976,2024-03-11 09:44:58
+"460","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.594435,2024-03-11 09:44:58
+"461","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.59984,2024-03-11 09:44:58
+"462","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.603984,2024-03-11 09:44:58
+"463","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0665429,2024-03-11 09:44:58
+"464","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0565825,2024-03-11 09:44:58
+"465","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0599002,2024-03-11 09:44:58
+"466","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0591629,2024-03-11 09:44:58
+"467","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0576068,2024-03-11 09:44:58
+"468","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0580952,2024-03-11 09:44:58
+"469","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0614612,2024-03-11 09:44:58
+"470","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.061757,2024-03-11 09:44:58
+"471","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0644055,2024-03-11 09:44:58
+"472","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0665395,2024-03-11 09:44:58
+"473","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0696685,2024-03-11 09:44:58
+"474","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0725556,2024-03-11 09:44:58
+"475","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0761549,2024-03-11 09:44:58
+"476","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0785229,2024-03-11 09:44:58
+"477","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0777442,2024-03-11 09:44:58
+"478","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0778749,2024-03-11 09:44:58
+"479","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0784263,2024-03-11 09:44:58
+"480","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0790371,2024-03-11 09:44:58
+"481","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0800021,2024-03-11 09:44:58
+"482","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0809857,2024-03-11 09:44:58
+"483","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0822903,2024-03-11 09:44:58
+"484","2005$/Mcal/day","PolicyReference","China","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0833147,2024-03-11 09:44:58
+"485","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.520698,2024-03-11 09:44:58
+"486","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.230426,2024-03-11 09:44:58
+"487","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.225835,2024-03-11 09:44:58
+"488","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.189949,2024-03-11 09:44:58
+"489","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.178787,2024-03-11 09:44:58
+"490","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.180603,2024-03-11 09:44:58
+"491","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.192632,2024-03-11 09:44:58
+"492","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.191528,2024-03-11 09:44:58
+"493","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.193226,2024-03-11 09:44:58
+"494","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.196473,2024-03-11 09:44:58
+"495","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.210801,2024-03-11 09:44:58
+"496","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.21116,2024-03-11 09:44:58
+"497","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.218665,2024-03-11 09:44:58
+"498","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.225813,2024-03-11 09:44:58
+"499","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.232912,2024-03-11 09:44:58
+"500","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.239773,2024-03-11 09:44:58
+"501","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.246211,2024-03-11 09:44:58
+"502","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.251395,2024-03-11 09:44:58
+"503","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.259119,2024-03-11 09:44:58
+"504","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.262049,2024-03-11 09:44:58
+"505","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.26537,2024-03-11 09:44:58
+"506","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.268094,2024-03-11 09:44:58
+"507","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.048926,2024-03-11 09:44:58
+"508","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0469317,2024-03-11 09:44:58
+"509","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0393482,2024-03-11 09:44:58
+"510","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0410432,2024-03-11 09:44:58
+"511","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0406347,2024-03-11 09:44:58
+"512","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0408109,2024-03-11 09:44:58
+"513","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0456577,2024-03-11 09:44:58
+"514","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0434147,2024-03-11 09:44:58
+"515","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0436194,2024-03-11 09:44:58
+"516","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0442221,2024-03-11 09:44:58
+"517","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0505321,2024-03-11 09:44:58
+"518","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0486931,2024-03-11 09:44:58
+"519","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0513465,2024-03-11 09:44:58
+"520","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0538189,2024-03-11 09:44:58
+"521","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0561812,2024-03-11 09:44:58
+"522","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0583985,2024-03-11 09:44:58
+"523","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0603522,2024-03-11 09:44:58
+"524","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0618854,2024-03-11 09:44:58
+"525","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0653161,2024-03-11 09:44:58
+"526","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0658065,2024-03-11 09:44:58
+"527","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0665051,2024-03-11 09:44:58
+"528","2005$/Mcal/day","PolicyReference","Colombia","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0671445,2024-03-11 09:44:58
+"529","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.218705,2024-03-11 09:44:58
+"530","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.213043,2024-03-11 09:44:58
+"531","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.204393,2024-03-11 09:44:58
+"532","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.193099,2024-03-11 09:44:58
+"533","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.184238,2024-03-11 09:44:58
+"534","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.185377,2024-03-11 09:44:58
+"535","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.196394,2024-03-11 09:44:58
+"536","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.196295,2024-03-11 09:44:58
+"537","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.201038,2024-03-11 09:44:58
+"538","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.205627,2024-03-11 09:44:58
+"539","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.214606,2024-03-11 09:44:58
+"540","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.221851,2024-03-11 09:44:58
+"541","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.229154,2024-03-11 09:44:58
+"542","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.235447,2024-03-11 09:44:58
+"543","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.241337,2024-03-11 09:44:58
+"544","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.247606,2024-03-11 09:44:58
+"545","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.254048,2024-03-11 09:44:58
+"546","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.259649,2024-03-11 09:44:58
+"547","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.265954,2024-03-11 09:44:58
+"548","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.270582,2024-03-11 09:44:58
+"549","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.275754,2024-03-11 09:44:58
+"550","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.280057,2024-03-11 09:44:58
+"551","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0253779,2024-03-11 09:44:58
+"552","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0247767,2024-03-11 09:44:58
+"553","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0253666,2024-03-11 09:44:58
+"554","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0253672,2024-03-11 09:44:58
+"555","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0251457,2024-03-11 09:44:58
+"556","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0253547,2024-03-11 09:44:58
+"557","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0283518,2024-03-11 09:44:58
+"558","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.02819,2024-03-11 09:44:58
+"559","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0297043,2024-03-11 09:44:58
+"560","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0309625,2024-03-11 09:44:58
+"561","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0333277,2024-03-11 09:44:58
+"562","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0352143,2024-03-11 09:44:58
+"563","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0373182,2024-03-11 09:44:58
+"564","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0391547,2024-03-11 09:44:58
+"565","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0409667,2024-03-11 09:44:58
+"566","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0427749,2024-03-11 09:44:58
+"567","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0444922,2024-03-11 09:44:58
+"568","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0459486,2024-03-11 09:44:58
+"569","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0476066,2024-03-11 09:44:58
+"570","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0488512,2024-03-11 09:44:58
+"571","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0502419,2024-03-11 09:44:58
+"572","2005$/Mcal/day","PolicyReference","EU-12","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0513864,2024-03-11 09:44:58
+"573","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.29424,2024-03-11 09:44:58
+"574","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.28675,2024-03-11 09:44:58
+"575","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.276096,2024-03-11 09:44:58
+"576","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.258365,2024-03-11 09:44:58
+"577","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.250835,2024-03-11 09:44:58
+"578","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.252288,2024-03-11 09:44:58
+"579","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.266336,2024-03-11 09:44:58
+"580","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.266181,2024-03-11 09:44:58
+"581","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.272117,2024-03-11 09:44:58
+"582","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.278307,2024-03-11 09:44:58
+"583","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.290401,2024-03-11 09:44:58
+"584","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.300242,2024-03-11 09:44:58
+"585","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.310928,2024-03-11 09:44:58
+"586","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.320231,2024-03-11 09:44:58
+"587","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.328618,2024-03-11 09:44:58
+"588","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.3374,2024-03-11 09:44:58
+"589","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.34642,2024-03-11 09:44:58
+"590","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.354347,2024-03-11 09:44:58
+"591","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.363264,2024-03-11 09:44:58
+"592","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.370316,2024-03-11 09:44:58
+"593","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.378125,2024-03-11 09:44:58
+"594","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.384751,2024-03-11 09:44:58
+"595","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.030898,2024-03-11 09:44:58
+"596","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0301652,2024-03-11 09:44:58
+"597","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0286063,2024-03-11 09:44:58
+"598","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0284946,2024-03-11 09:44:58
+"599","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0279877,2024-03-11 09:44:58
+"600","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0283347,2024-03-11 09:44:58
+"601","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0316395,2024-03-11 09:44:58
+"602","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0315621,2024-03-11 09:44:58
+"603","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0331588,2024-03-11 09:44:58
+"604","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0344956,2024-03-11 09:44:58
+"605","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0370348,2024-03-11 09:44:58
+"606","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0390605,2024-03-11 09:44:58
+"607","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0414855,2024-03-11 09:44:58
+"608","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0436275,2024-03-11 09:44:58
+"609","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0458071,2024-03-11 09:44:58
+"610","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0479856,2024-03-11 09:44:58
+"611","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0500961,2024-03-11 09:44:58
+"612","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0518876,2024-03-11 09:44:58
+"613","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0538503,2024-03-11 09:44:58
+"614","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0554256,2024-03-11 09:44:58
+"615","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0571268,2024-03-11 09:44:58
+"616","2005$/Mcal/day","PolicyReference","EU-15","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0585463,2024-03-11 09:44:58
+"617","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.161605,2024-03-11 09:44:58
+"618","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.153859,2024-03-11 09:44:58
+"619","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.179067,2024-03-11 09:44:58
+"620","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.180803,2024-03-11 09:44:58
+"621","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.1669,2024-03-11 09:44:58
+"622","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.167746,2024-03-11 09:44:58
+"623","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.177038,2024-03-11 09:44:58
+"624","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.177742,2024-03-11 09:44:58
+"625","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.182288,2024-03-11 09:44:58
+"626","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.18632,2024-03-11 09:44:58
+"627","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.193576,2024-03-11 09:44:58
+"628","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.199448,2024-03-11 09:44:58
+"629","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.20675,2024-03-11 09:44:58
+"630","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.213226,2024-03-11 09:44:58
+"631","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.219417,2024-03-11 09:44:58
+"632","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.22519,2024-03-11 09:44:58
+"633","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.230387,2024-03-11 09:44:58
+"634","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.235189,2024-03-11 09:44:58
+"635","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.240537,2024-03-11 09:44:58
+"636","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.24498,2024-03-11 09:44:58
+"637","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.249706,2024-03-11 09:44:58
+"638","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.253701,2024-03-11 09:44:58
+"639","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.01924,2024-03-11 09:44:58
+"640","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0186718,2024-03-11 09:44:58
+"641","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0186748,2024-03-11 09:44:58
+"642","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0201303,2024-03-11 09:44:58
+"643","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0197781,2024-03-11 09:44:58
+"644","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0198566,2024-03-11 09:44:58
+"645","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0218508,2024-03-11 09:44:58
+"646","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0218241,2024-03-11 09:44:58
+"647","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0227837,2024-03-11 09:44:58
+"648","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0235746,2024-03-11 09:44:58
+"649","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0251052,2024-03-11 09:44:58
+"650","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0263144,2024-03-11 09:44:58
+"651","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0279166,2024-03-11 09:44:58
+"652","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0293445,2024-03-11 09:44:58
+"653","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0307015,2024-03-11 09:44:58
+"654","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0319224,2024-03-11 09:44:58
+"655","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0329452,2024-03-11 09:44:58
+"656","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0338926,2024-03-11 09:44:58
+"657","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0349358,2024-03-11 09:44:58
+"658","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0357877,2024-03-11 09:44:58
+"659","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0367012,2024-03-11 09:44:58
+"660","2005$/Mcal/day","PolicyReference","Europe_Eastern","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0374779,2024-03-11 09:44:58
+"661","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.500806,2024-03-11 09:44:58
+"662","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.283124,2024-03-11 09:44:58
+"663","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.285882,2024-03-11 09:44:58
+"664","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.263555,2024-03-11 09:44:58
+"665","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.26187,2024-03-11 09:44:58
+"666","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.265492,2024-03-11 09:44:58
+"667","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.285252,2024-03-11 09:44:58
+"668","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.287143,2024-03-11 09:44:58
+"669","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.297236,2024-03-11 09:44:58
+"670","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.305874,2024-03-11 09:44:58
+"671","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.321656,2024-03-11 09:44:58
+"672","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.33441,2024-03-11 09:44:58
+"673","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.349857,2024-03-11 09:44:58
+"674","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.363676,2024-03-11 09:44:58
+"675","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.377657,2024-03-11 09:44:58
+"676","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.392426,2024-03-11 09:44:58
+"677","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.407388,2024-03-11 09:44:58
+"678","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.420106,2024-03-11 09:44:58
+"679","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.435134,2024-03-11 09:44:58
+"680","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.447812,2024-03-11 09:44:58
+"681","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.46165,2024-03-11 09:44:58
+"682","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.473935,2024-03-11 09:44:58
+"683","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0298837,2024-03-11 09:44:58
+"684","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0297035,2024-03-11 09:44:58
+"685","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0302175,2024-03-11 09:44:58
+"686","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0299182,2024-03-11 09:44:58
+"687","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0295683,2024-03-11 09:44:58
+"688","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0297256,2024-03-11 09:44:58
+"689","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0333019,2024-03-11 09:44:58
+"690","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0329323,2024-03-11 09:44:58
+"691","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0347701,2024-03-11 09:44:58
+"692","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0361617,2024-03-11 09:44:58
+"693","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0389257,2024-03-11 09:44:58
+"694","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0410744,2024-03-11 09:44:58
+"695","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0438678,2024-03-11 09:44:58
+"696","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0463473,2024-03-11 09:44:58
+"697","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0489104,2024-03-11 09:44:58
+"698","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0515614,2024-03-11 09:44:58
+"699","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0541346,2024-03-11 09:44:58
+"700","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0562818,2024-03-11 09:44:58
+"701","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0587156,2024-03-11 09:44:58
+"702","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0607136,2024-03-11 09:44:58
+"703","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.062851,2024-03-11 09:44:58
+"704","2005$/Mcal/day","PolicyReference","Europe_Non_EU","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0646915,2024-03-11 09:44:58
+"705","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.401596,2024-03-11 09:44:58
+"706","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.392168,2024-03-11 09:44:58
+"707","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.346506,2024-03-11 09:44:58
+"708","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.345721,2024-03-11 09:44:58
+"709","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.345,2024-03-11 09:44:58
+"710","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.346645,2024-03-11 09:44:58
+"711","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.368412,2024-03-11 09:44:58
+"712","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.363333,2024-03-11 09:44:58
+"713","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.370822,2024-03-11 09:44:58
+"714","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.377725,2024-03-11 09:44:58
+"715","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.392796,2024-03-11 09:44:58
+"716","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.403005,2024-03-11 09:44:58
+"717","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.418839,2024-03-11 09:44:58
+"718","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.43118,2024-03-11 09:44:58
+"719","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.442133,2024-03-11 09:44:58
+"720","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.452992,2024-03-11 09:44:58
+"721","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.463552,2024-03-11 09:44:58
+"722","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.472823,2024-03-11 09:44:58
+"723","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.486363,2024-03-11 09:44:58
+"724","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.494639,2024-03-11 09:44:58
+"725","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.503109,2024-03-11 09:44:58
+"726","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.51006,2024-03-11 09:44:58
+"727","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0453566,2024-03-11 09:44:58
+"728","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0449004,2024-03-11 09:44:58
+"729","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0412123,2024-03-11 09:44:58
+"730","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0373649,2024-03-11 09:44:58
+"731","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0328808,2024-03-11 09:44:58
+"732","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0330443,2024-03-11 09:44:58
+"733","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0374707,2024-03-11 09:44:58
+"734","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0361876,2024-03-11 09:44:58
+"735","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0379769,2024-03-11 09:44:58
+"736","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0390998,2024-03-11 09:44:58
+"737","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0416344,2024-03-11 09:44:58
+"738","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0433191,2024-03-11 09:44:58
+"739","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0462108,2024-03-11 09:44:58
+"740","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0485708,2024-03-11 09:44:58
+"741","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0509699,2024-03-11 09:44:58
+"742","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0533636,2024-03-11 09:44:58
+"743","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0556786,2024-03-11 09:44:58
+"744","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0576573,2024-03-11 09:44:58
+"745","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0604206,2024-03-11 09:44:58
+"746","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.062087,2024-03-11 09:44:58
+"747","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0638403,2024-03-11 09:44:58
+"748","2005$/Mcal/day","PolicyReference","European Free Trade Association","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0652837,2024-03-11 09:44:58
+"749","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,1.88263,2024-03-11 09:44:58
+"750","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.141714,2024-03-11 09:44:58
+"751","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.144343,2024-03-11 09:44:58
+"752","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.125018,2024-03-11 09:44:58
+"753","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.114462,2024-03-11 09:44:58
+"754","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.1176,2024-03-11 09:44:58
+"755","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.126668,2024-03-11 09:44:58
+"756","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.1297,2024-03-11 09:44:58
+"757","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.13463,2024-03-11 09:44:58
+"758","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.143578,2024-03-11 09:44:58
+"759","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.154603,2024-03-11 09:44:58
+"760","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.16415,2024-03-11 09:44:58
+"761","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.17637,2024-03-11 09:44:58
+"762","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.188118,2024-03-11 09:44:58
+"763","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.198315,2024-03-11 09:44:58
+"764","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.208056,2024-03-11 09:44:58
+"765","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.212365,2024-03-11 09:44:58
+"766","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.217583,2024-03-11 09:44:58
+"767","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.223376,2024-03-11 09:44:58
+"768","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.228164,2024-03-11 09:44:58
+"769","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.232904,2024-03-11 09:44:58
+"770","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.237341,2024-03-11 09:44:58
+"771","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0294124,2024-03-11 09:44:58
+"772","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0296326,2024-03-11 09:44:58
+"773","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0294895,2024-03-11 09:44:58
+"774","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0295925,2024-03-11 09:44:58
+"775","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0292157,2024-03-11 09:44:58
+"776","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0298968,2024-03-11 09:44:58
+"777","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0346723,2024-03-11 09:44:58
+"778","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0350413,2024-03-11 09:44:58
+"779","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0369182,2024-03-11 09:44:58
+"780","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0427283,2024-03-11 09:44:58
+"781","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0491476,2024-03-11 09:44:58
+"782","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0546605,2024-03-11 09:44:58
+"783","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0620607,2024-03-11 09:44:58
+"784","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0692306,2024-03-11 09:44:58
+"785","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0749498,2024-03-11 09:44:58
+"786","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0804124,2024-03-11 09:44:58
+"787","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0809011,2024-03-11 09:44:58
+"788","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0826823,2024-03-11 09:44:58
+"789","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0848537,2024-03-11 09:44:58
+"790","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0866471,2024-03-11 09:44:58
+"791","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0883845,2024-03-11 09:44:58
+"792","2005$/Mcal/day","PolicyReference","India","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0903189,2024-03-11 09:44:58
+"793","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.472389,2024-03-11 09:44:58
+"794","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.247082,2024-03-11 09:44:58
+"795","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.283128,2024-03-11 09:44:58
+"796","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.301339,2024-03-11 09:44:58
+"797","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.288369,2024-03-11 09:44:58
+"798","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.291397,2024-03-11 09:44:58
+"799","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.306093,2024-03-11 09:44:58
+"800","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.303727,2024-03-11 09:44:58
+"801","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.309821,2024-03-11 09:44:58
+"802","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.315744,2024-03-11 09:44:58
+"803","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.334425,2024-03-11 09:44:58
+"804","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.345469,2024-03-11 09:44:58
+"805","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.359577,2024-03-11 09:44:58
+"806","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.374128,2024-03-11 09:44:58
+"807","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.385746,2024-03-11 09:44:58
+"808","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.396307,2024-03-11 09:44:58
+"809","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.405252,2024-03-11 09:44:58
+"810","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.412453,2024-03-11 09:44:58
+"811","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.419637,2024-03-11 09:44:58
+"812","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.426537,2024-03-11 09:44:58
+"813","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.4352,2024-03-11 09:44:58
+"814","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.442161,2024-03-11 09:44:58
+"815","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0631971,2024-03-11 09:44:58
+"816","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0628664,2024-03-11 09:44:58
+"817","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0595568,2024-03-11 09:44:58
+"818","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0602101,2024-03-11 09:44:58
+"819","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.059763,2024-03-11 09:44:58
+"820","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0603286,2024-03-11 09:44:58
+"821","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0698757,2024-03-11 09:44:58
+"822","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0637687,2024-03-11 09:44:58
+"823","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0667402,2024-03-11 09:44:58
+"824","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0693357,2024-03-11 09:44:58
+"825","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0853936,2024-03-11 09:44:58
+"826","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0926885,2024-03-11 09:44:58
+"827","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.104495,2024-03-11 09:44:58
+"828","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.119876,2024-03-11 09:44:58
+"829","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.132617,2024-03-11 09:44:58
+"830","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.143934,2024-03-11 09:44:58
+"831","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.150625,2024-03-11 09:44:58
+"832","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.15493,2024-03-11 09:44:58
+"833","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.157487,2024-03-11 09:44:58
+"834","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.161383,2024-03-11 09:44:58
+"835","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.167952,2024-03-11 09:44:58
+"836","2005$/Mcal/day","PolicyReference","Indonesia","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.172891,2024-03-11 09:44:58
+"837","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.974067,2024-03-11 09:44:58
+"838","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.81536,2024-03-11 09:44:58
+"839","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.692183,2024-03-11 09:44:58
+"840","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.638663,2024-03-11 09:44:58
+"841","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.584985,2024-03-11 09:44:58
+"842","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.587272,2024-03-11 09:44:58
+"843","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.61943,2024-03-11 09:44:58
+"844","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.618543,2024-03-11 09:44:58
+"845","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.630765,2024-03-11 09:44:58
+"846","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.644074,2024-03-11 09:44:58
+"847","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.668819,2024-03-11 09:44:58
+"848","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.687098,2024-03-11 09:44:58
+"849","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.705145,2024-03-11 09:44:58
+"850","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.720233,2024-03-11 09:44:58
+"851","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.734015,2024-03-11 09:44:58
+"852","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.747586,2024-03-11 09:44:58
+"853","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.760453,2024-03-11 09:44:58
+"854","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.771088,2024-03-11 09:44:58
+"855","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.782169,2024-03-11 09:44:58
+"856","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.790915,2024-03-11 09:44:58
+"857","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.80018,2024-03-11 09:44:58
+"858","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.808108,2024-03-11 09:44:58
+"859","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.1455,2024-03-11 09:44:58
+"860","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.130107,2024-03-11 09:44:58
+"861","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.12118,2024-03-11 09:44:58
+"862","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.119578,2024-03-11 09:44:58
+"863","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.115136,2024-03-11 09:44:58
+"864","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.115768,2024-03-11 09:44:58
+"865","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.134255,2024-03-11 09:44:58
+"866","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.12856,2024-03-11 09:44:58
+"867","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.135229,2024-03-11 09:44:58
+"868","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.138625,2024-03-11 09:44:58
+"869","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.148612,2024-03-11 09:44:58
+"870","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.156993,2024-03-11 09:44:58
+"871","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.165057,2024-03-11 09:44:58
+"872","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.173449,2024-03-11 09:44:58
+"873","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.180463,2024-03-11 09:44:58
+"874","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.187596,2024-03-11 09:44:58
+"875","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.194023,2024-03-11 09:44:58
+"876","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.199699,2024-03-11 09:44:58
+"877","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.21112,2024-03-11 09:44:58
+"878","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.210825,2024-03-11 09:44:58
+"879","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.214926,2024-03-11 09:44:58
+"880","2005$/Mcal/day","PolicyReference","Japan","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.220731,2024-03-11 09:44:58
+"881","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.390789,2024-03-11 09:44:58
+"882","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.253677,2024-03-11 09:44:58
+"883","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.254762,2024-03-11 09:44:58
+"884","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.217844,2024-03-11 09:44:58
+"885","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.211603,2024-03-11 09:44:58
+"886","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.21339,2024-03-11 09:44:58
+"887","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.220974,2024-03-11 09:44:58
+"888","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.223017,2024-03-11 09:44:58
+"889","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.227433,2024-03-11 09:44:58
+"890","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.232078,2024-03-11 09:44:58
+"891","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.239896,2024-03-11 09:44:58
+"892","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.246341,2024-03-11 09:44:58
+"893","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.255684,2024-03-11 09:44:58
+"894","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.262928,2024-03-11 09:44:58
+"895","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.271675,2024-03-11 09:44:58
+"896","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.279814,2024-03-11 09:44:58
+"897","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.288014,2024-03-11 09:44:58
+"898","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.29539,2024-03-11 09:44:58
+"899","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.303858,2024-03-11 09:44:58
+"900","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.310647,2024-03-11 09:44:58
+"901","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.317873,2024-03-11 09:44:58
+"902","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.324227,2024-03-11 09:44:58
+"903","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0218409,2024-03-11 09:44:58
+"904","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0220235,2024-03-11 09:44:58
+"905","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0226875,2024-03-11 09:44:58
+"906","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0225081,2024-03-11 09:44:58
+"907","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0223988,2024-03-11 09:44:58
+"908","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0227108,2024-03-11 09:44:58
+"909","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0250834,2024-03-11 09:44:58
+"910","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0242084,2024-03-11 09:44:58
+"911","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0252052,2024-03-11 09:44:58
+"912","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0259773,2024-03-11 09:44:58
+"913","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0286064,2024-03-11 09:44:58
+"914","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0293465,2024-03-11 09:44:58
+"915","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0317909,2024-03-11 09:44:58
+"916","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0329821,2024-03-11 09:44:58
+"917","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0348112,2024-03-11 09:44:58
+"918","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0363799,2024-03-11 09:44:58
+"919","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0378917,2024-03-11 09:44:58
+"920","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0392252,2024-03-11 09:44:58
+"921","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0409159,2024-03-11 09:44:58
+"922","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0420991,2024-03-11 09:44:58
+"923","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0433425,2024-03-11 09:44:58
+"924","2005$/Mcal/day","PolicyReference","Mexico","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.044493,2024-03-11 09:44:58
+"925","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.477225,2024-03-11 09:44:58
+"926","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.357439,2024-03-11 09:44:58
+"927","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.363189,2024-03-11 09:44:58
+"928","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.309228,2024-03-11 09:44:58
+"929","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.2779,2024-03-11 09:44:58
+"930","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.280495,2024-03-11 09:44:58
+"931","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.300496,2024-03-11 09:44:58
+"932","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.300276,2024-03-11 09:44:58
+"933","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.307327,2024-03-11 09:44:58
+"934","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.315855,2024-03-11 09:44:58
+"935","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.333178,2024-03-11 09:44:58
+"936","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.347202,2024-03-11 09:44:58
+"937","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.363243,2024-03-11 09:44:58
+"938","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.3779,2024-03-11 09:44:58
+"939","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.39192,2024-03-11 09:44:58
+"940","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.405414,2024-03-11 09:44:58
+"941","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.418133,2024-03-11 09:44:58
+"942","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.429285,2024-03-11 09:44:58
+"943","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.441491,2024-03-11 09:44:58
+"944","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.45222,2024-03-11 09:44:58
+"945","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.464075,2024-03-11 09:44:58
+"946","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.47454,2024-03-11 09:44:58
+"947","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0375027,2024-03-11 09:44:58
+"948","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0342099,2024-03-11 09:44:58
+"949","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0358677,2024-03-11 09:44:58
+"950","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0333094,2024-03-11 09:44:58
+"951","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0326746,2024-03-11 09:44:58
+"952","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0330234,2024-03-11 09:44:58
+"953","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0377081,2024-03-11 09:44:58
+"954","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0371969,2024-03-11 09:44:58
+"955","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0392226,2024-03-11 09:44:58
+"956","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0410689,2024-03-11 09:44:58
+"957","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0444604,2024-03-11 09:44:58
+"958","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0471081,2024-03-11 09:44:58
+"959","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0506838,2024-03-11 09:44:58
+"960","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0539114,2024-03-11 09:44:58
+"961","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0571992,2024-03-11 09:44:58
+"962","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0604128,2024-03-11 09:44:58
+"963","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0634286,2024-03-11 09:44:58
+"964","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0659,2024-03-11 09:44:58
+"965","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0684428,2024-03-11 09:44:58
+"966","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0706398,2024-03-11 09:44:58
+"967","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0729805,2024-03-11 09:44:58
+"968","2005$/Mcal/day","PolicyReference","Middle East","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.074934,2024-03-11 09:44:58
+"969","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.199686,2024-03-11 09:44:58
+"970","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.116354,2024-03-11 09:44:58
+"971","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.117772,2024-03-11 09:44:58
+"972","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.113476,2024-03-11 09:44:58
+"973","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.111382,2024-03-11 09:44:58
+"974","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.115978,2024-03-11 09:44:58
+"975","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.121953,2024-03-11 09:44:58
+"976","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.124442,2024-03-11 09:44:58
+"977","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.127953,2024-03-11 09:44:58
+"978","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.1323,2024-03-11 09:44:58
+"979","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.138818,2024-03-11 09:44:58
+"980","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.147237,2024-03-11 09:44:58
+"981","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.158441,2024-03-11 09:44:58
+"982","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.168171,2024-03-11 09:44:58
+"983","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.176908,2024-03-11 09:44:58
+"984","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.185188,2024-03-11 09:44:58
+"985","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.192349,2024-03-11 09:44:58
+"986","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.198338,2024-03-11 09:44:58
+"987","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.205047,2024-03-11 09:44:58
+"988","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.210909,2024-03-11 09:44:58
+"989","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.217378,2024-03-11 09:44:58
+"990","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.223634,2024-03-11 09:44:58
+"991","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0273174,2024-03-11 09:44:58
+"992","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0275043,2024-03-11 09:44:58
+"993","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0275882,2024-03-11 09:44:58
+"994","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0274272,2024-03-11 09:44:58
+"995","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0272252,2024-03-11 09:44:58
+"996","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0285369,2024-03-11 09:44:58
+"997","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0305868,2024-03-11 09:44:58
+"998","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0311257,2024-03-11 09:44:58
+"999","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0320159,2024-03-11 09:44:58
+"1000","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0335299,2024-03-11 09:44:58
+"1001","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0360817,2024-03-11 09:44:58
+"1002","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0400439,2024-03-11 09:44:58
+"1003","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0464213,2024-03-11 09:44:58
+"1004","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0522597,2024-03-11 09:44:58
+"1005","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0572874,2024-03-11 09:44:58
+"1006","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0619629,2024-03-11 09:44:58
+"1007","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0657489,2024-03-11 09:44:58
+"1008","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0690958,2024-03-11 09:44:58
+"1009","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0728983,2024-03-11 09:44:58
+"1010","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0761647,2024-03-11 09:44:58
+"1011","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0794226,2024-03-11 09:44:58
+"1012","2005$/Mcal/day","PolicyReference","Pakistan","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0829188,2024-03-11 09:44:58
+"1013","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.355887,2024-03-11 09:44:58
+"1014","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.333554,2024-03-11 09:44:58
+"1015","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.273566,2024-03-11 09:44:58
+"1016","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.249381,2024-03-11 09:44:58
+"1017","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.234578,2024-03-11 09:44:58
+"1018","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.234954,2024-03-11 09:44:58
+"1019","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.246049,2024-03-11 09:44:58
+"1020","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.244446,2024-03-11 09:44:58
+"1021","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.249893,2024-03-11 09:44:58
+"1022","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.253301,2024-03-11 09:44:58
+"1023","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.260225,2024-03-11 09:44:58
+"1024","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.265848,2024-03-11 09:44:58
+"1025","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.273039,2024-03-11 09:44:58
+"1026","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.279512,2024-03-11 09:44:58
+"1027","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.286089,2024-03-11 09:44:58
+"1028","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.293875,2024-03-11 09:44:58
+"1029","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.302423,2024-03-11 09:44:58
+"1030","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.309882,2024-03-11 09:44:58
+"1031","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.318168,2024-03-11 09:44:58
+"1032","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.325395,2024-03-11 09:44:58
+"1033","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.332724,2024-03-11 09:44:58
+"1034","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.339032,2024-03-11 09:44:58
+"1035","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0238944,2024-03-11 09:44:58
+"1036","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0229548,2024-03-11 09:44:58
+"1037","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0205511,2024-03-11 09:44:58
+"1038","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0229399,2024-03-11 09:44:58
+"1039","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0226783,2024-03-11 09:44:58
+"1040","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0226605,2024-03-11 09:44:58
+"1041","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0246708,2024-03-11 09:44:58
+"1042","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0242168,2024-03-11 09:44:58
+"1043","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0251986,2024-03-11 09:44:58
+"1044","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.025747,2024-03-11 09:44:58
+"1045","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0269939,2024-03-11 09:44:58
+"1046","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0279796,2024-03-11 09:44:58
+"1047","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0294044,2024-03-11 09:44:58
+"1048","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0306681,2024-03-11 09:44:58
+"1049","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0319415,2024-03-11 09:44:58
+"1050","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0333627,2024-03-11 09:44:58
+"1051","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0348576,2024-03-11 09:44:58
+"1052","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0361501,2024-03-11 09:44:58
+"1053","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0375839,2024-03-11 09:44:58
+"1054","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0388305,2024-03-11 09:44:58
+"1055","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0401101,2024-03-11 09:44:58
+"1056","2005$/Mcal/day","PolicyReference","Russia","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0412107,2024-03-11 09:44:58
+"1057","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.548413,2024-03-11 09:44:58
+"1058","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.30562,2024-03-11 09:44:58
+"1059","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.259694,2024-03-11 09:44:58
+"1060","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.210974,2024-03-11 09:44:58
+"1061","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.196153,2024-03-11 09:44:58
+"1062","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.19703,2024-03-11 09:44:58
+"1063","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.206718,2024-03-11 09:44:58
+"1064","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.209826,2024-03-11 09:44:58
+"1065","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.218919,2024-03-11 09:44:58
+"1066","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.227864,2024-03-11 09:44:58
+"1067","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.244309,2024-03-11 09:44:58
+"1068","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.259004,2024-03-11 09:44:58
+"1069","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.268247,2024-03-11 09:44:58
+"1070","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.275953,2024-03-11 09:44:58
+"1071","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.284233,2024-03-11 09:44:58
+"1072","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.294399,2024-03-11 09:44:58
+"1073","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.305505,2024-03-11 09:44:58
+"1074","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.315998,2024-03-11 09:44:58
+"1075","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.324774,2024-03-11 09:44:58
+"1076","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.331851,2024-03-11 09:44:58
+"1077","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.339934,2024-03-11 09:44:58
+"1078","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.346704,2024-03-11 09:44:58
+"1079","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0192147,2024-03-11 09:44:58
+"1080","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0203969,2024-03-11 09:44:58
+"1081","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0208254,2024-03-11 09:44:58
+"1082","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0213737,2024-03-11 09:44:58
+"1083","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0212119,2024-03-11 09:44:58
+"1084","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0214534,2024-03-11 09:44:58
+"1085","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0239637,2024-03-11 09:44:58
+"1086","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0241685,2024-03-11 09:44:58
+"1087","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.025916,2024-03-11 09:44:58
+"1088","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.027574,2024-03-11 09:44:58
+"1089","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0307168,2024-03-11 09:44:58
+"1090","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0335334,2024-03-11 09:44:58
+"1091","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0355849,2024-03-11 09:44:58
+"1092","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0373453,2024-03-11 09:44:58
+"1093","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0392279,2024-03-11 09:44:58
+"1094","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0413422,2024-03-11 09:44:58
+"1095","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0435035,2024-03-11 09:44:58
+"1096","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0454687,2024-03-11 09:44:58
+"1097","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0471818,2024-03-11 09:44:58
+"1098","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0485505,2024-03-11 09:44:58
+"1099","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0501095,2024-03-11 09:44:58
+"1100","2005$/Mcal/day","PolicyReference","South Africa","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0514052,2024-03-11 09:44:58
+"1101","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.828998,2024-03-11 09:44:58
+"1102","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.649989,2024-03-11 09:44:58
+"1103","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.632254,2024-03-11 09:44:58
+"1104","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.548005,2024-03-11 09:44:58
+"1105","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.496352,2024-03-11 09:44:58
+"1106","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.492406,2024-03-11 09:44:58
+"1107","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.520036,2024-03-11 09:44:58
+"1108","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.52041,2024-03-11 09:44:58
+"1109","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.532751,2024-03-11 09:44:58
+"1110","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.546305,2024-03-11 09:44:58
+"1111","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.574316,2024-03-11 09:44:58
+"1112","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.594586,2024-03-11 09:44:58
+"1113","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.615232,2024-03-11 09:44:58
+"1114","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.635907,2024-03-11 09:44:58
+"1115","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.657012,2024-03-11 09:44:58
+"1116","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.676891,2024-03-11 09:44:58
+"1117","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.696245,2024-03-11 09:44:58
+"1118","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.712749,2024-03-11 09:44:58
+"1119","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.733355,2024-03-11 09:44:58
+"1120","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.748671,2024-03-11 09:44:58
+"1121","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.763873,2024-03-11 09:44:58
+"1122","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.776345,2024-03-11 09:44:58
+"1123","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.077902,2024-03-11 09:44:58
+"1124","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.070549,2024-03-11 09:44:58
+"1125","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0847022,2024-03-11 09:44:58
+"1126","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0726963,2024-03-11 09:44:58
+"1127","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0689942,2024-03-11 09:44:58
+"1128","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0692817,2024-03-11 09:44:58
+"1129","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0760126,2024-03-11 09:44:58
+"1130","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0752589,2024-03-11 09:44:58
+"1131","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0774649,2024-03-11 09:44:58
+"1132","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0796888,2024-03-11 09:44:58
+"1133","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0841721,2024-03-11 09:44:58
+"1134","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0871895,2024-03-11 09:44:58
+"1135","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0916135,2024-03-11 09:44:58
+"1136","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0960959,2024-03-11 09:44:58
+"1137","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.100548,2024-03-11 09:44:58
+"1138","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.104569,2024-03-11 09:44:58
+"1139","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.10813,2024-03-11 09:44:58
+"1140","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.11094,2024-03-11 09:44:58
+"1141","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.114382,2024-03-11 09:44:58
+"1142","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.116959,2024-03-11 09:44:58
+"1143","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.119621,2024-03-11 09:44:58
+"1144","2005$/Mcal/day","PolicyReference","South America_Northern","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.121792,2024-03-11 09:44:58
+"1145","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.553884,2024-03-11 09:44:58
+"1146","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.34987,2024-03-11 09:44:58
+"1147","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.318567,2024-03-11 09:44:58
+"1148","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.283198,2024-03-11 09:44:58
+"1149","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.269889,2024-03-11 09:44:58
+"1150","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.271758,2024-03-11 09:44:58
+"1151","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.288546,2024-03-11 09:44:58
+"1152","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.288045,2024-03-11 09:44:58
+"1153","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.293495,2024-03-11 09:44:58
+"1154","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.29923,2024-03-11 09:44:58
+"1155","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.311728,2024-03-11 09:44:58
+"1156","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.322343,2024-03-11 09:44:58
+"1157","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.336037,2024-03-11 09:44:58
+"1158","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.348148,2024-03-11 09:44:58
+"1159","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.360282,2024-03-11 09:44:58
+"1160","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.372226,2024-03-11 09:44:58
+"1161","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.384038,2024-03-11 09:44:58
+"1162","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.394276,2024-03-11 09:44:58
+"1163","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.406274,2024-03-11 09:44:58
+"1164","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.415074,2024-03-11 09:44:58
+"1165","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.424413,2024-03-11 09:44:58
+"1166","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.432401,2024-03-11 09:44:58
+"1167","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0355548,2024-03-11 09:44:58
+"1168","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.033413,2024-03-11 09:44:58
+"1169","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0335842,2024-03-11 09:44:58
+"1170","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.034328,2024-03-11 09:44:58
+"1171","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0342446,2024-03-11 09:44:58
+"1172","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0343604,2024-03-11 09:44:58
+"1173","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0381917,2024-03-11 09:44:58
+"1174","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0372357,2024-03-11 09:44:58
+"1175","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0380606,2024-03-11 09:44:58
+"1176","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0388204,2024-03-11 09:44:58
+"1177","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0409583,2024-03-11 09:44:58
+"1178","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0426869,2024-03-11 09:44:58
+"1179","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.045345,2024-03-11 09:44:58
+"1180","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0477038,2024-03-11 09:44:58
+"1181","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0500542,2024-03-11 09:44:58
+"1182","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0523154,2024-03-11 09:44:58
+"1183","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0543728,2024-03-11 09:44:58
+"1184","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0560691,2024-03-11 09:44:58
+"1185","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0580798,2024-03-11 09:44:58
+"1186","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0594146,2024-03-11 09:44:58
+"1187","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0608262,2024-03-11 09:44:58
+"1188","2005$/Mcal/day","PolicyReference","South America_Southern","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0620178,2024-03-11 09:44:58
+"1189","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,2.70252,2024-03-11 09:44:58
+"1190","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.248688,2024-03-11 09:44:58
+"1191","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.276087,2024-03-11 09:44:58
+"1192","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.269033,2024-03-11 09:44:58
+"1193","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.259785,2024-03-11 09:44:58
+"1194","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.263485,2024-03-11 09:44:58
+"1195","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.274533,2024-03-11 09:44:58
+"1196","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.277693,2024-03-11 09:44:58
+"1197","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.284381,2024-03-11 09:44:58
+"1198","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.292159,2024-03-11 09:44:58
+"1199","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.304181,2024-03-11 09:44:58
+"1200","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.315264,2024-03-11 09:44:58
+"1201","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.328655,2024-03-11 09:44:58
+"1202","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.341339,2024-03-11 09:44:58
+"1203","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.353186,2024-03-11 09:44:58
+"1204","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.364755,2024-03-11 09:44:58
+"1205","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.376179,2024-03-11 09:44:58
+"1206","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.386147,2024-03-11 09:44:58
+"1207","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.396737,2024-03-11 09:44:58
+"1208","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.406023,2024-03-11 09:44:58
+"1209","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.415968,2024-03-11 09:44:58
+"1210","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.424919,2024-03-11 09:44:58
+"1211","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0284442,2024-03-11 09:44:58
+"1212","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0281843,2024-03-11 09:44:58
+"1213","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0289231,2024-03-11 09:44:58
+"1214","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0294091,2024-03-11 09:44:58
+"1215","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.029859,2024-03-11 09:44:58
+"1216","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0307443,2024-03-11 09:44:58
+"1217","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0334678,2024-03-11 09:44:58
+"1218","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0342506,2024-03-11 09:44:58
+"1219","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0360653,2024-03-11 09:44:58
+"1220","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0379418,2024-03-11 09:44:58
+"1221","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0407443,2024-03-11 09:44:58
+"1222","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0435141,2024-03-11 09:44:58
+"1223","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0475707,2024-03-11 09:44:58
+"1224","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0517177,2024-03-11 09:44:58
+"1225","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0556855,2024-03-11 09:44:58
+"1226","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0596971,2024-03-11 09:44:58
+"1227","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0634277,2024-03-11 09:44:58
+"1228","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0666428,2024-03-11 09:44:58
+"1229","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.069841,2024-03-11 09:44:58
+"1230","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.072872,2024-03-11 09:44:58
+"1231","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0760983,2024-03-11 09:44:58
+"1232","2005$/Mcal/day","PolicyReference","South Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0793892,2024-03-11 09:44:58
+"1233","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,1.53197,2024-03-11 09:44:58
+"1234","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,1.29744,2024-03-11 09:44:58
+"1235","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,1.15887,2024-03-11 09:44:58
+"1236","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.952475,2024-03-11 09:44:58
+"1237","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.824025,2024-03-11 09:44:58
+"1238","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.8262,2024-03-11 09:44:58
+"1239","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.865411,2024-03-11 09:44:58
+"1240","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.86333,2024-03-11 09:44:58
+"1241","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.877562,2024-03-11 09:44:58
+"1242","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.893729,2024-03-11 09:44:58
+"1243","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.925783,2024-03-11 09:44:58
+"1244","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.950333,2024-03-11 09:44:58
+"1245","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.977862,2024-03-11 09:44:58
+"1246","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,1.00147,2024-03-11 09:44:58
+"1247","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,1.02296,2024-03-11 09:44:58
+"1248","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,1.04483,2024-03-11 09:44:58
+"1249","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,1.06651,2024-03-11 09:44:58
+"1250","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,1.08522,2024-03-11 09:44:58
+"1251","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,1.10607,2024-03-11 09:44:58
+"1252","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,1.12323,2024-03-11 09:44:58
+"1253","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,1.14198,2024-03-11 09:44:58
+"1254","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,1.15822,2024-03-11 09:44:58
+"1255","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.136284,2024-03-11 09:44:58
+"1256","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.127118,2024-03-11 09:44:58
+"1257","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.111969,2024-03-11 09:44:58
+"1258","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.112275,2024-03-11 09:44:58
+"1259","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.102396,2024-03-11 09:44:58
+"1260","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.103081,2024-03-11 09:44:58
+"1261","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.110008,2024-03-11 09:44:58
+"1262","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.109768,2024-03-11 09:44:58
+"1263","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.113101,2024-03-11 09:44:58
+"1264","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.116455,2024-03-11 09:44:58
+"1265","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.122788,2024-03-11 09:44:58
+"1266","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.126867,2024-03-11 09:44:58
+"1267","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.129796,2024-03-11 09:44:58
+"1268","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.132039,2024-03-11 09:44:58
+"1269","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.134484,2024-03-11 09:44:58
+"1270","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.137529,2024-03-11 09:44:58
+"1271","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.140656,2024-03-11 09:44:58
+"1272","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.142625,2024-03-11 09:44:58
+"1273","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.144236,2024-03-11 09:44:58
+"1274","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.14559,2024-03-11 09:44:58
+"1275","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.147152,2024-03-11 09:44:58
+"1276","2005$/Mcal/day","PolicyReference","South Korea","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.148718,2024-03-11 09:44:58
+"1277","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.632628,2024-03-11 09:44:58
+"1278","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.345796,2024-03-11 09:44:58
+"1279","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.349291,2024-03-11 09:44:58
+"1280","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.310667,2024-03-11 09:44:58
+"1281","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.28574,2024-03-11 09:44:58
+"1282","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.28749,2024-03-11 09:44:58
+"1283","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.298872,2024-03-11 09:44:58
+"1284","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.298642,2024-03-11 09:44:58
+"1285","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.302886,2024-03-11 09:44:58
+"1286","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.307386,2024-03-11 09:44:58
+"1287","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.316356,2024-03-11 09:44:58
+"1288","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.323352,2024-03-11 09:44:58
+"1289","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.331823,2024-03-11 09:44:58
+"1290","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.339512,2024-03-11 09:44:58
+"1291","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.347025,2024-03-11 09:44:58
+"1292","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.35427,2024-03-11 09:44:58
+"1293","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.361317,2024-03-11 09:44:58
+"1294","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.367357,2024-03-11 09:44:58
+"1295","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.374122,2024-03-11 09:44:58
+"1296","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.380092,2024-03-11 09:44:58
+"1297","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.386796,2024-03-11 09:44:58
+"1298","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.392607,2024-03-11 09:44:58
+"1299","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0370759,2024-03-11 09:44:58
+"1300","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0365292,2024-03-11 09:44:58
+"1301","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0362458,2024-03-11 09:44:58
+"1302","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0362242,2024-03-11 09:44:58
+"1303","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0355637,2024-03-11 09:44:58
+"1304","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0359278,2024-03-11 09:44:58
+"1305","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0410699,2024-03-11 09:44:58
+"1306","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0400562,2024-03-11 09:44:58
+"1307","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0414144,2024-03-11 09:44:58
+"1308","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0428441,2024-03-11 09:44:58
+"1309","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.046071,2024-03-11 09:44:58
+"1310","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0485694,2024-03-11 09:44:58
+"1311","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0524106,2024-03-11 09:44:58
+"1312","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0562686,2024-03-11 09:44:58
+"1313","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0601931,2024-03-11 09:44:58
+"1314","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0639622,2024-03-11 09:44:58
+"1315","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0672743,2024-03-11 09:44:58
+"1316","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.069966,2024-03-11 09:44:58
+"1317","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0727924,2024-03-11 09:44:58
+"1318","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0753808,2024-03-11 09:44:58
+"1319","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0783166,2024-03-11 09:44:58
+"1320","2005$/Mcal/day","PolicyReference","Southeast Asia","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0809355,2024-03-11 09:44:58
+"1321","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.469886,2024-03-11 09:44:58
+"1322","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.354788,2024-03-11 09:44:58
+"1323","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.330724,2024-03-11 09:44:58
+"1324","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.291426,2024-03-11 09:44:58
+"1325","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.267388,2024-03-11 09:44:58
+"1326","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.268723,2024-03-11 09:44:58
+"1327","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.280771,2024-03-11 09:44:58
+"1328","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.280271,2024-03-11 09:44:58
+"1329","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.285396,2024-03-11 09:44:58
+"1330","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.291255,2024-03-11 09:44:58
+"1331","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.30323,2024-03-11 09:44:58
+"1332","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.313006,2024-03-11 09:44:58
+"1333","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.32356,2024-03-11 09:44:58
+"1334","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.332393,2024-03-11 09:44:58
+"1335","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.338545,2024-03-11 09:44:58
+"1336","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.345321,2024-03-11 09:44:58
+"1337","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.352237,2024-03-11 09:44:58
+"1338","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.358437,2024-03-11 09:44:58
+"1339","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.36554,2024-03-11 09:44:58
+"1340","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.371568,2024-03-11 09:44:58
+"1341","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.378319,2024-03-11 09:44:58
+"1342","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.384097,2024-03-11 09:44:58
+"1343","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0604836,2024-03-11 09:44:58
+"1344","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0464362,2024-03-11 09:44:58
+"1345","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0397608,2024-03-11 09:44:58
+"1346","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0403237,2024-03-11 09:44:58
+"1347","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0396256,2024-03-11 09:44:58
+"1348","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0397808,2024-03-11 09:44:58
+"1349","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0439569,2024-03-11 09:44:58
+"1350","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0439318,2024-03-11 09:44:58
+"1351","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0468571,2024-03-11 09:44:58
+"1352","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0496291,2024-03-11 09:44:58
+"1353","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0541898,2024-03-11 09:44:58
+"1354","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0585837,2024-03-11 09:44:58
+"1355","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0640214,2024-03-11 09:44:58
+"1356","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0684703,2024-03-11 09:44:58
+"1357","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0698877,2024-03-11 09:44:58
+"1358","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0721607,2024-03-11 09:44:58
+"1359","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0749394,2024-03-11 09:44:58
+"1360","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0777787,2024-03-11 09:44:58
+"1361","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0810632,2024-03-11 09:44:58
+"1362","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0843177,2024-03-11 09:44:58
+"1363","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0879667,2024-03-11 09:44:58
+"1364","2005$/Mcal/day","PolicyReference","Taiwan","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0910404,2024-03-11 09:44:58
+"1365","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",1975,0.320009,2024-03-11 09:44:58
+"1366","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",1990,0.292997,2024-03-11 09:44:58
+"1367","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2005,0.295273,2024-03-11 09:44:58
+"1368","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2010,0.280179,2024-03-11 09:44:58
+"1369","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2015,0.278751,2024-03-11 09:44:58
+"1370","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2020,0.280928,2024-03-11 09:44:58
+"1371","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2025,0.294073,2024-03-11 09:44:58
+"1372","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2030,0.296229,2024-03-11 09:44:58
+"1373","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2035,0.303541,2024-03-11 09:44:58
+"1374","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2040,0.311076,2024-03-11 09:44:58
+"1375","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2045,0.324523,2024-03-11 09:44:58
+"1376","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2050,0.334711,2024-03-11 09:44:58
+"1377","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2055,0.346119,2024-03-11 09:44:58
+"1378","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2060,0.355893,2024-03-11 09:44:58
+"1379","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2065,0.365988,2024-03-11 09:44:58
+"1380","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2070,0.376675,2024-03-11 09:44:58
+"1381","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2075,0.388256,2024-03-11 09:44:58
+"1382","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2080,0.398422,2024-03-11 09:44:58
+"1383","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2085,0.409965,2024-03-11 09:44:58
+"1384","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2090,0.419439,2024-03-11 09:44:58
+"1385","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2095,0.429567,2024-03-11 09:44:58
+"1386","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_NonStaples",2100,0.438285,2024-03-11 09:44:58
+"1387","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",1975,0.0261819,2024-03-11 09:44:58
+"1388","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",1990,0.0245086,2024-03-11 09:44:58
+"1389","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2005,0.0249088,2024-03-11 09:44:58
+"1390","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2010,0.0248467,2024-03-11 09:44:58
+"1391","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2015,0.0251036,2024-03-11 09:44:58
+"1392","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2020,0.0253519,2024-03-11 09:44:58
+"1393","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2025,0.0274278,2024-03-11 09:44:58
+"1394","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2030,0.0274413,2024-03-11 09:44:58
+"1395","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2035,0.0285556,2024-03-11 09:44:58
+"1396","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2040,0.0295396,2024-03-11 09:44:58
+"1397","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2045,0.0314867,2024-03-11 09:44:58
+"1398","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2050,0.0329616,2024-03-11 09:44:58
+"1399","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2055,0.0347618,2024-03-11 09:44:58
+"1400","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2060,0.0362529,2024-03-11 09:44:58
+"1401","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2065,0.0377356,2024-03-11 09:44:58
+"1402","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2070,0.0392634,2024-03-11 09:44:58
+"1403","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2075,0.0408198,2024-03-11 09:44:58
+"1404","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2080,0.0421385,2024-03-11 09:44:58
+"1405","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2085,0.0436163,2024-03-11 09:44:58
+"1406","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2090,0.0448094,2024-03-11 09:44:58
+"1407","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2095,0.0460842,2024-03-11 09:44:58
+"1408","2005$/Mcal/day","PolicyReference","USA","FoodDemand","FoodDemand","FoodDemand_Staples",2100,0.0471694,2024-03-11 09:44:58

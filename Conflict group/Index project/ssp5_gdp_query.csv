@@ -1,0 +1,705 @@
+"","Units","scenario","region","year","account","value","rundate"
+"1","million 1990$","Reference","Africa_Eastern",1975,"gdp-per-capita",0.31443,2024-02-25 19:37:56
+"2","million 1990$","Reference","Africa_Eastern",1990,"gdp-per-capita",0.321787,2024-02-25 19:37:56
+"3","million 1990$","Reference","Africa_Eastern",2005,"gdp-per-capita",0.385735,2024-02-25 19:37:56
+"4","million 1990$","Reference","Africa_Eastern",2010,"gdp-per-capita",0.467632,2024-02-25 19:37:56
+"5","million 1990$","Reference","Africa_Eastern",2015,"gdp-per-capita",0.518454,2024-02-25 19:37:56
+"6","million 1990$","Reference","Africa_Eastern",2020,"gdp-per-capita",0.580054,2024-02-25 19:37:56
+"7","million 1990$","Reference","Africa_Eastern",2025,"gdp-per-capita",0.687445,2024-02-25 19:37:56
+"8","million 1990$","Reference","Africa_Eastern",2030,"gdp-per-capita",0.975332,2024-02-25 19:37:56
+"9","million 1990$","Reference","Africa_Eastern",2035,"gdp-per-capita",1.4292,2024-02-25 19:37:56
+"10","million 1990$","Reference","Africa_Eastern",2040,"gdp-per-capita",2.07429,2024-02-25 19:37:56
+"11","million 1990$","Reference","Africa_Eastern",2045,"gdp-per-capita",2.95428,2024-02-25 19:37:56
+"12","million 1990$","Reference","Africa_Eastern",2050,"gdp-per-capita",4.11207,2024-02-25 19:37:56
+"13","million 1990$","Reference","Africa_Eastern",2055,"gdp-per-capita",5.58798,2024-02-25 19:37:56
+"14","million 1990$","Reference","Africa_Eastern",2060,"gdp-per-capita",7.41504,2024-02-25 19:37:56
+"15","million 1990$","Reference","Africa_Eastern",2065,"gdp-per-capita",9.6063,2024-02-25 19:37:56
+"16","million 1990$","Reference","Africa_Eastern",2070,"gdp-per-capita",12.1669,2024-02-25 19:37:56
+"17","million 1990$","Reference","Africa_Eastern",2075,"gdp-per-capita",15.1059,2024-02-25 19:37:56
+"18","million 1990$","Reference","Africa_Eastern",2080,"gdp-per-capita",18.4365,2024-02-25 19:37:56
+"19","million 1990$","Reference","Africa_Eastern",2085,"gdp-per-capita",22.1733,2024-02-25 19:37:56
+"20","million 1990$","Reference","Africa_Eastern",2090,"gdp-per-capita",26.3266,2024-02-25 19:37:56
+"21","million 1990$","Reference","Africa_Eastern",2095,"gdp-per-capita",30.91,2024-02-25 19:37:56
+"22","million 1990$","Reference","Africa_Eastern",2100,"gdp-per-capita",35.9051,2024-02-25 19:37:56
+"23","million 1990$","Reference","Africa_Northern",1975,"gdp-per-capita",1.04436,2024-02-25 19:37:56
+"24","million 1990$","Reference","Africa_Northern",1990,"gdp-per-capita",1.5918,2024-02-25 19:37:56
+"25","million 1990$","Reference","Africa_Northern",2005,"gdp-per-capita",1.99972,2024-02-25 19:37:56
+"26","million 1990$","Reference","Africa_Northern",2010,"gdp-per-capita",2.30295,2024-02-25 19:37:56
+"27","million 1990$","Reference","Africa_Northern",2015,"gdp-per-capita",2.26218,2024-02-25 19:37:56
+"28","million 1990$","Reference","Africa_Northern",2020,"gdp-per-capita",2.65104,2024-02-25 19:37:56
+"29","million 1990$","Reference","Africa_Northern",2025,"gdp-per-capita",3.12253,2024-02-25 19:37:56
+"30","million 1990$","Reference","Africa_Northern",2030,"gdp-per-capita",4.08932,2024-02-25 19:37:56
+"31","million 1990$","Reference","Africa_Northern",2035,"gdp-per-capita",5.33874,2024-02-25 19:37:56
+"32","million 1990$","Reference","Africa_Northern",2040,"gdp-per-capita",6.78039,2024-02-25 19:37:56
+"33","million 1990$","Reference","Africa_Northern",2045,"gdp-per-capita",8.37873,2024-02-25 19:37:56
+"34","million 1990$","Reference","Africa_Northern",2050,"gdp-per-capita",10.1016,2024-02-25 19:37:56
+"35","million 1990$","Reference","Africa_Northern",2055,"gdp-per-capita",11.9921,2024-02-25 19:37:56
+"36","million 1990$","Reference","Africa_Northern",2060,"gdp-per-capita",14.0933,2024-02-25 19:37:56
+"37","million 1990$","Reference","Africa_Northern",2065,"gdp-per-capita",16.3973,2024-02-25 19:37:56
+"38","million 1990$","Reference","Africa_Northern",2070,"gdp-per-capita",18.8227,2024-02-25 19:37:56
+"39","million 1990$","Reference","Africa_Northern",2075,"gdp-per-capita",21.3575,2024-02-25 19:37:56
+"40","million 1990$","Reference","Africa_Northern",2080,"gdp-per-capita",24.0601,2024-02-25 19:37:56
+"41","million 1990$","Reference","Africa_Northern",2085,"gdp-per-capita",26.9666,2024-02-25 19:37:56
+"42","million 1990$","Reference","Africa_Northern",2090,"gdp-per-capita",30.1259,2024-02-25 19:37:56
+"43","million 1990$","Reference","Africa_Northern",2095,"gdp-per-capita",33.5639,2024-02-25 19:37:56
+"44","million 1990$","Reference","Africa_Northern",2100,"gdp-per-capita",37.2932,2024-02-25 19:37:56
+"45","million 1990$","Reference","Africa_Southern",1975,"gdp-per-capita",0.537213,2024-02-25 19:37:56
+"46","million 1990$","Reference","Africa_Southern",1990,"gdp-per-capita",0.513679,2024-02-25 19:37:56
+"47","million 1990$","Reference","Africa_Southern",2005,"gdp-per-capita",0.65223,2024-02-25 19:37:56
+"48","million 1990$","Reference","Africa_Southern",2010,"gdp-per-capita",0.863204,2024-02-25 19:37:56
+"49","million 1990$","Reference","Africa_Southern",2015,"gdp-per-capita",0.968488,2024-02-25 19:37:56
+"50","million 1990$","Reference","Africa_Southern",2020,"gdp-per-capita",0.978683,2024-02-25 19:37:56
+"51","million 1990$","Reference","Africa_Southern",2025,"gdp-per-capita",1.10924,2024-02-25 19:37:56
+"52","million 1990$","Reference","Africa_Southern",2030,"gdp-per-capita",1.46293,2024-02-25 19:37:56
+"53","million 1990$","Reference","Africa_Southern",2035,"gdp-per-capita",1.98407,2024-02-25 19:37:56
+"54","million 1990$","Reference","Africa_Southern",2040,"gdp-per-capita",2.703,2024-02-25 19:37:56
+"55","million 1990$","Reference","Africa_Southern",2045,"gdp-per-capita",3.67557,2024-02-25 19:37:56
+"56","million 1990$","Reference","Africa_Southern",2050,"gdp-per-capita",4.95985,2024-02-25 19:37:56
+"57","million 1990$","Reference","Africa_Southern",2055,"gdp-per-capita",6.59761,2024-02-25 19:37:56
+"58","million 1990$","Reference","Africa_Southern",2060,"gdp-per-capita",8.62334,2024-02-25 19:37:56
+"59","million 1990$","Reference","Africa_Southern",2065,"gdp-per-capita",11.0483,2024-02-25 19:37:56
+"60","million 1990$","Reference","Africa_Southern",2070,"gdp-per-capita",13.8744,2024-02-25 19:37:56
+"61","million 1990$","Reference","Africa_Southern",2075,"gdp-per-capita",17.0888,2024-02-25 19:37:56
+"62","million 1990$","Reference","Africa_Southern",2080,"gdp-per-capita",20.7263,2024-02-25 19:37:56
+"63","million 1990$","Reference","Africa_Southern",2085,"gdp-per-capita",24.7845,2024-02-25 19:37:56
+"64","million 1990$","Reference","Africa_Southern",2090,"gdp-per-capita",29.2629,2024-02-25 19:37:56
+"65","million 1990$","Reference","Africa_Southern",2095,"gdp-per-capita",34.171,2024-02-25 19:37:56
+"66","million 1990$","Reference","Africa_Southern",2100,"gdp-per-capita",39.4859,2024-02-25 19:37:56
+"67","million 1990$","Reference","Africa_Western",1975,"gdp-per-capita",0.859179,2024-02-25 19:37:56
+"68","million 1990$","Reference","Africa_Western",1990,"gdp-per-capita",0.699672,2024-02-25 19:37:56
+"69","million 1990$","Reference","Africa_Western",2005,"gdp-per-capita",0.812442,2024-02-25 19:37:56
+"70","million 1990$","Reference","Africa_Western",2010,"gdp-per-capita",0.947195,2024-02-25 19:37:56
+"71","million 1990$","Reference","Africa_Western",2015,"gdp-per-capita",1.04564,2024-02-25 19:37:56
+"72","million 1990$","Reference","Africa_Western",2020,"gdp-per-capita",1.06745,2024-02-25 19:37:56
+"73","million 1990$","Reference","Africa_Western",2025,"gdp-per-capita",1.20097,2024-02-25 19:37:56
+"74","million 1990$","Reference","Africa_Western",2030,"gdp-per-capita",1.70139,2024-02-25 19:37:56
+"75","million 1990$","Reference","Africa_Western",2035,"gdp-per-capita",2.45065,2024-02-25 19:37:56
+"76","million 1990$","Reference","Africa_Western",2040,"gdp-per-capita",3.45914,2024-02-25 19:37:56
+"77","million 1990$","Reference","Africa_Western",2045,"gdp-per-capita",4.76986,2024-02-25 19:37:56
+"78","million 1990$","Reference","Africa_Western",2050,"gdp-per-capita",6.43091,2024-02-25 19:37:56
+"79","million 1990$","Reference","Africa_Western",2055,"gdp-per-capita",8.49389,2024-02-25 19:37:56
+"80","million 1990$","Reference","Africa_Western",2060,"gdp-per-capita",11.0046,2024-02-25 19:37:56
+"81","million 1990$","Reference","Africa_Western",2065,"gdp-per-capita",13.9797,2024-02-25 19:37:56
+"82","million 1990$","Reference","Africa_Western",2070,"gdp-per-capita",17.4175,2024-02-25 19:37:56
+"83","million 1990$","Reference","Africa_Western",2075,"gdp-per-capita",21.3174,2024-02-25 19:37:56
+"84","million 1990$","Reference","Africa_Western",2080,"gdp-per-capita",25.7197,2024-02-25 19:37:56
+"85","million 1990$","Reference","Africa_Western",2085,"gdp-per-capita",30.6221,2024-02-25 19:37:56
+"86","million 1990$","Reference","Africa_Western",2090,"gdp-per-capita",36.0176,2024-02-25 19:37:56
+"87","million 1990$","Reference","Africa_Western",2095,"gdp-per-capita",41.9091,2024-02-25 19:37:56
+"88","million 1990$","Reference","Africa_Western",2100,"gdp-per-capita",48.2495,2024-02-25 19:37:56
+"89","million 1990$","Reference","Argentina",1975,"gdp-per-capita",5.29471,2024-02-25 19:37:56
+"90","million 1990$","Reference","Argentina",1990,"gdp-per-capita",3.95815,2024-02-25 19:37:56
+"91","million 1990$","Reference","Argentina",2005,"gdp-per-capita",5.69681,2024-02-25 19:37:56
+"92","million 1990$","Reference","Argentina",2010,"gdp-per-capita",6.87947,2024-02-25 19:37:56
+"93","million 1990$","Reference","Argentina",2015,"gdp-per-capita",7.0279,2024-02-25 19:37:56
+"94","million 1990$","Reference","Argentina",2020,"gdp-per-capita",6.77407,2024-02-25 19:37:56
+"95","million 1990$","Reference","Argentina",2025,"gdp-per-capita",7.90678,2024-02-25 19:37:56
+"96","million 1990$","Reference","Argentina",2030,"gdp-per-capita",9.65828,2024-02-25 19:37:56
+"97","million 1990$","Reference","Argentina",2035,"gdp-per-capita",11.7851,2024-02-25 19:37:56
+"98","million 1990$","Reference","Argentina",2040,"gdp-per-capita",14.029,2024-02-25 19:37:56
+"99","million 1990$","Reference","Argentina",2045,"gdp-per-capita",16.3223,2024-02-25 19:37:56
+"100","million 1990$","Reference","Argentina",2050,"gdp-per-capita",18.6832,2024-02-25 19:37:56
+"101","million 1990$","Reference","Argentina",2055,"gdp-per-capita",21.1504,2024-02-25 19:37:56
+"102","million 1990$","Reference","Argentina",2060,"gdp-per-capita",23.7526,2024-02-25 19:37:56
+"103","million 1990$","Reference","Argentina",2065,"gdp-per-capita",26.4951,2024-02-25 19:37:56
+"104","million 1990$","Reference","Argentina",2070,"gdp-per-capita",29.3427,2024-02-25 19:37:56
+"105","million 1990$","Reference","Argentina",2075,"gdp-per-capita",32.2512,2024-02-25 19:37:56
+"106","million 1990$","Reference","Argentina",2080,"gdp-per-capita",35.3505,2024-02-25 19:37:56
+"107","million 1990$","Reference","Argentina",2085,"gdp-per-capita",38.759,2024-02-25 19:37:56
+"108","million 1990$","Reference","Argentina",2090,"gdp-per-capita",42.5058,2024-02-25 19:37:56
+"109","million 1990$","Reference","Argentina",2095,"gdp-per-capita",46.6107,2024-02-25 19:37:56
+"110","million 1990$","Reference","Argentina",2100,"gdp-per-capita",51.0327,2024-02-25 19:37:56
+"111","million 1990$","Reference","Australia_NZ",1975,"gdp-per-capita",17.5212,2024-02-25 19:37:56
+"112","million 1990$","Reference","Australia_NZ",1990,"gdp-per-capita",23.3499,2024-02-25 19:37:56
+"113","million 1990$","Reference","Australia_NZ",2005,"gdp-per-capita",31.7869,2024-02-25 19:37:56
+"114","million 1990$","Reference","Australia_NZ",2010,"gdp-per-capita",33.2816,2024-02-25 19:37:56
+"115","million 1990$","Reference","Australia_NZ",2015,"gdp-per-capita",35.512,2024-02-25 19:37:56
+"116","million 1990$","Reference","Australia_NZ",2020,"gdp-per-capita",36.9477,2024-02-25 19:37:56
+"117","million 1990$","Reference","Australia_NZ",2025,"gdp-per-capita",38.7347,2024-02-25 19:37:56
+"118","million 1990$","Reference","Australia_NZ",2030,"gdp-per-capita",42.8993,2024-02-25 19:37:56
+"119","million 1990$","Reference","Australia_NZ",2035,"gdp-per-capita",47.9386,2024-02-25 19:37:56
+"120","million 1990$","Reference","Australia_NZ",2040,"gdp-per-capita",53.3482,2024-02-25 19:37:56
+"121","million 1990$","Reference","Australia_NZ",2045,"gdp-per-capita",59.0499,2024-02-25 19:37:56
+"122","million 1990$","Reference","Australia_NZ",2050,"gdp-per-capita",64.6591,2024-02-25 19:37:56
+"123","million 1990$","Reference","Australia_NZ",2055,"gdp-per-capita",70.4407,2024-02-25 19:37:56
+"124","million 1990$","Reference","Australia_NZ",2060,"gdp-per-capita",76.8753,2024-02-25 19:37:56
+"125","million 1990$","Reference","Australia_NZ",2065,"gdp-per-capita",84.1965,2024-02-25 19:37:56
+"126","million 1990$","Reference","Australia_NZ",2070,"gdp-per-capita",92.4022,2024-02-25 19:37:56
+"127","million 1990$","Reference","Australia_NZ",2075,"gdp-per-capita",101.248,2024-02-25 19:37:56
+"128","million 1990$","Reference","Australia_NZ",2080,"gdp-per-capita",110.74,2024-02-25 19:37:56
+"129","million 1990$","Reference","Australia_NZ",2085,"gdp-per-capita",120.992,2024-02-25 19:37:56
+"130","million 1990$","Reference","Australia_NZ",2090,"gdp-per-capita",132.184,2024-02-25 19:37:56
+"131","million 1990$","Reference","Australia_NZ",2095,"gdp-per-capita",144.488,2024-02-25 19:37:56
+"132","million 1990$","Reference","Australia_NZ",2100,"gdp-per-capita",158.033,2024-02-25 19:37:56
+"133","million 1990$","Reference","Brazil",1975,"gdp-per-capita",4.46924,2024-02-25 19:37:56
+"134","million 1990$","Reference","Brazil",1990,"gdp-per-capita",5.28111,2024-02-25 19:37:56
+"135","million 1990$","Reference","Brazil",2005,"gdp-per-capita",6.29041,2024-02-25 19:37:56
+"136","million 1990$","Reference","Brazil",2010,"gdp-per-capita",7.4451,2024-02-25 19:37:56
+"137","million 1990$","Reference","Brazil",2015,"gdp-per-capita",7.54278,2024-02-25 19:37:56
+"138","million 1990$","Reference","Brazil",2020,"gdp-per-capita",7.58096,2024-02-25 19:37:56
+"139","million 1990$","Reference","Brazil",2025,"gdp-per-capita",8.41488,2024-02-25 19:37:56
+"140","million 1990$","Reference","Brazil",2030,"gdp-per-capita",10.2832,2024-02-25 19:37:56
+"141","million 1990$","Reference","Brazil",2035,"gdp-per-capita",12.6807,2024-02-25 19:37:56
+"142","million 1990$","Reference","Brazil",2040,"gdp-per-capita",15.4341,2024-02-25 19:37:56
+"143","million 1990$","Reference","Brazil",2045,"gdp-per-capita",18.4629,2024-02-25 19:37:56
+"144","million 1990$","Reference","Brazil",2050,"gdp-per-capita",21.7081,2024-02-25 19:37:56
+"145","million 1990$","Reference","Brazil",2055,"gdp-per-capita",25.2326,2024-02-25 19:37:56
+"146","million 1990$","Reference","Brazil",2060,"gdp-per-capita",29.0595,2024-02-25 19:37:56
+"147","million 1990$","Reference","Brazil",2065,"gdp-per-capita",33.0877,2024-02-25 19:37:56
+"148","million 1990$","Reference","Brazil",2070,"gdp-per-capita",37.323,2024-02-25 19:37:56
+"149","million 1990$","Reference","Brazil",2075,"gdp-per-capita",41.9278,2024-02-25 19:37:56
+"150","million 1990$","Reference","Brazil",2080,"gdp-per-capita",46.9053,2024-02-25 19:37:56
+"151","million 1990$","Reference","Brazil",2085,"gdp-per-capita",52.2938,2024-02-25 19:37:56
+"152","million 1990$","Reference","Brazil",2090,"gdp-per-capita",58.2633,2024-02-25 19:37:56
+"153","million 1990$","Reference","Brazil",2095,"gdp-per-capita",64.9046,2024-02-25 19:37:56
+"154","million 1990$","Reference","Brazil",2100,"gdp-per-capita",72.2254,2024-02-25 19:37:56
+"155","million 1990$","Reference","Canada",1975,"gdp-per-capita",18.5079,2024-02-25 19:37:56
+"156","million 1990$","Reference","Canada",1990,"gdp-per-capita",24.2897,2024-02-25 19:37:56
+"157","million 1990$","Reference","Canada",2005,"gdp-per-capita",31.2679,2024-02-25 19:37:56
+"158","million 1990$","Reference","Canada",2010,"gdp-per-capita",31.1692,2024-02-25 19:37:56
+"159","million 1990$","Reference","Canada",2015,"gdp-per-capita",33.0052,2024-02-25 19:37:56
+"160","million 1990$","Reference","Canada",2020,"gdp-per-capita",33.7073,2024-02-25 19:37:56
+"161","million 1990$","Reference","Canada",2025,"gdp-per-capita",34.2405,2024-02-25 19:37:56
+"162","million 1990$","Reference","Canada",2030,"gdp-per-capita",37.2459,2024-02-25 19:37:56
+"163","million 1990$","Reference","Canada",2035,"gdp-per-capita",41.5905,2024-02-25 19:37:56
+"164","million 1990$","Reference","Canada",2040,"gdp-per-capita",46.5535,2024-02-25 19:37:56
+"165","million 1990$","Reference","Canada",2045,"gdp-per-capita",51.6621,2024-02-25 19:37:56
+"166","million 1990$","Reference","Canada",2050,"gdp-per-capita",56.5551,2024-02-25 19:37:56
+"167","million 1990$","Reference","Canada",2055,"gdp-per-capita",61.338,2024-02-25 19:37:56
+"168","million 1990$","Reference","Canada",2060,"gdp-per-capita",66.387,2024-02-25 19:37:56
+"169","million 1990$","Reference","Canada",2065,"gdp-per-capita",72.0675,2024-02-25 19:37:56
+"170","million 1990$","Reference","Canada",2070,"gdp-per-capita",78.4729,2024-02-25 19:37:56
+"171","million 1990$","Reference","Canada",2075,"gdp-per-capita",85.448,2024-02-25 19:37:56
+"172","million 1990$","Reference","Canada",2080,"gdp-per-capita",92.9214,2024-02-25 19:37:56
+"173","million 1990$","Reference","Canada",2085,"gdp-per-capita",101.029,2024-02-25 19:37:56
+"174","million 1990$","Reference","Canada",2090,"gdp-per-capita",109.926,2024-02-25 19:37:56
+"175","million 1990$","Reference","Canada",2095,"gdp-per-capita",119.777,2024-02-25 19:37:56
+"176","million 1990$","Reference","Canada",2100,"gdp-per-capita",130.74,2024-02-25 19:37:56
+"177","million 1990$","Reference","Central America and Caribbean",1975,"gdp-per-capita",1.70751,2024-02-25 19:37:56
+"178","million 1990$","Reference","Central America and Caribbean",1990,"gdp-per-capita",1.89643,2024-02-25 19:37:56
+"179","million 1990$","Reference","Central America and Caribbean",2005,"gdp-per-capita",2.35629,2024-02-25 19:37:56
+"180","million 1990$","Reference","Central America and Caribbean",2010,"gdp-per-capita",2.70281,2024-02-25 19:37:56
+"181","million 1990$","Reference","Central America and Caribbean",2015,"gdp-per-capita",3.04163,2024-02-25 19:37:56
+"182","million 1990$","Reference","Central America and Caribbean",2020,"gdp-per-capita",3.38342,2024-02-25 19:37:56
+"183","million 1990$","Reference","Central America and Caribbean",2025,"gdp-per-capita",3.91929,2024-02-25 19:37:56
+"184","million 1990$","Reference","Central America and Caribbean",2030,"gdp-per-capita",4.96499,2024-02-25 19:37:56
+"185","million 1990$","Reference","Central America and Caribbean",2035,"gdp-per-capita",6.37201,2024-02-25 19:37:56
+"186","million 1990$","Reference","Central America and Caribbean",2040,"gdp-per-capita",8.08338,2024-02-25 19:37:56
+"187","million 1990$","Reference","Central America and Caribbean",2045,"gdp-per-capita",10.1071,2024-02-25 19:37:56
+"188","million 1990$","Reference","Central America and Caribbean",2050,"gdp-per-capita",12.4207,2024-02-25 19:37:56
+"189","million 1990$","Reference","Central America and Caribbean",2055,"gdp-per-capita",15.0362,2024-02-25 19:37:56
+"190","million 1990$","Reference","Central America and Caribbean",2060,"gdp-per-capita",17.9606,2024-02-25 19:37:56
+"191","million 1990$","Reference","Central America and Caribbean",2065,"gdp-per-capita",21.1691,2024-02-25 19:37:56
+"192","million 1990$","Reference","Central America and Caribbean",2070,"gdp-per-capita",24.6274,2024-02-25 19:37:56
+"193","million 1990$","Reference","Central America and Caribbean",2075,"gdp-per-capita",28.3445,2024-02-25 19:37:56
+"194","million 1990$","Reference","Central America and Caribbean",2080,"gdp-per-capita",32.4675,2024-02-25 19:37:56
+"195","million 1990$","Reference","Central America and Caribbean",2085,"gdp-per-capita",37.0028,2024-02-25 19:37:56
+"196","million 1990$","Reference","Central America and Caribbean",2090,"gdp-per-capita",41.9861,2024-02-25 19:37:56
+"197","million 1990$","Reference","Central America and Caribbean",2095,"gdp-per-capita",47.5067,2024-02-25 19:37:56
+"198","million 1990$","Reference","Central America and Caribbean",2100,"gdp-per-capita",53.5842,2024-02-25 19:37:56
+"199","million 1990$","Reference","Central Asia",1975,"gdp-per-capita",1.59219,2024-02-25 19:37:56
+"200","million 1990$","Reference","Central Asia",1990,"gdp-per-capita",1.84246,2024-02-25 19:37:56
+"201","million 1990$","Reference","Central Asia",2005,"gdp-per-capita",1.75317,2024-02-25 19:37:56
+"202","million 1990$","Reference","Central Asia",2010,"gdp-per-capita",2.43636,2024-02-25 19:37:56
+"203","million 1990$","Reference","Central Asia",2015,"gdp-per-capita",2.93704,2024-02-25 19:37:56
+"204","million 1990$","Reference","Central Asia",2020,"gdp-per-capita",3.46862,2024-02-25 19:37:56
+"205","million 1990$","Reference","Central Asia",2025,"gdp-per-capita",4.2865,2024-02-25 19:37:56
+"206","million 1990$","Reference","Central Asia",2030,"gdp-per-capita",5.70546,2024-02-25 19:37:56
+"207","million 1990$","Reference","Central Asia",2035,"gdp-per-capita",7.42348,2024-02-25 19:37:56
+"208","million 1990$","Reference","Central Asia",2040,"gdp-per-capita",9.25101,2024-02-25 19:37:56
+"209","million 1990$","Reference","Central Asia",2045,"gdp-per-capita",11.0569,2024-02-25 19:37:56
+"210","million 1990$","Reference","Central Asia",2050,"gdp-per-capita",12.7348,2024-02-25 19:37:56
+"211","million 1990$","Reference","Central Asia",2055,"gdp-per-capita",14.3743,2024-02-25 19:37:56
+"212","million 1990$","Reference","Central Asia",2060,"gdp-per-capita",16.1762,2024-02-25 19:37:56
+"213","million 1990$","Reference","Central Asia",2065,"gdp-per-capita",18.2077,2024-02-25 19:37:56
+"214","million 1990$","Reference","Central Asia",2070,"gdp-per-capita",20.3364,2024-02-25 19:37:56
+"215","million 1990$","Reference","Central Asia",2075,"gdp-per-capita",22.4656,2024-02-25 19:37:56
+"216","million 1990$","Reference","Central Asia",2080,"gdp-per-capita",24.7519,2024-02-25 19:37:56
+"217","million 1990$","Reference","Central Asia",2085,"gdp-per-capita",27.2192,2024-02-25 19:37:56
+"218","million 1990$","Reference","Central Asia",2090,"gdp-per-capita",29.9419,2024-02-25 19:37:56
+"219","million 1990$","Reference","Central Asia",2095,"gdp-per-capita",32.9224,2024-02-25 19:37:56
+"220","million 1990$","Reference","Central Asia",2100,"gdp-per-capita",36.0735,2024-02-25 19:37:56
+"221","million 1990$","Reference","China",1975,"gdp-per-capita",0.196254,2024-02-25 19:37:56
+"222","million 1990$","Reference","China",1990,"gdp-per-capita",0.524798,2024-02-25 19:37:56
+"223","million 1990$","Reference","China",2005,"gdp-per-capita",1.86118,2024-02-25 19:37:56
+"224","million 1990$","Reference","China",2010,"gdp-per-capita",3.04715,2024-02-25 19:37:56
+"225","million 1990$","Reference","China",2015,"gdp-per-capita",4.29247,2024-02-25 19:37:56
+"226","million 1990$","Reference","China",2020,"gdp-per-capita",5.80316,2024-02-25 19:37:56
+"227","million 1990$","Reference","China",2025,"gdp-per-capita",7.71545,2024-02-25 19:37:56
+"228","million 1990$","Reference","China",2030,"gdp-per-capita",10.8472,2024-02-25 19:37:56
+"229","million 1990$","Reference","China",2035,"gdp-per-capita",14.3279,2024-02-25 19:37:56
+"230","million 1990$","Reference","China",2040,"gdp-per-capita",17.7266,2024-02-25 19:37:56
+"231","million 1990$","Reference","China",2045,"gdp-per-capita",20.982,2024-02-25 19:37:56
+"232","million 1990$","Reference","China",2050,"gdp-per-capita",23.9263,2024-02-25 19:37:56
+"233","million 1990$","Reference","China",2055,"gdp-per-capita",26.5409,2024-02-25 19:37:56
+"234","million 1990$","Reference","China",2060,"gdp-per-capita",29.0973,2024-02-25 19:37:56
+"235","million 1990$","Reference","China",2065,"gdp-per-capita",31.6264,2024-02-25 19:37:56
+"236","million 1990$","Reference","China",2070,"gdp-per-capita",34.1243,2024-02-25 19:37:56
+"237","million 1990$","Reference","China",2075,"gdp-per-capita",36.5347,2024-02-25 19:37:56
+"238","million 1990$","Reference","China",2080,"gdp-per-capita",39.126,2024-02-25 19:37:56
+"239","million 1990$","Reference","China",2085,"gdp-per-capita",41.857,2024-02-25 19:37:56
+"240","million 1990$","Reference","China",2090,"gdp-per-capita",44.8224,2024-02-25 19:37:56
+"241","million 1990$","Reference","China",2095,"gdp-per-capita",48.11,2024-02-25 19:37:56
+"242","million 1990$","Reference","China",2100,"gdp-per-capita",51.7691,2024-02-25 19:37:56
+"243","million 1990$","Reference","Colombia",1975,"gdp-per-capita",2.19642,2024-02-25 19:37:56
+"244","million 1990$","Reference","Colombia",1990,"gdp-per-capita",2.95034,2024-02-25 19:37:56
+"245","million 1990$","Reference","Colombia",2005,"gdp-per-capita",3.55665,2024-02-25 19:37:56
+"246","million 1990$","Reference","Colombia",2010,"gdp-per-capita",4.18679,2024-02-25 19:37:56
+"247","million 1990$","Reference","Colombia",2015,"gdp-per-capita",4.98521,2024-02-25 19:37:56
+"248","million 1990$","Reference","Colombia",2020,"gdp-per-capita",5.42317,2024-02-25 19:37:56
+"249","million 1990$","Reference","Colombia",2025,"gdp-per-capita",6.27091,2024-02-25 19:37:56
+"250","million 1990$","Reference","Colombia",2030,"gdp-per-capita",7.73925,2024-02-25 19:37:56
+"251","million 1990$","Reference","Colombia",2035,"gdp-per-capita",9.73466,2024-02-25 19:37:56
+"252","million 1990$","Reference","Colombia",2040,"gdp-per-capita",12.0944,2024-02-25 19:37:56
+"253","million 1990$","Reference","Colombia",2045,"gdp-per-capita",14.7627,2024-02-25 19:37:56
+"254","million 1990$","Reference","Colombia",2050,"gdp-per-capita",17.7151,2024-02-25 19:37:56
+"255","million 1990$","Reference","Colombia",2055,"gdp-per-capita",20.9573,2024-02-25 19:37:56
+"256","million 1990$","Reference","Colombia",2060,"gdp-per-capita",24.4932,2024-02-25 19:37:56
+"257","million 1990$","Reference","Colombia",2065,"gdp-per-capita",28.3174,2024-02-25 19:37:56
+"258","million 1990$","Reference","Colombia",2070,"gdp-per-capita",32.3874,2024-02-25 19:37:56
+"259","million 1990$","Reference","Colombia",2075,"gdp-per-capita",36.6809,2024-02-25 19:37:56
+"260","million 1990$","Reference","Colombia",2080,"gdp-per-capita",41.33,2024-02-25 19:37:56
+"261","million 1990$","Reference","Colombia",2085,"gdp-per-capita",46.3589,2024-02-25 19:37:56
+"262","million 1990$","Reference","Colombia",2090,"gdp-per-capita",51.8746,2024-02-25 19:37:56
+"263","million 1990$","Reference","Colombia",2095,"gdp-per-capita",57.9109,2024-02-25 19:37:56
+"264","million 1990$","Reference","Colombia",2100,"gdp-per-capita",64.4363,2024-02-25 19:37:56
+"265","million 1990$","Reference","EU-12",1975,"gdp-per-capita",3.52751,2024-02-25 19:37:56
+"266","million 1990$","Reference","EU-12",1990,"gdp-per-capita",4.9308,2024-02-25 19:37:56
+"267","million 1990$","Reference","EU-12",2005,"gdp-per-capita",7.0633,2024-02-25 19:37:56
+"268","million 1990$","Reference","EU-12",2010,"gdp-per-capita",8.30532,2024-02-25 19:37:56
+"269","million 1990$","Reference","EU-12",2015,"gdp-per-capita",9.49906,2024-02-25 19:37:56
+"270","million 1990$","Reference","EU-12",2020,"gdp-per-capita",11.4047,2024-02-25 19:37:56
+"271","million 1990$","Reference","EU-12",2025,"gdp-per-capita",13.0889,2024-02-25 19:37:56
+"272","million 1990$","Reference","EU-12",2030,"gdp-per-capita",15.6299,2024-02-25 19:37:56
+"273","million 1990$","Reference","EU-12",2035,"gdp-per-capita",18.5036,2024-02-25 19:37:56
+"274","million 1990$","Reference","EU-12",2040,"gdp-per-capita",21.3776,2024-02-25 19:37:56
+"275","million 1990$","Reference","EU-12",2045,"gdp-per-capita",24.1313,2024-02-25 19:37:56
+"276","million 1990$","Reference","EU-12",2050,"gdp-per-capita",26.8405,2024-02-25 19:37:56
+"277","million 1990$","Reference","EU-12",2055,"gdp-per-capita",29.6395,2024-02-25 19:37:56
+"278","million 1990$","Reference","EU-12",2060,"gdp-per-capita",32.788,2024-02-25 19:37:56
+"279","million 1990$","Reference","EU-12",2065,"gdp-per-capita",36.4047,2024-02-25 19:37:56
+"280","million 1990$","Reference","EU-12",2070,"gdp-per-capita",40.3918,2024-02-25 19:37:56
+"281","million 1990$","Reference","EU-12",2075,"gdp-per-capita",44.6073,2024-02-25 19:37:56
+"282","million 1990$","Reference","EU-12",2080,"gdp-per-capita",49.0931,2024-02-25 19:37:56
+"283","million 1990$","Reference","EU-12",2085,"gdp-per-capita",53.9158,2024-02-25 19:37:56
+"284","million 1990$","Reference","EU-12",2090,"gdp-per-capita",59.1768,2024-02-25 19:37:56
+"285","million 1990$","Reference","EU-12",2095,"gdp-per-capita",64.9672,2024-02-25 19:37:56
+"286","million 1990$","Reference","EU-12",2100,"gdp-per-capita",71.3566,2024-02-25 19:37:56
+"287","million 1990$","Reference","EU-15",1975,"gdp-per-capita",13.4595,2024-02-25 19:37:56
+"288","million 1990$","Reference","EU-15",1990,"gdp-per-capita",19.9666,2024-02-25 19:37:56
+"289","million 1990$","Reference","EU-15",2005,"gdp-per-capita",25.7003,2024-02-25 19:37:56
+"290","million 1990$","Reference","EU-15",2010,"gdp-per-capita",25.9933,2024-02-25 19:37:56
+"291","million 1990$","Reference","EU-15",2015,"gdp-per-capita",26.8454,2024-02-25 19:37:56
+"292","million 1990$","Reference","EU-15",2020,"gdp-per-capita",28.4361,2024-02-25 19:37:56
+"293","million 1990$","Reference","EU-15",2025,"gdp-per-capita",29.763,2024-02-25 19:37:56
+"294","million 1990$","Reference","EU-15",2030,"gdp-per-capita",32.6714,2024-02-25 19:37:56
+"295","million 1990$","Reference","EU-15",2035,"gdp-per-capita",36.2497,2024-02-25 19:37:56
+"296","million 1990$","Reference","EU-15",2040,"gdp-per-capita",40.1903,2024-02-25 19:37:56
+"297","million 1990$","Reference","EU-15",2045,"gdp-per-capita",44.3677,2024-02-25 19:37:56
+"298","million 1990$","Reference","EU-15",2050,"gdp-per-capita",48.7034,2024-02-25 19:37:56
+"299","million 1990$","Reference","EU-15",2055,"gdp-per-capita",53.3822,2024-02-25 19:37:56
+"300","million 1990$","Reference","EU-15",2060,"gdp-per-capita",58.6329,2024-02-25 19:37:56
+"301","million 1990$","Reference","EU-15",2065,"gdp-per-capita",64.5661,2024-02-25 19:37:56
+"302","million 1990$","Reference","EU-15",2070,"gdp-per-capita",71.152,2024-02-25 19:37:56
+"303","million 1990$","Reference","EU-15",2075,"gdp-per-capita",78.3397,2024-02-25 19:37:56
+"304","million 1990$","Reference","EU-15",2080,"gdp-per-capita",86.1112,2024-02-25 19:37:56
+"305","million 1990$","Reference","EU-15",2085,"gdp-per-capita",94.5686,2024-02-25 19:37:56
+"306","million 1990$","Reference","EU-15",2090,"gdp-per-capita",103.819,2024-02-25 19:37:56
+"307","million 1990$","Reference","EU-15",2095,"gdp-per-capita",113.927,2024-02-25 19:37:56
+"308","million 1990$","Reference","EU-15",2100,"gdp-per-capita",125.004,2024-02-25 19:37:56
+"309","million 1990$","Reference","Europe_Eastern",1975,"gdp-per-capita",1.75542,2024-02-25 19:37:56
+"310","million 1990$","Reference","Europe_Eastern",1990,"gdp-per-capita",2.4729,2024-02-25 19:37:56
+"311","million 1990$","Reference","Europe_Eastern",2005,"gdp-per-capita",1.89967,2024-02-25 19:37:56
+"312","million 1990$","Reference","Europe_Eastern",2010,"gdp-per-capita",2.2141,2024-02-25 19:37:56
+"313","million 1990$","Reference","Europe_Eastern",2015,"gdp-per-capita",2.13308,2024-02-25 19:37:56
+"314","million 1990$","Reference","Europe_Eastern",2020,"gdp-per-capita",2.4741,2024-02-25 19:37:56
+"315","million 1990$","Reference","Europe_Eastern",2025,"gdp-per-capita",2.97226,2024-02-25 19:37:56
+"316","million 1990$","Reference","Europe_Eastern",2030,"gdp-per-capita",3.95855,2024-02-25 19:37:56
+"317","million 1990$","Reference","Europe_Eastern",2035,"gdp-per-capita",5.19962,2024-02-25 19:37:56
+"318","million 1990$","Reference","Europe_Eastern",2040,"gdp-per-capita",6.54124,2024-02-25 19:37:56
+"319","million 1990$","Reference","Europe_Eastern",2045,"gdp-per-capita",7.92288,2024-02-25 19:37:56
+"320","million 1990$","Reference","Europe_Eastern",2050,"gdp-per-capita",9.32212,2024-02-25 19:37:56
+"321","million 1990$","Reference","Europe_Eastern",2055,"gdp-per-capita",10.813,2024-02-25 19:37:56
+"322","million 1990$","Reference","Europe_Eastern",2060,"gdp-per-capita",12.4648,2024-02-25 19:37:56
+"323","million 1990$","Reference","Europe_Eastern",2065,"gdp-per-capita",14.2632,2024-02-25 19:37:56
+"324","million 1990$","Reference","Europe_Eastern",2070,"gdp-per-capita",16.1161,2024-02-25 19:37:56
+"325","million 1990$","Reference","Europe_Eastern",2075,"gdp-per-capita",17.9678,2024-02-25 19:37:56
+"326","million 1990$","Reference","Europe_Eastern",2080,"gdp-per-capita",19.9117,2024-02-25 19:37:56
+"327","million 1990$","Reference","Europe_Eastern",2085,"gdp-per-capita",22.0021,2024-02-25 19:37:56
+"328","million 1990$","Reference","Europe_Eastern",2090,"gdp-per-capita",24.2671,2024-02-25 19:37:56
+"329","million 1990$","Reference","Europe_Eastern",2095,"gdp-per-capita",26.7048,2024-02-25 19:37:56
+"330","million 1990$","Reference","Europe_Eastern",2100,"gdp-per-capita",29.3155,2024-02-25 19:37:56
+"331","million 1990$","Reference","Europe_Non_EU",1975,"gdp-per-capita",2.68782,2024-02-25 19:37:56
+"332","million 1990$","Reference","Europe_Non_EU",1990,"gdp-per-capita",4.13008,2024-02-25 19:37:56
+"333","million 1990$","Reference","Europe_Non_EU",2005,"gdp-per-capita",5.67763,2024-02-25 19:37:56
+"334","million 1990$","Reference","Europe_Non_EU",2010,"gdp-per-capita",6.31709,2024-02-25 19:37:56
+"335","million 1990$","Reference","Europe_Non_EU",2015,"gdp-per-capita",8.05546,2024-02-25 19:37:56
+"336","million 1990$","Reference","Europe_Non_EU",2020,"gdp-per-capita",8.90079,2024-02-25 19:37:56
+"337","million 1990$","Reference","Europe_Non_EU",2025,"gdp-per-capita",10.2386,2024-02-25 19:37:56
+"338","million 1990$","Reference","Europe_Non_EU",2030,"gdp-per-capita",12.3756,2024-02-25 19:37:56
+"339","million 1990$","Reference","Europe_Non_EU",2035,"gdp-per-capita",14.9123,2024-02-25 19:37:56
+"340","million 1990$","Reference","Europe_Non_EU",2040,"gdp-per-capita",17.6891,2024-02-25 19:37:56
+"341","million 1990$","Reference","Europe_Non_EU",2045,"gdp-per-capita",20.6202,2024-02-25 19:37:56
+"342","million 1990$","Reference","Europe_Non_EU",2050,"gdp-per-capita",23.657,2024-02-25 19:37:56
+"343","million 1990$","Reference","Europe_Non_EU",2055,"gdp-per-capita",26.8805,2024-02-25 19:37:56
+"344","million 1990$","Reference","Europe_Non_EU",2060,"gdp-per-capita",30.3147,2024-02-25 19:37:56
+"345","million 1990$","Reference","Europe_Non_EU",2065,"gdp-per-capita",33.9687,2024-02-25 19:37:56
+"346","million 1990$","Reference","Europe_Non_EU",2070,"gdp-per-capita",37.7941,2024-02-25 19:37:56
+"347","million 1990$","Reference","Europe_Non_EU",2075,"gdp-per-capita",41.7639,2024-02-25 19:37:56
+"348","million 1990$","Reference","Europe_Non_EU",2080,"gdp-per-capita",46.0365,2024-02-25 19:37:56
+"349","million 1990$","Reference","Europe_Non_EU",2085,"gdp-per-capita",50.6875,2024-02-25 19:37:56
+"350","million 1990$","Reference","Europe_Non_EU",2090,"gdp-per-capita",55.7702,2024-02-25 19:37:56
+"351","million 1990$","Reference","Europe_Non_EU",2095,"gdp-per-capita",61.3307,2024-02-25 19:37:56
+"352","million 1990$","Reference","Europe_Non_EU",2100,"gdp-per-capita",67.462,2024-02-25 19:37:56
+"353","million 1990$","Reference","European Free Trade Association",1975,"gdp-per-capita",29.2393,2024-02-25 19:37:56
+"354","million 1990$","Reference","European Free Trade Association",1990,"gdp-per-capita",41.0317,2024-02-25 19:37:56
+"355","million 1990$","Reference","European Free Trade Association",2005,"gdp-per-capita",50.5281,2024-02-25 19:37:56
+"356","million 1990$","Reference","European Free Trade Association",2010,"gdp-per-capita",51.8712,2024-02-25 19:37:56
+"357","million 1990$","Reference","European Free Trade Association",2015,"gdp-per-capita",53.1166,2024-02-25 19:37:56
+"358","million 1990$","Reference","European Free Trade Association",2020,"gdp-per-capita",54.9465,2024-02-25 19:37:56
+"359","million 1990$","Reference","European Free Trade Association",2025,"gdp-per-capita",56.7393,2024-02-25 19:37:56
+"360","million 1990$","Reference","European Free Trade Association",2030,"gdp-per-capita",61.8195,2024-02-25 19:37:56
+"361","million 1990$","Reference","European Free Trade Association",2035,"gdp-per-capita",67.8234,2024-02-25 19:37:56
+"362","million 1990$","Reference","European Free Trade Association",2040,"gdp-per-capita",73.8934,2024-02-25 19:37:56
+"363","million 1990$","Reference","European Free Trade Association",2045,"gdp-per-capita",80.0011,2024-02-25 19:37:56
+"364","million 1990$","Reference","European Free Trade Association",2050,"gdp-per-capita",86.3714,2024-02-25 19:37:56
+"365","million 1990$","Reference","European Free Trade Association",2055,"gdp-per-capita",93.2872,2024-02-25 19:37:56
+"366","million 1990$","Reference","European Free Trade Association",2060,"gdp-per-capita",100.922,2024-02-25 19:37:56
+"367","million 1990$","Reference","European Free Trade Association",2065,"gdp-per-capita",109.724,2024-02-25 19:37:56
+"368","million 1990$","Reference","European Free Trade Association",2070,"gdp-per-capita",119.785,2024-02-25 19:37:56
+"369","million 1990$","Reference","European Free Trade Association",2075,"gdp-per-capita",130.906,2024-02-25 19:37:56
+"370","million 1990$","Reference","European Free Trade Association",2080,"gdp-per-capita",143.038,2024-02-25 19:37:56
+"371","million 1990$","Reference","European Free Trade Association",2085,"gdp-per-capita",156.124,2024-02-25 19:37:56
+"372","million 1990$","Reference","European Free Trade Association",2090,"gdp-per-capita",170.262,2024-02-25 19:37:56
+"373","million 1990$","Reference","European Free Trade Association",2095,"gdp-per-capita",185.637,2024-02-25 19:37:56
+"374","million 1990$","Reference","European Free Trade Association",2100,"gdp-per-capita",202.589,2024-02-25 19:37:56
+"375","million 1990$","Reference","India",1975,"gdp-per-capita",0.252534,2024-02-25 19:37:56
+"376","million 1990$","Reference","India",1990,"gdp-per-capita",0.351159,2024-02-25 19:37:56
+"377","million 1990$","Reference","India",2005,"gdp-per-capita",0.636462,2024-02-25 19:37:56
+"378","million 1990$","Reference","India",2010,"gdp-per-capita",0.882229,2024-02-25 19:37:56
+"379","million 1990$","Reference","India",2015,"gdp-per-capita",1.15514,2024-02-25 19:37:56
+"380","million 1990$","Reference","India",2020,"gdp-per-capita",1.57614,2024-02-25 19:37:56
+"381","million 1990$","Reference","India",2025,"gdp-per-capita",2.1748,2024-02-25 19:37:56
+"382","million 1990$","Reference","India",2030,"gdp-per-capita",3.05162,2024-02-25 19:37:56
+"383","million 1990$","Reference","India",2035,"gdp-per-capita",4.24823,2024-02-25 19:37:56
+"384","million 1990$","Reference","India",2040,"gdp-per-capita",5.70772,2024-02-25 19:37:56
+"385","million 1990$","Reference","India",2045,"gdp-per-capita",7.39935,2024-02-25 19:37:56
+"386","million 1990$","Reference","India",2050,"gdp-per-capita",9.28434,2024-02-25 19:37:56
+"387","million 1990$","Reference","India",2055,"gdp-per-capita",11.3717,2024-02-25 19:37:56
+"388","million 1990$","Reference","India",2060,"gdp-per-capita",13.667,2024-02-25 19:37:56
+"389","million 1990$","Reference","India",2065,"gdp-per-capita",16.1597,2024-02-25 19:37:56
+"390","million 1990$","Reference","India",2070,"gdp-per-capita",18.8107,2024-02-25 19:37:56
+"391","million 1990$","Reference","India",2075,"gdp-per-capita",21.6124,2024-02-25 19:37:56
+"392","million 1990$","Reference","India",2080,"gdp-per-capita",24.6426,2024-02-25 19:37:56
+"393","million 1990$","Reference","India",2085,"gdp-per-capita",27.9269,2024-02-25 19:37:56
+"394","million 1990$","Reference","India",2090,"gdp-per-capita",31.4735,2024-02-25 19:37:56
+"395","million 1990$","Reference","India",2095,"gdp-per-capita",35.3014,2024-02-25 19:37:56
+"396","million 1990$","Reference","India",2100,"gdp-per-capita",39.3887,2024-02-25 19:37:56
+"397","million 1990$","Reference","Indonesia",1975,"gdp-per-capita",0.523366,2024-02-25 19:37:56
+"398","million 1990$","Reference","Indonesia",1990,"gdp-per-capita",1.12661,2024-02-25 19:37:56
+"399","million 1990$","Reference","Indonesia",2005,"gdp-per-capita",1.66517,2024-02-25 19:37:56
+"400","million 1990$","Reference","Indonesia",2010,"gdp-per-capita",2.05975,2024-02-25 19:37:56
+"401","million 1990$","Reference","Indonesia",2015,"gdp-per-capita",2.52278,2024-02-25 19:37:56
+"402","million 1990$","Reference","Indonesia",2020,"gdp-per-capita",3.13361,2024-02-25 19:37:56
+"403","million 1990$","Reference","Indonesia",2025,"gdp-per-capita",4.0068,2024-02-25 19:37:56
+"404","million 1990$","Reference","Indonesia",2030,"gdp-per-capita",5.75032,2024-02-25 19:37:56
+"405","million 1990$","Reference","Indonesia",2035,"gdp-per-capita",8.13146,2024-02-25 19:37:56
+"406","million 1990$","Reference","Indonesia",2040,"gdp-per-capita",11.0087,2024-02-25 19:37:56
+"407","million 1990$","Reference","Indonesia",2045,"gdp-per-capita",14.2619,2024-02-25 19:37:56
+"408","million 1990$","Reference","Indonesia",2050,"gdp-per-capita",17.827,2024-02-25 19:37:56
+"409","million 1990$","Reference","Indonesia",2055,"gdp-per-capita",21.7167,2024-02-25 19:37:56
+"410","million 1990$","Reference","Indonesia",2060,"gdp-per-capita",25.9271,2024-02-25 19:37:56
+"411","million 1990$","Reference","Indonesia",2065,"gdp-per-capita",30.4192,2024-02-25 19:37:56
+"412","million 1990$","Reference","Indonesia",2070,"gdp-per-capita",35.0899,2024-02-25 19:37:56
+"413","million 1990$","Reference","Indonesia",2075,"gdp-per-capita",39.9735,2024-02-25 19:37:56
+"414","million 1990$","Reference","Indonesia",2080,"gdp-per-capita",45.1541,2024-02-25 19:37:56
+"415","million 1990$","Reference","Indonesia",2085,"gdp-per-capita",50.6578,2024-02-25 19:37:56
+"416","million 1990$","Reference","Indonesia",2090,"gdp-per-capita",56.5252,2024-02-25 19:37:56
+"417","million 1990$","Reference","Indonesia",2095,"gdp-per-capita",62.7967,2024-02-25 19:37:56
+"418","million 1990$","Reference","Indonesia",2100,"gdp-per-capita",69.4576,2024-02-25 19:37:56
+"419","million 1990$","Reference","Japan",1975,"gdp-per-capita",13.6968,2024-02-25 19:37:56
+"420","million 1990$","Reference","Japan",1990,"gdp-per-capita",24.921,2024-02-25 19:37:56
+"421","million 1990$","Reference","Japan",2005,"gdp-per-capita",29.1586,2024-02-25 19:37:56
+"422","million 1990$","Reference","Japan",2010,"gdp-per-capita",29.2522,2024-02-25 19:37:56
+"423","million 1990$","Reference","Japan",2015,"gdp-per-capita",30.9068,2024-02-25 19:37:56
+"424","million 1990$","Reference","Japan",2020,"gdp-per-capita",32.4696,2024-02-25 19:37:56
+"425","million 1990$","Reference","Japan",2025,"gdp-per-capita",33.8619,2024-02-25 19:37:56
+"426","million 1990$","Reference","Japan",2030,"gdp-per-capita",38.049,2024-02-25 19:37:56
+"427","million 1990$","Reference","Japan",2035,"gdp-per-capita",42.9776,2024-02-25 19:37:56
+"428","million 1990$","Reference","Japan",2040,"gdp-per-capita",48.0008,2024-02-25 19:37:56
+"429","million 1990$","Reference","Japan",2045,"gdp-per-capita",53.4322,2024-02-25 19:37:56
+"430","million 1990$","Reference","Japan",2050,"gdp-per-capita",59.121,2024-02-25 19:37:56
+"431","million 1990$","Reference","Japan",2055,"gdp-per-capita",65.3018,2024-02-25 19:37:56
+"432","million 1990$","Reference","Japan",2060,"gdp-per-capita",72.1573,2024-02-25 19:37:56
+"433","million 1990$","Reference","Japan",2065,"gdp-per-capita",79.7298,2024-02-25 19:37:56
+"434","million 1990$","Reference","Japan",2070,"gdp-per-capita",88.1126,2024-02-25 19:37:56
+"435","million 1990$","Reference","Japan",2075,"gdp-per-capita",97.2287,2024-02-25 19:37:56
+"436","million 1990$","Reference","Japan",2080,"gdp-per-capita",106.953,2024-02-25 19:37:56
+"437","million 1990$","Reference","Japan",2085,"gdp-per-capita",117.561,2024-02-25 19:37:56
+"438","million 1990$","Reference","Japan",2090,"gdp-per-capita",129.001,2024-02-25 19:37:56
+"439","million 1990$","Reference","Japan",2095,"gdp-per-capita",141.237,2024-02-25 19:37:56
+"440","million 1990$","Reference","Japan",2100,"gdp-per-capita",154.42,2024-02-25 19:37:56
+"441","million 1990$","Reference","Mexico",1975,"gdp-per-capita",4.06697,2024-02-25 19:37:56
+"442","million 1990$","Reference","Mexico",1990,"gdp-per-capita",4.02428,2024-02-25 19:37:56
+"443","million 1990$","Reference","Mexico",2005,"gdp-per-capita",6.11564,2024-02-25 19:37:56
+"444","million 1990$","Reference","Mexico",2010,"gdp-per-capita",6.11611,2024-02-25 19:37:56
+"445","million 1990$","Reference","Mexico",2015,"gdp-per-capita",6.62282,2024-02-25 19:37:56
+"446","million 1990$","Reference","Mexico",2020,"gdp-per-capita",7.09728,2024-02-25 19:37:56
+"447","million 1990$","Reference","Mexico",2025,"gdp-per-capita",7.94738,2024-02-25 19:37:56
+"448","million 1990$","Reference","Mexico",2030,"gdp-per-capita",9.59394,2024-02-25 19:37:56
+"449","million 1990$","Reference","Mexico",2035,"gdp-per-capita",11.7522,2024-02-25 19:37:56
+"450","million 1990$","Reference","Mexico",2040,"gdp-per-capita",14.204,2024-02-25 19:37:56
+"451","million 1990$","Reference","Mexico",2045,"gdp-per-capita",16.9525,2024-02-25 19:37:56
+"452","million 1990$","Reference","Mexico",2050,"gdp-per-capita",20.0379,2024-02-25 19:37:56
+"453","million 1990$","Reference","Mexico",2055,"gdp-per-capita",23.4506,2024-02-25 19:37:56
+"454","million 1990$","Reference","Mexico",2060,"gdp-per-capita",27.1644,2024-02-25 19:37:56
+"455","million 1990$","Reference","Mexico",2065,"gdp-per-capita",31.1914,2024-02-25 19:37:56
+"456","million 1990$","Reference","Mexico",2070,"gdp-per-capita",35.4461,2024-02-25 19:37:56
+"457","million 1990$","Reference","Mexico",2075,"gdp-per-capita",39.9574,2024-02-25 19:37:56
+"458","million 1990$","Reference","Mexico",2080,"gdp-per-capita",44.8209,2024-02-25 19:37:56
+"459","million 1990$","Reference","Mexico",2085,"gdp-per-capita",50.15,2024-02-25 19:37:56
+"460","million 1990$","Reference","Mexico",2090,"gdp-per-capita",55.9905,2024-02-25 19:37:56
+"461","million 1990$","Reference","Mexico",2095,"gdp-per-capita",62.4155,2024-02-25 19:37:56
+"462","million 1990$","Reference","Mexico",2100,"gdp-per-capita",69.5166,2024-02-25 19:37:56
+"463","million 1990$","Reference","Middle East",1975,"gdp-per-capita",5.06305,2024-02-25 19:37:56
+"464","million 1990$","Reference","Middle East",1990,"gdp-per-capita",4.81022,2024-02-25 19:37:56
+"465","million 1990$","Reference","Middle East",2005,"gdp-per-capita",6.09771,2024-02-25 19:37:56
+"466","million 1990$","Reference","Middle East",2010,"gdp-per-capita",6.58049,2024-02-25 19:37:56
+"467","million 1990$","Reference","Middle East",2015,"gdp-per-capita",6.94564,2024-02-25 19:37:56
+"468","million 1990$","Reference","Middle East",2020,"gdp-per-capita",7.06546,2024-02-25 19:37:56
+"469","million 1990$","Reference","Middle East",2025,"gdp-per-capita",7.51371,2024-02-25 19:37:56
+"470","million 1990$","Reference","Middle East",2030,"gdp-per-capita",9.12074,2024-02-25 19:37:56
+"471","million 1990$","Reference","Middle East",2035,"gdp-per-capita",11.1189,2024-02-25 19:37:56
+"472","million 1990$","Reference","Middle East",2040,"gdp-per-capita",13.2967,2024-02-25 19:37:56
+"473","million 1990$","Reference","Middle East",2045,"gdp-per-capita",15.5309,2024-02-25 19:37:56
+"474","million 1990$","Reference","Middle East",2050,"gdp-per-capita",17.7533,2024-02-25 19:37:56
+"475","million 1990$","Reference","Middle East",2055,"gdp-per-capita",20.0443,2024-02-25 19:37:56
+"476","million 1990$","Reference","Middle East",2060,"gdp-per-capita",22.5283,2024-02-25 19:37:56
+"477","million 1990$","Reference","Middle East",2065,"gdp-per-capita",25.2334,2024-02-25 19:37:56
+"478","million 1990$","Reference","Middle East",2070,"gdp-per-capita",28.0835,2024-02-25 19:37:56
+"479","million 1990$","Reference","Middle East",2075,"gdp-per-capita",31.1082,2024-02-25 19:37:56
+"480","million 1990$","Reference","Middle East",2080,"gdp-per-capita",34.4498,2024-02-25 19:37:56
+"481","million 1990$","Reference","Middle East",2085,"gdp-per-capita",38.1714,2024-02-25 19:37:56
+"482","million 1990$","Reference","Middle East",2090,"gdp-per-capita",42.321,2024-02-25 19:37:56
+"483","million 1990$","Reference","Middle East",2095,"gdp-per-capita",46.94,2024-02-25 19:37:56
+"484","million 1990$","Reference","Middle East",2100,"gdp-per-capita",52.0262,2024-02-25 19:37:56
+"485","million 1990$","Reference","Pakistan",1975,"gdp-per-capita",0.31703,2024-02-25 19:37:56
+"486","million 1990$","Reference","Pakistan",1990,"gdp-per-capita",0.481486,2024-02-25 19:37:56
+"487","million 1990$","Reference","Pakistan",2005,"gdp-per-capita",0.607146,2024-02-25 19:37:56
+"488","million 1990$","Reference","Pakistan",2010,"gdp-per-capita",0.6416,2024-02-25 19:37:56
+"489","million 1990$","Reference","Pakistan",2015,"gdp-per-capita",0.702603,2024-02-25 19:37:56
+"490","million 1990$","Reference","Pakistan",2020,"gdp-per-capita",0.803725,2024-02-25 19:37:56
+"491","million 1990$","Reference","Pakistan",2025,"gdp-per-capita",0.885581,2024-02-25 19:37:56
+"492","million 1990$","Reference","Pakistan",2030,"gdp-per-capita",1.17463,2024-02-25 19:37:56
+"493","million 1990$","Reference","Pakistan",2035,"gdp-per-capita",1.61142,2024-02-25 19:37:56
+"494","million 1990$","Reference","Pakistan",2040,"gdp-per-capita",2.19786,2024-02-25 19:37:56
+"495","million 1990$","Reference","Pakistan",2045,"gdp-per-capita",2.94411,2024-02-25 19:37:56
+"496","million 1990$","Reference","Pakistan",2050,"gdp-per-capita",3.84976,2024-02-25 19:37:56
+"497","million 1990$","Reference","Pakistan",2055,"gdp-per-capita",4.92293,2024-02-25 19:37:56
+"498","million 1990$","Reference","Pakistan",2060,"gdp-per-capita",6.17242,2024-02-25 19:37:56
+"499","million 1990$","Reference","Pakistan",2065,"gdp-per-capita",7.60141,2024-02-25 19:37:56
+"500","million 1990$","Reference","Pakistan",2070,"gdp-per-capita",9.21673,2024-02-25 19:37:56
+"501","million 1990$","Reference","Pakistan",2075,"gdp-per-capita",10.9917,2024-02-25 19:37:56
+"502","million 1990$","Reference","Pakistan",2080,"gdp-per-capita",12.9459,2024-02-25 19:37:56
+"503","million 1990$","Reference","Pakistan",2085,"gdp-per-capita",15.0857,2024-02-25 19:37:56
+"504","million 1990$","Reference","Pakistan",2090,"gdp-per-capita",17.4271,2024-02-25 19:37:56
+"505","million 1990$","Reference","Pakistan",2095,"gdp-per-capita",19.9962,2024-02-25 19:37:56
+"506","million 1990$","Reference","Pakistan",2100,"gdp-per-capita",22.7754,2024-02-25 19:37:56
+"507","million 1990$","Reference","Russia",1975,"gdp-per-capita",4.8753,2024-02-25 19:37:56
+"508","million 1990$","Reference","Russia",1990,"gdp-per-capita",6.32207,2024-02-25 19:37:56
+"509","million 1990$","Reference","Russia",2005,"gdp-per-capita",5.88322,2024-02-25 19:37:56
+"510","million 1990$","Reference","Russia",2010,"gdp-per-capita",7.01112,2024-02-25 19:37:56
+"511","million 1990$","Reference","Russia",2015,"gdp-per-capita",7.54457,2024-02-25 19:37:56
+"512","million 1990$","Reference","Russia",2020,"gdp-per-capita",8.16852,2024-02-25 19:37:56
+"513","million 1990$","Reference","Russia",2025,"gdp-per-capita",9.11971,2024-02-25 19:37:56
+"514","million 1990$","Reference","Russia",2030,"gdp-per-capita",11.6693,2024-02-25 19:37:56
+"515","million 1990$","Reference","Russia",2035,"gdp-per-capita",14.6335,2024-02-25 19:37:56
+"516","million 1990$","Reference","Russia",2040,"gdp-per-capita",17.4804,2024-02-25 19:37:56
+"517","million 1990$","Reference","Russia",2045,"gdp-per-capita",19.966,2024-02-25 19:37:56
+"518","million 1990$","Reference","Russia",2050,"gdp-per-capita",22.0801,2024-02-25 19:37:56
+"519","million 1990$","Reference","Russia",2055,"gdp-per-capita",24.1337,2024-02-25 19:37:56
+"520","million 1990$","Reference","Russia",2060,"gdp-per-capita",26.5019,2024-02-25 19:37:56
+"521","million 1990$","Reference","Russia",2065,"gdp-per-capita",29.1066,2024-02-25 19:37:56
+"522","million 1990$","Reference","Russia",2070,"gdp-per-capita",31.7219,2024-02-25 19:37:56
+"523","million 1990$","Reference","Russia",2075,"gdp-per-capita",34.2697,2024-02-25 19:37:56
+"524","million 1990$","Reference","Russia",2080,"gdp-per-capita",36.9754,2024-02-25 19:37:56
+"525","million 1990$","Reference","Russia",2085,"gdp-per-capita",40.0023,2024-02-25 19:37:56
+"526","million 1990$","Reference","Russia",2090,"gdp-per-capita",43.3929,2024-02-25 19:37:56
+"527","million 1990$","Reference","Russia",2095,"gdp-per-capita",47.1046,2024-02-25 19:37:56
+"528","million 1990$","Reference","Russia",2100,"gdp-per-capita",51.1389,2024-02-25 19:37:56
+"529","million 1990$","Reference","South Africa",1975,"gdp-per-capita",4.16579,2024-02-25 19:37:56
+"530","million 1990$","Reference","South Africa",1990,"gdp-per-capita",3.99598,2024-02-25 19:37:56
+"531","million 1990$","Reference","South Africa",2005,"gdp-per-capita",4.43946,2024-02-25 19:37:56
+"532","million 1990$","Reference","South Africa",2010,"gdp-per-capita",4.83449,2024-02-25 19:37:56
+"533","million 1990$","Reference","South Africa",2015,"gdp-per-capita",4.98928,2024-02-25 19:37:56
+"534","million 1990$","Reference","South Africa",2020,"gdp-per-capita",5.01206,2024-02-25 19:37:56
+"535","million 1990$","Reference","South Africa",2025,"gdp-per-capita",5.37708,2024-02-25 19:37:56
+"536","million 1990$","Reference","South Africa",2030,"gdp-per-capita",6.60553,2024-02-25 19:37:56
+"537","million 1990$","Reference","South Africa",2035,"gdp-per-capita",8.11263,2024-02-25 19:37:56
+"538","million 1990$","Reference","South Africa",2040,"gdp-per-capita",9.79582,2024-02-25 19:37:56
+"539","million 1990$","Reference","South Africa",2045,"gdp-per-capita",11.5979,2024-02-25 19:37:56
+"540","million 1990$","Reference","South Africa",2050,"gdp-per-capita",13.4686,2024-02-25 19:37:56
+"541","million 1990$","Reference","South Africa",2055,"gdp-per-capita",15.4356,2024-02-25 19:37:56
+"542","million 1990$","Reference","South Africa",2060,"gdp-per-capita",17.5449,2024-02-25 19:37:56
+"543","million 1990$","Reference","South Africa",2065,"gdp-per-capita",19.7432,2024-02-25 19:37:56
+"544","million 1990$","Reference","South Africa",2070,"gdp-per-capita",21.9848,2024-02-25 19:37:56
+"545","million 1990$","Reference","South Africa",2075,"gdp-per-capita",24.3058,2024-02-25 19:37:56
+"546","million 1990$","Reference","South Africa",2080,"gdp-per-capita",26.738,2024-02-25 19:37:56
+"547","million 1990$","Reference","South Africa",2085,"gdp-per-capita",29.2855,2024-02-25 19:37:56
+"548","million 1990$","Reference","South Africa",2090,"gdp-per-capita",31.9852,2024-02-25 19:37:56
+"549","million 1990$","Reference","South Africa",2095,"gdp-per-capita",34.8567,2024-02-25 19:37:56
+"550","million 1990$","Reference","South Africa",2100,"gdp-per-capita",37.8894,2024-02-25 19:37:56
+"551","million 1990$","Reference","South America_Northern",1975,"gdp-per-capita",9.03456,2024-02-25 19:37:56
+"552","million 1990$","Reference","South America_Northern",1990,"gdp-per-capita",5.64995,2024-02-25 19:37:56
+"553","million 1990$","Reference","South America_Northern",2005,"gdp-per-capita",5.91532,2024-02-25 19:37:56
+"554","million 1990$","Reference","South America_Northern",2010,"gdp-per-capita",6.60914,2024-02-25 19:37:56
+"555","million 1990$","Reference","South America_Northern",2015,"gdp-per-capita",6.33042,2024-02-25 19:37:56
+"556","million 1990$","Reference","South America_Northern",2020,"gdp-per-capita",2.44598,2024-02-25 19:37:56
+"557","million 1990$","Reference","South America_Northern",2025,"gdp-per-capita",2.31342,2024-02-25 19:37:56
+"558","million 1990$","Reference","South America_Northern",2030,"gdp-per-capita",2.78692,2024-02-25 19:37:56
+"559","million 1990$","Reference","South America_Northern",2035,"gdp-per-capita",3.42811,2024-02-25 19:37:56
+"560","million 1990$","Reference","South America_Northern",2040,"gdp-per-capita",4.17856,2024-02-25 19:37:56
+"561","million 1990$","Reference","South America_Northern",2045,"gdp-per-capita",5.04127,2024-02-25 19:37:56
+"562","million 1990$","Reference","South America_Northern",2050,"gdp-per-capita",6.00148,2024-02-25 19:37:56
+"563","million 1990$","Reference","South America_Northern",2055,"gdp-per-capita",7.06283,2024-02-25 19:37:56
+"564","million 1990$","Reference","South America_Northern",2060,"gdp-per-capita",8.22563,2024-02-25 19:37:56
+"565","million 1990$","Reference","South America_Northern",2065,"gdp-per-capita",9.46293,2024-02-25 19:37:56
+"566","million 1990$","Reference","South America_Northern",2070,"gdp-per-capita",10.7506,2024-02-25 19:37:56
+"567","million 1990$","Reference","South America_Northern",2075,"gdp-per-capita",12.0891,2024-02-25 19:37:56
+"568","million 1990$","Reference","South America_Northern",2080,"gdp-per-capita",13.5292,2024-02-25 19:37:56
+"569","million 1990$","Reference","South America_Northern",2085,"gdp-per-capita",15.0835,2024-02-25 19:37:56
+"570","million 1990$","Reference","South America_Northern",2090,"gdp-per-capita",16.7858,2024-02-25 19:37:56
+"571","million 1990$","Reference","South America_Northern",2095,"gdp-per-capita",18.6488,2024-02-25 19:37:56
+"572","million 1990$","Reference","South America_Northern",2100,"gdp-per-capita",20.6698,2024-02-25 19:37:56
+"573","million 1990$","Reference","South America_Southern",1975,"gdp-per-capita",2.24155,2024-02-25 19:37:56
+"574","million 1990$","Reference","South America_Southern",1990,"gdp-per-capita",2.39747,2024-02-25 19:37:56
+"575","million 1990$","Reference","South America_Southern",2005,"gdp-per-capita",3.52858,2024-02-25 19:37:56
+"576","million 1990$","Reference","South America_Southern",2010,"gdp-per-capita",4.21177,2024-02-25 19:37:56
+"577","million 1990$","Reference","South America_Southern",2015,"gdp-per-capita",4.89916,2024-02-25 19:37:56
+"578","million 1990$","Reference","South America_Southern",2020,"gdp-per-capita",5.44901,2024-02-25 19:37:56
+"579","million 1990$","Reference","South America_Southern",2025,"gdp-per-capita",6.3372,2024-02-25 19:37:56
+"580","million 1990$","Reference","South America_Southern",2030,"gdp-per-capita",8.03523,2024-02-25 19:37:56
+"581","million 1990$","Reference","South America_Southern",2035,"gdp-per-capita",10.1611,2024-02-25 19:37:56
+"582","million 1990$","Reference","South America_Southern",2040,"gdp-per-capita",12.5795,2024-02-25 19:37:56
+"583","million 1990$","Reference","South America_Southern",2045,"gdp-per-capita",15.2605,2024-02-25 19:37:56
+"584","million 1990$","Reference","South America_Southern",2050,"gdp-per-capita",18.1615,2024-02-25 19:37:56
+"585","million 1990$","Reference","South America_Southern",2055,"gdp-per-capita",21.2988,2024-02-25 19:37:56
+"586","million 1990$","Reference","South America_Southern",2060,"gdp-per-capita",24.6918,2024-02-25 19:37:56
+"587","million 1990$","Reference","South America_Southern",2065,"gdp-per-capita",28.333,2024-02-25 19:37:56
+"588","million 1990$","Reference","South America_Southern",2070,"gdp-per-capita",32.1872,2024-02-25 19:37:56
+"589","million 1990$","Reference","South America_Southern",2075,"gdp-per-capita",36.2482,2024-02-25 19:37:56
+"590","million 1990$","Reference","South America_Southern",2080,"gdp-per-capita",40.6558,2024-02-25 19:37:56
+"591","million 1990$","Reference","South America_Southern",2085,"gdp-per-capita",45.4497,2024-02-25 19:37:56
+"592","million 1990$","Reference","South America_Southern",2090,"gdp-per-capita",50.6912,2024-02-25 19:37:56
+"593","million 1990$","Reference","South America_Southern",2095,"gdp-per-capita",56.4812,2024-02-25 19:37:56
+"594","million 1990$","Reference","South America_Southern",2100,"gdp-per-capita",62.8338,2024-02-25 19:37:56
+"595","million 1990$","Reference","South Asia",1975,"gdp-per-capita",0.22523,2024-02-25 19:37:56
+"596","million 1990$","Reference","South Asia",1990,"gdp-per-capita",0.32757,2024-02-25 19:37:56
+"597","million 1990$","Reference","South Asia",2005,"gdp-per-capita",0.476591,2024-02-25 19:37:56
+"598","million 1990$","Reference","South Asia",2010,"gdp-per-capita",0.607841,2024-02-25 19:37:56
+"599","million 1990$","Reference","South Asia",2015,"gdp-per-capita",0.765585,2024-02-25 19:37:56
+"600","million 1990$","Reference","South Asia",2020,"gdp-per-capita",0.967698,2024-02-25 19:37:56
+"601","million 1990$","Reference","South Asia",2025,"gdp-per-capita",1.24959,2024-02-25 19:37:56
+"602","million 1990$","Reference","South Asia",2030,"gdp-per-capita",1.76126,2024-02-25 19:37:56
+"603","million 1990$","Reference","South Asia",2035,"gdp-per-capita",2.49582,2024-02-25 19:37:56
+"604","million 1990$","Reference","South Asia",2040,"gdp-per-capita",3.44175,2024-02-25 19:37:56
+"605","million 1990$","Reference","South Asia",2045,"gdp-per-capita",4.60522,2024-02-25 19:37:56
+"606","million 1990$","Reference","South Asia",2050,"gdp-per-capita",5.99545,2024-02-25 19:37:56
+"607","million 1990$","Reference","South Asia",2055,"gdp-per-capita",7.627,2024-02-25 19:37:56
+"608","million 1990$","Reference","South Asia",2060,"gdp-per-capita",9.51581,2024-02-25 19:37:56
+"609","million 1990$","Reference","South Asia",2065,"gdp-per-capita",11.6463,2024-02-25 19:37:56
+"610","million 1990$","Reference","South Asia",2070,"gdp-per-capita",14.009,2024-02-25 19:37:56
+"611","million 1990$","Reference","South Asia",2075,"gdp-per-capita",16.6283,2024-02-25 19:37:56
+"612","million 1990$","Reference","South Asia",2080,"gdp-per-capita",19.526,2024-02-25 19:37:56
+"613","million 1990$","Reference","South Asia",2085,"gdp-per-capita",22.7151,2024-02-25 19:37:56
+"614","million 1990$","Reference","South Asia",2090,"gdp-per-capita",26.2281,2024-02-25 19:37:56
+"615","million 1990$","Reference","South Asia",2095,"gdp-per-capita",30.1053,2024-02-25 19:37:56
+"616","million 1990$","Reference","South Asia",2100,"gdp-per-capita",34.3459,2024-02-25 19:37:56
+"617","million 1990$","Reference","South Korea",1975,"gdp-per-capita",1.86828,2024-02-25 19:37:56
+"618","million 1990$","Reference","South Korea",1990,"gdp-per-capita",5.57778,2024-02-25 19:37:56
+"619","million 1990$","Reference","South Korea",2005,"gdp-per-capita",12.1192,2024-02-25 19:37:56
+"620","million 1990$","Reference","South Korea",2010,"gdp-per-capita",14.5726,2024-02-25 19:37:56
+"621","million 1990$","Reference","South Korea",2015,"gdp-per-capita",16.4686,2024-02-25 19:37:56
+"622","million 1990$","Reference","South Korea",2020,"gdp-per-capita",18.6029,2024-02-25 19:37:56
+"623","million 1990$","Reference","South Korea",2025,"gdp-per-capita",21.2721,2024-02-25 19:37:56
+"624","million 1990$","Reference","South Korea",2030,"gdp-per-capita",24.8888,2024-02-25 19:37:56
+"625","million 1990$","Reference","South Korea",2035,"gdp-per-capita",28.5548,2024-02-25 19:37:56
+"626","million 1990$","Reference","South Korea",2040,"gdp-per-capita",32.1115,2024-02-25 19:37:56
+"627","million 1990$","Reference","South Korea",2045,"gdp-per-capita",35.7072,2024-02-25 19:37:56
+"628","million 1990$","Reference","South Korea",2050,"gdp-per-capita",39.3614,2024-02-25 19:37:56
+"629","million 1990$","Reference","South Korea",2055,"gdp-per-capita",43.285,2024-02-25 19:37:56
+"630","million 1990$","Reference","South Korea",2060,"gdp-per-capita",47.2153,2024-02-25 19:37:56
+"631","million 1990$","Reference","South Korea",2065,"gdp-per-capita",51.3915,2024-02-25 19:37:56
+"632","million 1990$","Reference","South Korea",2070,"gdp-per-capita",56.1768,2024-02-25 19:37:56
+"633","million 1990$","Reference","South Korea",2075,"gdp-per-capita",61.4026,2024-02-25 19:37:56
+"634","million 1990$","Reference","South Korea",2080,"gdp-per-capita",67.129,2024-02-25 19:37:56
+"635","million 1990$","Reference","South Korea",2085,"gdp-per-capita",73.1943,2024-02-25 19:37:56
+"636","million 1990$","Reference","South Korea",2090,"gdp-per-capita",79.5717,2024-02-25 19:37:56
+"637","million 1990$","Reference","South Korea",2095,"gdp-per-capita",86.3454,2024-02-25 19:37:56
+"638","million 1990$","Reference","South Korea",2100,"gdp-per-capita",93.6536,2024-02-25 19:37:56
+"639","million 1990$","Reference","Southeast Asia",1975,"gdp-per-capita",0.633926,2024-02-25 19:37:56
+"640","million 1990$","Reference","Southeast Asia",1990,"gdp-per-capita",1.01766,2024-02-25 19:37:56
+"641","million 1990$","Reference","Southeast Asia",2005,"gdp-per-capita",1.73497,2024-02-25 19:37:56
+"642","million 1990$","Reference","Southeast Asia",2010,"gdp-per-capita",2.09983,2024-02-25 19:37:56
+"643","million 1990$","Reference","Southeast Asia",2015,"gdp-per-capita",2.4972,2024-02-25 19:37:56
+"644","million 1990$","Reference","Southeast Asia",2020,"gdp-per-capita",3.02596,2024-02-25 19:37:56
+"645","million 1990$","Reference","Southeast Asia",2025,"gdp-per-capita",3.72383,2024-02-25 19:37:56
+"646","million 1990$","Reference","Southeast Asia",2030,"gdp-per-capita",4.85667,2024-02-25 19:37:56
+"647","million 1990$","Reference","Southeast Asia",2035,"gdp-per-capita",6.30934,2024-02-25 19:37:56
+"648","million 1990$","Reference","Southeast Asia",2040,"gdp-per-capita",8.01372,2024-02-25 19:37:56
+"649","million 1990$","Reference","Southeast Asia",2045,"gdp-per-capita",9.95564,2024-02-25 19:37:56
+"650","million 1990$","Reference","Southeast Asia",2050,"gdp-per-capita",12.1101,2024-02-25 19:37:56
+"651","million 1990$","Reference","Southeast Asia",2055,"gdp-per-capita",14.4984,2024-02-25 19:37:56
+"652","million 1990$","Reference","Southeast Asia",2060,"gdp-per-capita",17.1305,2024-02-25 19:37:56
+"653","million 1990$","Reference","Southeast Asia",2065,"gdp-per-capita",20.006,2024-02-25 19:37:56
+"654","million 1990$","Reference","Southeast Asia",2070,"gdp-per-capita",23.0741,2024-02-25 19:37:56
+"655","million 1990$","Reference","Southeast Asia",2075,"gdp-per-capita",26.3339,2024-02-25 19:37:56
+"656","million 1990$","Reference","Southeast Asia",2080,"gdp-per-capita",29.8532,2024-02-25 19:37:56
+"657","million 1990$","Reference","Southeast Asia",2085,"gdp-per-capita",33.6566,2024-02-25 19:37:56
+"658","million 1990$","Reference","Southeast Asia",2090,"gdp-per-capita",37.8087,2024-02-25 19:37:56
+"659","million 1990$","Reference","Southeast Asia",2095,"gdp-per-capita",42.3418,2024-02-25 19:37:56
+"660","million 1990$","Reference","Southeast Asia",2100,"gdp-per-capita",47.2484,2024-02-25 19:37:56
+"661","million 1990$","Reference","Taiwan",1975,"gdp-per-capita",1.8266,2024-02-25 19:37:56
+"662","million 1990$","Reference","Taiwan",1990,"gdp-per-capita",5.02134,2024-02-25 19:37:56
+"663","million 1990$","Reference","Taiwan",2005,"gdp-per-capita",10.5583,2024-02-25 19:37:56
+"664","million 1990$","Reference","Taiwan",2010,"gdp-per-capita",12.7549,2024-02-25 19:37:56
+"665","million 1990$","Reference","Taiwan",2015,"gdp-per-capita",14.2543,2024-02-25 19:37:56
+"666","million 1990$","Reference","Taiwan",2020,"gdp-per-capita",16.0869,2024-02-25 19:37:56
+"667","million 1990$","Reference","Taiwan",2025,"gdp-per-capita",18.1042,2024-02-25 19:37:56
+"668","million 1990$","Reference","Taiwan",2030,"gdp-per-capita",20.6721,2024-02-25 19:37:56
+"669","million 1990$","Reference","Taiwan",2035,"gdp-per-capita",23.3441,2024-02-25 19:37:56
+"670","million 1990$","Reference","Taiwan",2040,"gdp-per-capita",25.9151,2024-02-25 19:37:56
+"671","million 1990$","Reference","Taiwan",2045,"gdp-per-capita",28.1272,2024-02-25 19:37:56
+"672","million 1990$","Reference","Taiwan",2050,"gdp-per-capita",29.8151,2024-02-25 19:37:56
+"673","million 1990$","Reference","Taiwan",2055,"gdp-per-capita",31.0272,2024-02-25 19:37:56
+"674","million 1990$","Reference","Taiwan",2060,"gdp-per-capita",32.1502,2024-02-25 19:37:56
+"675","million 1990$","Reference","Taiwan",2065,"gdp-per-capita",34.2097,2024-02-25 19:37:56
+"676","million 1990$","Reference","Taiwan",2070,"gdp-per-capita",36.0169,2024-02-25 19:37:56
+"677","million 1990$","Reference","Taiwan",2075,"gdp-per-capita",37.4905,2024-02-25 19:37:56
+"678","million 1990$","Reference","Taiwan",2080,"gdp-per-capita",38.7851,2024-02-25 19:37:56
+"679","million 1990$","Reference","Taiwan",2085,"gdp-per-capita",39.6997,2024-02-25 19:37:56
+"680","million 1990$","Reference","Taiwan",2090,"gdp-per-capita",40.3582,2024-02-25 19:37:56
+"681","million 1990$","Reference","Taiwan",2095,"gdp-per-capita",40.7597,2024-02-25 19:37:56
+"682","million 1990$","Reference","Taiwan",2100,"gdp-per-capita",40.8161,2024-02-25 19:37:56
+"683","million 1990$","Reference","USA",1975,"gdp-per-capita",16.3025,2024-02-25 19:37:56
+"684","million 1990$","Reference","USA",1990,"gdp-per-capita",23.5499,2024-02-25 19:37:56
+"685","million 1990$","Reference","USA",2005,"gdp-per-capita",32.0492,2024-02-25 19:37:56
+"686","million 1990$","Reference","USA",2010,"gdp-per-capita",31.7769,2024-02-25 19:37:56
+"687","million 1990$","Reference","USA",2015,"gdp-per-capita",34.1022,2024-02-25 19:37:56
+"688","million 1990$","Reference","USA",2020,"gdp-per-capita",35.9933,2024-02-25 19:37:56
+"689","million 1990$","Reference","USA",2025,"gdp-per-capita",37.3798,2024-02-25 19:37:56
+"690","million 1990$","Reference","USA",2030,"gdp-per-capita",41.282,2024-02-25 19:37:56
+"691","million 1990$","Reference","USA",2035,"gdp-per-capita",45.3026,2024-02-25 19:37:56
+"692","million 1990$","Reference","USA",2040,"gdp-per-capita",49.0829,2024-02-25 19:37:56
+"693","million 1990$","Reference","USA",2045,"gdp-per-capita",52.7399,2024-02-25 19:37:56
+"694","million 1990$","Reference","USA",2050,"gdp-per-capita",56.2293,2024-02-25 19:37:56
+"695","million 1990$","Reference","USA",2055,"gdp-per-capita",59.825,2024-02-25 19:37:56
+"696","million 1990$","Reference","USA",2060,"gdp-per-capita",63.6966,2024-02-25 19:37:56
+"697","million 1990$","Reference","USA",2065,"gdp-per-capita",68.0291,2024-02-25 19:37:56
+"698","million 1990$","Reference","USA",2070,"gdp-per-capita",72.7342,2024-02-25 19:37:56
+"699","million 1990$","Reference","USA",2075,"gdp-per-capita",77.854,2024-02-25 19:37:56
+"700","million 1990$","Reference","USA",2080,"gdp-per-capita",83.5455,2024-02-25 19:37:56
+"701","million 1990$","Reference","USA",2085,"gdp-per-capita",89.76,2024-02-25 19:37:56
+"702","million 1990$","Reference","USA",2090,"gdp-per-capita",96.5343,2024-02-25 19:37:56
+"703","million 1990$","Reference","USA",2095,"gdp-per-capita",104.003,2024-02-25 19:37:56
+"704","million 1990$","Reference","USA",2100,"gdp-per-capita",112.315,2024-02-25 19:37:56

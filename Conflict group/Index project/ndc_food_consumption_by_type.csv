@@ -1,0 +1,1345 @@
+"","Units","scenario","region","sector","output","year","value","rundate"
+"1","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,34.210276,2024-03-11 09:44:58
+"2","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,57.916798,2024-03-11 09:44:58
+"3","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,75.681751,2024-03-11 09:44:58
+"4","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,81.783213,2024-03-11 09:44:58
+"5","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,94.776634,2024-03-11 09:44:58
+"6","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,102.644585,2024-03-11 09:44:58
+"7","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,126.240959,2024-03-11 09:44:58
+"8","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,150.138864,2024-03-11 09:44:58
+"9","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,176.743574,2024-03-11 09:44:58
+"10","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,204.700459,2024-03-11 09:44:58
+"11","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,235.805905,2024-03-11 09:44:58
+"12","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,267.89411,2024-03-11 09:44:58
+"13","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,303.156085,2024-03-11 09:44:58
+"14","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,337.203393,2024-03-11 09:44:58
+"15","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,373.1973,2024-03-11 09:44:58
+"16","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,407.2373,2024-03-11 09:44:58
+"17","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,440.08395,2024-03-11 09:44:58
+"18","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,469.77854,2024-03-11 09:44:58
+"19","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,496.83673,2024-03-11 09:44:58
+"20","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,520.50396,2024-03-11 09:44:58
+"21","Pcal","PolicyReference","Africa_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,541.1558,2024-03-11 09:44:58
+"22","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",1990,67.27167,2024-03-11 09:44:58
+"23","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2005,105.8426,2024-03-11 09:44:58
+"24","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2010,123.8952,2024-03-11 09:44:58
+"25","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2015,149.0123,2024-03-11 09:44:58
+"26","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2020,166.0087,2024-03-11 09:44:58
+"27","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2025,183.3582,2024-03-11 09:44:58
+"28","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2030,196.5988,2024-03-11 09:44:58
+"29","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2035,208.3231,2024-03-11 09:44:58
+"30","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2040,218.0272,2024-03-11 09:44:58
+"31","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2045,226.1051,2024-03-11 09:44:58
+"32","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2050,232.4137,2024-03-11 09:44:58
+"33","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2055,237.5213,2024-03-11 09:44:58
+"34","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2060,241.3364,2024-03-11 09:44:58
+"35","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2065,244.5478,2024-03-11 09:44:58
+"36","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2070,246.9548,2024-03-11 09:44:58
+"37","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2075,248.9226,2024-03-11 09:44:58
+"38","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2080,250.2656,2024-03-11 09:44:58
+"39","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2085,251.0449,2024-03-11 09:44:58
+"40","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2090,251.1893,2024-03-11 09:44:58
+"41","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2095,250.8246,2024-03-11 09:44:58
+"42","Pcal","PolicyReference","Africa_Eastern","FoodDemand_Staples","FoodDemand_Staples",2100,249.9299,2024-03-11 09:44:58
+"43","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,30.7199346,2024-03-11 09:44:58
+"44","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,51.3505605,2024-03-11 09:44:58
+"45","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,66.764819,2024-03-11 09:44:58
+"46","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,80.742244,2024-03-11 09:44:58
+"47","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,92.0273679,2024-03-11 09:44:58
+"48","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,102.68365816,2024-03-11 09:44:58
+"49","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,115.5699917,2024-03-11 09:44:58
+"50","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,127.47572812,2024-03-11 09:44:58
+"51","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,138.73628763,2024-03-11 09:44:58
+"52","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,148.92473948,2024-03-11 09:44:58
+"53","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,158.17598116,2024-03-11 09:44:58
+"54","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,166.3223995,2024-03-11 09:44:58
+"55","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,173.5086367,2024-03-11 09:44:58
+"56","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,179.6840976,2024-03-11 09:44:58
+"57","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,184.5805822,2024-03-11 09:44:58
+"58","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,188.2500779,2024-03-11 09:44:58
+"59","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,191.0046774,2024-03-11 09:44:58
+"60","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,192.9488453,2024-03-11 09:44:58
+"61","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,194.3204943,2024-03-11 09:44:58
+"62","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,195.0101193,2024-03-11 09:44:58
+"63","Pcal","PolicyReference","Africa_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,195.1279455,2024-03-11 09:44:58
+"64","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",1990,98.0733,2024-03-11 09:44:58
+"65","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2005,128.91114,2024-03-11 09:44:58
+"66","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2010,132.97665,2024-03-11 09:44:58
+"67","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2015,138.84579,2024-03-11 09:44:58
+"68","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2020,146.31825,2024-03-11 09:44:58
+"69","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2025,152.97445,2024-03-11 09:44:58
+"70","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2030,158.29069,2024-03-11 09:44:58
+"71","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2035,163.00284,2024-03-11 09:44:58
+"72","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2040,167.15743,2024-03-11 09:44:58
+"73","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2045,170.67905,2024-03-11 09:44:58
+"74","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2050,173.32492,2024-03-11 09:44:58
+"75","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2055,175.09988,2024-03-11 09:44:58
+"76","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2060,176.01305,2024-03-11 09:44:58
+"77","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2065,176.18774,2024-03-11 09:44:58
+"78","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2070,175.65338,2024-03-11 09:44:58
+"79","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2075,174.51593,2024-03-11 09:44:58
+"80","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2080,172.97833,2024-03-11 09:44:58
+"81","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2085,171.13488,2024-03-11 09:44:58
+"82","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2090,169.10071,2024-03-11 09:44:58
+"83","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2095,166.83391,2024-03-11 09:44:58
+"84","Pcal","PolicyReference","Africa_Northern","FoodDemand_Staples","FoodDemand_Staples",2100,164.40598,2024-03-11 09:44:58
+"85","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,13.3899315,2024-03-11 09:44:58
+"86","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,23.441071,2024-03-11 09:44:58
+"87","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,34.829784,2024-03-11 09:44:58
+"88","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,47.000777,2024-03-11 09:44:58
+"89","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,52.596728,2024-03-11 09:44:58
+"90","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,60.083026,2024-03-11 09:44:58
+"91","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,71.023347,2024-03-11 09:44:58
+"92","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,82.434558,2024-03-11 09:44:58
+"93","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,95.668019,2024-03-11 09:44:58
+"94","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,110.414238,2024-03-11 09:44:58
+"95","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,127.281471,2024-03-11 09:44:58
+"96","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,144.408355,2024-03-11 09:44:58
+"97","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,163.65098,2024-03-11 09:44:58
+"98","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,181.684376,2024-03-11 09:44:58
+"99","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,201.727035,2024-03-11 09:44:58
+"100","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,220.423227,2024-03-11 09:44:58
+"101","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,239.524779,2024-03-11 09:44:58
+"102","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,257.32069,2024-03-11 09:44:58
+"103","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,274.04248,2024-03-11 09:44:58
+"104","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,288.93118,2024-03-11 09:44:58
+"105","Pcal","PolicyReference","Africa_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,302.19553,2024-03-11 09:44:58
+"106","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",1990,45.00904,2024-03-11 09:44:58
+"107","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2005,66.45398,2024-03-11 09:44:58
+"108","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2010,75.91773,2024-03-11 09:44:58
+"109","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2015,83.39731,2024-03-11 09:44:58
+"110","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2020,93.52277,2024-03-11 09:44:58
+"111","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2025,102.89881,2024-03-11 09:44:58
+"112","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2030,111.34198,2024-03-11 09:44:58
+"113","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2035,119.51245,2024-03-11 09:44:58
+"114","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2040,126.89894,2024-03-11 09:44:58
+"115","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2045,133.24264,2024-03-11 09:44:58
+"116","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2050,138.58757,2024-03-11 09:44:58
+"117","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2055,143.10722,2024-03-11 09:44:58
+"118","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2060,146.74046,2024-03-11 09:44:58
+"119","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2065,150.01317,2024-03-11 09:44:58
+"120","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2070,152.68353,2024-03-11 09:44:58
+"121","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2075,154.94737,2024-03-11 09:44:58
+"122","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2080,156.80183,2024-03-11 09:44:58
+"123","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2085,158.33937,2024-03-11 09:44:58
+"124","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2090,159.39806,2024-03-11 09:44:58
+"125","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2095,160.01854,2024-03-11 09:44:58
+"126","Pcal","PolicyReference","Africa_Southern","FoodDemand_Staples","FoodDemand_Staples",2100,160.20321,2024-03-11 09:44:58
+"127","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,46.92651,2024-03-11 09:44:58
+"128","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,81.367324,2024-03-11 09:44:58
+"129","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,113.35785,2024-03-11 09:44:58
+"130","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,140.08913,2024-03-11 09:44:58
+"131","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,157.62864,2024-03-11 09:44:58
+"132","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,178.83089,2024-03-11 09:44:58
+"133","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,220.30628,2024-03-11 09:44:58
+"134","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,265.84876,2024-03-11 09:44:58
+"135","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,317.64476,2024-03-11 09:44:58
+"136","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,374.15786,2024-03-11 09:44:58
+"137","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,436.56073,2024-03-11 09:44:58
+"138","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,501.62444,2024-03-11 09:44:58
+"139","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,568.27683,2024-03-11 09:44:58
+"140","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,634.54005,2024-03-11 09:44:58
+"141","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,699.10121,2024-03-11 09:44:58
+"142","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,761.14109,2024-03-11 09:44:58
+"143","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,821.04861,2024-03-11 09:44:58
+"144","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,877.52625,2024-03-11 09:44:58
+"145","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,929.4028,2024-03-11 09:44:58
+"146","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,975.9029,2024-03-11 09:44:58
+"147","Pcal","PolicyReference","Africa_Western","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,1018.027,2024-03-11 09:44:58
+"148","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",1990,135.69977,2024-03-11 09:44:58
+"149","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2005,211.4679,2024-03-11 09:44:58
+"150","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2010,253.5249,2024-03-11 09:44:58
+"151","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2015,294.1859,2024-03-11 09:44:58
+"152","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2020,330.676,2024-03-11 09:44:58
+"153","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2025,366.987,2024-03-11 09:44:58
+"154","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2030,397.3618,2024-03-11 09:44:58
+"155","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2035,426.923,2024-03-11 09:44:58
+"156","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2040,454.7674,2024-03-11 09:44:58
+"157","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2045,481.0162,2024-03-11 09:44:58
+"158","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2050,505.524,2024-03-11 09:44:58
+"159","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2055,526.9235,2024-03-11 09:44:58
+"160","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2060,545.7934,2024-03-11 09:44:58
+"161","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2065,563.2696,2024-03-11 09:44:58
+"162","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2070,579.1885,2024-03-11 09:44:58
+"163","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2075,593.31,2024-03-11 09:44:58
+"164","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2080,605.5077,2024-03-11 09:44:58
+"165","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2085,615.6239,2024-03-11 09:44:58
+"166","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2090,623.7732,2024-03-11 09:44:58
+"167","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2095,630.2664,2024-03-11 09:44:58
+"168","Pcal","PolicyReference","Africa_Western","FoodDemand_Staples","FoodDemand_Staples",2100,635.2534,2024-03-11 09:44:58
+"169","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,18.878114,2024-03-11 09:44:58
+"170","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,22.4955285,2024-03-11 09:44:58
+"171","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,25.9406438,2024-03-11 09:44:58
+"172","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,29.401777,2024-03-11 09:44:58
+"173","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,29.9979817,2024-03-11 09:44:58
+"174","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,32.0100262,2024-03-11 09:44:58
+"175","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,34.0247129,2024-03-11 09:44:58
+"176","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,35.7593774,2024-03-11 09:44:58
+"177","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,37.2798141,2024-03-11 09:44:58
+"178","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,38.4567999,2024-03-11 09:44:58
+"179","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,39.5067378,2024-03-11 09:44:58
+"180","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,40.3646974,2024-03-11 09:44:58
+"181","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,41.0650494,2024-03-11 09:44:58
+"182","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,41.6132379,2024-03-11 09:44:58
+"183","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,41.9840415,2024-03-11 09:44:58
+"184","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,42.1777555,2024-03-11 09:44:58
+"185","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,42.2383846,2024-03-11 09:44:58
+"186","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,42.1911575,2024-03-11 09:44:58
+"187","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,42.0902331,2024-03-11 09:44:58
+"188","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,41.9071215,2024-03-11 09:44:58
+"189","Pcal","PolicyReference","Argentina","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,41.6699673,2024-03-11 09:44:58
+"190","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",1990,15.9662841,2024-03-11 09:44:58
+"191","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2005,16.558437,2024-03-11 09:44:58
+"192","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2010,20.962009,2024-03-11 09:44:58
+"193","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2015,19.542953,2024-03-11 09:44:58
+"194","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2020,20.31012,2024-03-11 09:44:58
+"195","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2025,20.77292,2024-03-11 09:44:58
+"196","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2030,21.18257,2024-03-11 09:44:58
+"197","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2035,21.53935,2024-03-11 09:44:58
+"198","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2040,21.84935,2024-03-11 09:44:58
+"199","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2045,22.07716,2024-03-11 09:44:58
+"200","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2050,22.22603,2024-03-11 09:44:58
+"201","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2055,22.29168,2024-03-11 09:44:58
+"202","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2060,22.27709,2024-03-11 09:44:58
+"203","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2065,22.20852,2024-03-11 09:44:58
+"204","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2070,22.07406,2024-03-11 09:44:58
+"205","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2075,21.88005,2024-03-11 09:44:58
+"206","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2080,21.63233,2024-03-11 09:44:58
+"207","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2085,21.36089,2024-03-11 09:44:58
+"208","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2090,21.07194,2024-03-11 09:44:58
+"209","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2095,20.76632,2024-03-11 09:44:58
+"210","Pcal","PolicyReference","Argentina","FoodDemand_Staples","FoodDemand_Staples",2100,20.44777,2024-03-11 09:44:58
+"211","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,13.657997,2024-03-11 09:44:58
+"212","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,15.97999,2024-03-11 09:44:58
+"213","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,19.95988,2024-03-11 09:44:58
+"214","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,22.608971,2024-03-11 09:44:58
+"215","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,24.552182,2024-03-11 09:44:58
+"216","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,26.414154,2024-03-11 09:44:58
+"217","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,28.313544,2024-03-11 09:44:58
+"218","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,30.060716,2024-03-11 09:44:58
+"219","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,31.785424,2024-03-11 09:44:58
+"220","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,33.435652,2024-03-11 09:44:58
+"221","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,35.0524,2024-03-11 09:44:58
+"222","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,36.585687,2024-03-11 09:44:58
+"223","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,38.087054,2024-03-11 09:44:58
+"224","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,39.457838,2024-03-11 09:44:58
+"225","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,40.670357,2024-03-11 09:44:58
+"226","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,41.698407,2024-03-11 09:44:58
+"227","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,42.54515,2024-03-11 09:44:58
+"228","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,43.167151,2024-03-11 09:44:58
+"229","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,43.569552,2024-03-11 09:44:58
+"230","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,43.717363,2024-03-11 09:44:58
+"231","Pcal","PolicyReference","Australia_NZ","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,43.652341,2024-03-11 09:44:58
+"232","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",1990,6.775656,2024-03-11 09:44:58
+"233","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2005,8.80556,2024-03-11 09:44:58
+"234","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2010,8.824617,2024-03-11 09:44:58
+"235","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2015,10.128953,2024-03-11 09:44:58
+"236","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2020,10.836345,2024-03-11 09:44:58
+"237","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2025,11.526247,2024-03-11 09:44:58
+"238","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2030,12.178373,2024-03-11 09:44:58
+"239","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2035,12.796453,2024-03-11 09:44:58
+"240","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2040,13.397151,2024-03-11 09:44:58
+"241","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2045,13.983462,2024-03-11 09:44:58
+"242","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2050,14.551892,2024-03-11 09:44:58
+"243","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2055,15.089636,2024-03-11 09:44:58
+"244","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2060,15.585843,2024-03-11 09:44:58
+"245","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2065,16.003732,2024-03-11 09:44:58
+"246","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2070,16.348017,2024-03-11 09:44:58
+"247","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2075,16.622135,2024-03-11 09:44:58
+"248","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2080,16.820962,2024-03-11 09:44:58
+"249","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2085,16.938926,2024-03-11 09:44:58
+"250","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2090,16.966542,2024-03-11 09:44:58
+"251","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2095,16.897201,2024-03-11 09:44:58
+"252","Pcal","PolicyReference","Australia_NZ","FoodDemand_Staples","FoodDemand_Staples",2100,16.743331,2024-03-11 09:44:58
+"253","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,65.572296,2024-03-11 09:44:58
+"254","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,105.085979,2024-03-11 09:44:58
+"255","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,131.09178,2024-03-11 09:44:58
+"256","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,151.881553,2024-03-11 09:44:58
+"257","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,159.069446,2024-03-11 09:44:58
+"258","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,166.337868,2024-03-11 09:44:58
+"259","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,175.828918,2024-03-11 09:44:58
+"260","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,183.234817,2024-03-11 09:44:58
+"261","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,189.235007,2024-03-11 09:44:58
+"262","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,192.905116,2024-03-11 09:44:58
+"263","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,195.70685,2024-03-11 09:44:58
+"264","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,197.499391,2024-03-11 09:44:58
+"265","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,198.354105,2024-03-11 09:44:58
+"266","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,198.376372,2024-03-11 09:44:58
+"267","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,197.573736,2024-03-11 09:44:58
+"268","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,196.135798,2024-03-11 09:44:58
+"269","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,194.100183,2024-03-11 09:44:58
+"270","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,191.470208,2024-03-11 09:44:58
+"271","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,188.540176,2024-03-11 09:44:58
+"272","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,185.322612,2024-03-11 09:44:58
+"273","Pcal","PolicyReference","Brazil","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,181.963877,2024-03-11 09:44:58
+"274","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",1990,68.502643,2024-03-11 09:44:58
+"275","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2005,89.68336,2024-03-11 09:44:58
+"276","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2010,87.80999,2024-03-11 09:44:58
+"277","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2015,85.79221,2024-03-11 09:44:58
+"278","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2020,88.99052,2024-03-11 09:44:58
+"279","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2025,91.13166,2024-03-11 09:44:58
+"280","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2030,92.60893,2024-03-11 09:44:58
+"281","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2035,93.66193,2024-03-11 09:44:58
+"282","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2040,94.24413,2024-03-11 09:44:58
+"283","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2045,94.36548,2024-03-11 09:44:58
+"284","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2050,93.98722,2024-03-11 09:44:58
+"285","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2055,93.06607,2024-03-11 09:44:58
+"286","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2060,91.74748,2024-03-11 09:44:58
+"287","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2065,90.08477,2024-03-11 09:44:58
+"288","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2070,88.12192,2024-03-11 09:44:58
+"289","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2075,85.88552,2024-03-11 09:44:58
+"290","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2080,83.47727,2024-03-11 09:44:58
+"291","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2085,80.96052,2024-03-11 09:44:58
+"292","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2090,78.41288,2024-03-11 09:44:58
+"293","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2095,75.87813,2024-03-11 09:44:58
+"294","Pcal","PolicyReference","Brazil","FoodDemand_Staples","FoodDemand_Staples",2100,73.37944,2024-03-11 09:44:58
+"295","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,20.6266642,2024-03-11 09:44:58
+"296","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,25.1026545,2024-03-11 09:44:58
+"297","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,24.8583974,2024-03-11 09:44:58
+"298","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,26.766603,2024-03-11 09:44:58
+"299","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,28.43140317,2024-03-11 09:44:58
+"300","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,29.91942128,2024-03-11 09:44:58
+"301","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,31.59660128,2024-03-11 09:44:58
+"302","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,33.14536455,2024-03-11 09:44:58
+"303","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,34.67161106,2024-03-11 09:44:58
+"304","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,36.08600886,2024-03-11 09:44:58
+"305","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,37.47540536,2024-03-11 09:44:58
+"306","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,38.79189741,2024-03-11 09:44:58
+"307","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,40.11490583,2024-03-11 09:44:58
+"308","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,41.36869559,2024-03-11 09:44:58
+"309","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,42.51974356,2024-03-11 09:44:58
+"310","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,43.53446265,2024-03-11 09:44:58
+"311","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,44.39685644,2024-03-11 09:44:58
+"312","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,45.04944477,2024-03-11 09:44:58
+"313","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,45.51483841,2024-03-11 09:44:58
+"314","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,45.7313493,2024-03-11 09:44:58
+"315","Pcal","PolicyReference","Canada","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,45.72223937,2024-03-11 09:44:58
+"316","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",1990,10.167793,2024-03-11 09:44:58
+"317","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2005,15.459805,2024-03-11 09:44:58
+"318","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2010,15.311499,2024-03-11 09:44:58
+"319","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2015,14.23698,2024-03-11 09:44:58
+"320","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2020,14.96998,2024-03-11 09:44:58
+"321","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2025,15.68893,2024-03-11 09:44:58
+"322","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2030,16.34805,2024-03-11 09:44:58
+"323","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2035,16.94809,2024-03-11 09:44:58
+"324","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2040,17.52274,2024-03-11 09:44:58
+"325","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2045,18.09039,2024-03-11 09:44:58
+"326","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2050,18.65628,2024-03-11 09:44:58
+"327","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2055,19.20402,2024-03-11 09:44:58
+"328","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2060,19.72788,2024-03-11 09:44:58
+"329","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2065,20.17847,2024-03-11 09:44:58
+"330","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2070,20.55919,2024-03-11 09:44:58
+"331","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2075,20.87096,2024-03-11 09:44:58
+"332","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2080,21.10132,2024-03-11 09:44:58
+"333","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2085,21.23915,2024-03-11 09:44:58
+"334","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2090,21.28224,2024-03-11 09:44:58
+"335","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2095,21.20798,2024-03-11 09:44:58
+"336","Pcal","PolicyReference","Canada","FoodDemand_Staples","FoodDemand_Staples",2100,21.02102,2024-03-11 09:44:58
+"337","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,17.6149164,2024-03-11 09:44:58
+"338","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,27.7526943,2024-03-11 09:44:58
+"339","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,36.8303383,2024-03-11 09:44:58
+"340","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,43.9757087,2024-03-11 09:44:58
+"341","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,47.9418901,2024-03-11 09:44:58
+"342","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,51.9688023,2024-03-11 09:44:58
+"343","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,56.7365996,2024-03-11 09:44:58
+"344","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,61.1255039,2024-03-11 09:44:58
+"345","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,65.3802638,2024-03-11 09:44:58
+"346","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,69.255084,2024-03-11 09:44:58
+"347","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,72.8586822,2024-03-11 09:44:58
+"348","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,76.0299744,2024-03-11 09:44:58
+"349","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,78.8147601,2024-03-11 09:44:58
+"350","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,81.2836652,2024-03-11 09:44:58
+"351","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,83.4396816,2024-03-11 09:44:58
+"352","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,85.2473409,2024-03-11 09:44:58
+"353","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,86.7611948,2024-03-11 09:44:58
+"354","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,87.892257,2024-03-11 09:44:58
+"355","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,88.7474697,2024-03-11 09:44:58
+"356","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,89.3031305,2024-03-11 09:44:58
+"357","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,89.6446909,2024-03-11 09:44:58
+"358","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",1990,24.90906,2024-03-11 09:44:58
+"359","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2005,30.685942,2024-03-11 09:44:58
+"360","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2010,35.02325,2024-03-11 09:44:58
+"361","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2015,38.12165,2024-03-11 09:44:58
+"362","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2020,39.60298,2024-03-11 09:44:58
+"363","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2025,40.77477,2024-03-11 09:44:58
+"364","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2030,41.65471,2024-03-11 09:44:58
+"365","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2035,42.34309,2024-03-11 09:44:58
+"366","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2040,42.80909,2024-03-11 09:44:58
+"367","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2045,43.07326,2024-03-11 09:44:58
+"368","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2050,43.13973,2024-03-11 09:44:58
+"369","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2055,43.02451,2024-03-11 09:44:58
+"370","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2060,42.73451,2024-03-11 09:44:58
+"371","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2065,42.37045,2024-03-11 09:44:58
+"372","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2070,41.94657,2024-03-11 09:44:58
+"373","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2075,41.4538,2024-03-11 09:44:58
+"374","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2080,40.91037,2024-03-11 09:44:58
+"375","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2085,40.30692,2024-03-11 09:44:58
+"376","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2090,39.66971,2024-03-11 09:44:58
+"377","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2095,39.01103,2024-03-11 09:44:58
+"378","Pcal","PolicyReference","Central America and Caribbean","FoodDemand_Staples","FoodDemand_Staples",2100,38.34911,2024-03-11 09:44:58
+"379","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,24.517244,2024-03-11 09:44:58
+"380","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,24.9823685,2024-03-11 09:44:58
+"381","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,34.9572185,2024-03-11 09:44:58
+"382","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,46.031565,2024-03-11 09:44:58
+"383","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,50.7933376,2024-03-11 09:44:58
+"384","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,55.8134552,2024-03-11 09:44:58
+"385","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,60.8839275,2024-03-11 09:44:58
+"386","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,65.0313017,2024-03-11 09:44:58
+"387","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,68.493309,2024-03-11 09:44:58
+"388","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,71.1176703,2024-03-11 09:44:58
+"389","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,72.9383595,2024-03-11 09:44:58
+"390","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,74.1508524,2024-03-11 09:44:58
+"391","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,75.0973903,2024-03-11 09:44:58
+"392","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,75.9163056,2024-03-11 09:44:58
+"393","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,76.454551,2024-03-11 09:44:58
+"394","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,76.6302597,2024-03-11 09:44:58
+"395","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,76.5496578,2024-03-11 09:44:58
+"396","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,76.2828971,2024-03-11 09:44:58
+"397","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,75.961684,2024-03-11 09:44:58
+"398","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,75.5820678,2024-03-11 09:44:58
+"399","Pcal","PolicyReference","Central Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,75.1249057,2024-03-11 09:44:58
+"400","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",1990,47.870504,2024-03-11 09:44:58
+"401","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2005,49.71289,2024-03-11 09:44:58
+"402","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2010,48.79096,2024-03-11 09:44:58
+"403","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2015,48.43288,2024-03-11 09:44:58
+"404","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2020,49.67108,2024-03-11 09:44:58
+"405","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2025,50.42018,2024-03-11 09:44:58
+"406","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2030,50.8261,2024-03-11 09:44:58
+"407","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2035,51.11731,2024-03-11 09:44:58
+"408","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2040,51.32687,2024-03-11 09:44:58
+"409","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2045,51.38352,2024-03-11 09:44:58
+"410","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2050,51.21275,2024-03-11 09:44:58
+"411","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2055,50.79898,2024-03-11 09:44:58
+"412","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2060,50.17905,2024-03-11 09:44:58
+"413","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2065,49.46201,2024-03-11 09:44:58
+"414","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2070,48.66221,2024-03-11 09:44:58
+"415","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2075,47.78431,2024-03-11 09:44:58
+"416","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2080,46.82854,2024-03-11 09:44:58
+"417","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2085,45.83922,2024-03-11 09:44:58
+"418","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2090,44.86738,2024-03-11 09:44:58
+"419","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2095,43.93355,2024-03-11 09:44:58
+"420","Pcal","PolicyReference","Central Asia","FoodDemand_Staples","FoodDemand_Staples",2100,43.02245,2024-03-11 09:44:58
+"421","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,239.953507,2024-03-11 09:44:58
+"422","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,538.163064,2024-03-11 09:44:58
+"423","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,668.48603,2024-03-11 09:44:58
+"424","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,770.58045,2024-03-11 09:44:58
+"425","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,864.02155,2024-03-11 09:44:58
+"426","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,944.00669,2024-03-11 09:44:58
+"427","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,1001.37682,2024-03-11 09:44:58
+"428","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,1031.93134,2024-03-11 09:44:58
+"429","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,1045.80409,2024-03-11 09:44:58
+"430","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,1045.20382,2024-03-11 09:44:58
+"431","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,1032.47158,2024-03-11 09:44:58
+"432","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,1009.38763,2024-03-11 09:44:58
+"433","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,981.09345,2024-03-11 09:44:58
+"434","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,949.82062,2024-03-11 09:44:58
+"435","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,915.96269,2024-03-11 09:44:58
+"436","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,880.03912,2024-03-11 09:44:58
+"437","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,843.10784,2024-03-11 09:44:58
+"438","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,805.48677,2024-03-11 09:44:58
+"439","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,769.11238,2024-03-11 09:44:58
+"440","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,734.83798,2024-03-11 09:44:58
+"441","Pcal","PolicyReference","China","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,703.14502,2024-03-11 09:44:58
+"442","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",1990,783.6109,2024-03-11 09:44:58
+"443","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2005,828.7626,2024-03-11 09:44:58
+"444","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2010,846.2425,2024-03-11 09:44:58
+"445","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2015,886.7378,2024-03-11 09:44:58
+"446","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2020,881.7615,2024-03-11 09:44:58
+"447","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2025,873.3224,2024-03-11 09:44:58
+"448","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2030,862.4072,2024-03-11 09:44:58
+"449","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2035,847.7386,2024-03-11 09:44:58
+"450","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2040,828.1155,2024-03-11 09:44:58
+"451","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2045,804.0383,2024-03-11 09:44:58
+"452","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2050,776.181,2024-03-11 09:44:58
+"453","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2055,745.421,2024-03-11 09:44:58
+"454","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2060,712.6058,2024-03-11 09:44:58
+"455","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2065,678.987,2024-03-11 09:44:58
+"456","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2070,645.6155,2024-03-11 09:44:58
+"457","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2075,612.7001,2024-03-11 09:44:58
+"458","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2080,580.1573,2024-03-11 09:44:58
+"459","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2085,548.4986,2024-03-11 09:44:58
+"460","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2090,518.6576,2024-03-11 09:44:58
+"461","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2095,491.2189,2024-03-11 09:44:58
+"462","Pcal","PolicyReference","China","FoodDemand_Staples","FoodDemand_Staples",2100,466.1718,2024-03-11 09:44:58
+"463","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,11.2116276,2024-03-11 09:44:58
+"464","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,17.8102783,2024-03-11 09:44:58
+"465","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,23.9175618,2024-03-11 09:44:58
+"466","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,31.3810188,2024-03-11 09:44:58
+"467","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,34.173659,2024-03-11 09:44:58
+"468","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,37.1314998,2024-03-11 09:44:58
+"469","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,40.1862816,2024-03-11 09:44:58
+"470","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,43.0631117,2024-03-11 09:44:58
+"471","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,45.790812,2024-03-11 09:44:58
+"472","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,48.0735989,2024-03-11 09:44:58
+"473","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,50.4289033,2024-03-11 09:44:58
+"474","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,52.3502756,2024-03-11 09:44:58
+"475","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,54.0262061,2024-03-11 09:44:58
+"476","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,55.4216707,2024-03-11 09:44:58
+"477","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,56.5516049,2024-03-11 09:44:58
+"478","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,57.4048266,2024-03-11 09:44:58
+"479","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,57.9932743,2024-03-11 09:44:58
+"480","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,58.2406739,2024-03-11 09:44:58
+"481","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,58.3658363,2024-03-11 09:44:58
+"482","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,58.2848738,2024-03-11 09:44:58
+"483","Pcal","PolicyReference","Colombia","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,58.0326263,2024-03-11 09:44:58
+"484","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",1990,13.021874,2024-03-11 09:44:58
+"485","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2005,17.670527,2024-03-11 09:44:58
+"486","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2010,16.834009,2024-03-11 09:44:58
+"487","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2015,18.26642,2024-03-11 09:44:58
+"488","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2020,19.19921,2024-03-11 09:44:58
+"489","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2025,19.95324,2024-03-11 09:44:58
+"490","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2030,20.6221,2024-03-11 09:44:58
+"491","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2035,21.17495,2024-03-11 09:44:58
+"492","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2040,21.62296,2024-03-11 09:44:58
+"493","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2045,21.97354,2024-03-11 09:44:58
+"494","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2050,22.21381,2024-03-11 09:44:58
+"495","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2055,22.34713,2024-03-11 09:44:58
+"496","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2060,22.39906,2024-03-11 09:44:58
+"497","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2065,22.36028,2024-03-11 09:44:58
+"498","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2070,22.25029,2024-03-11 09:44:58
+"499","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2075,22.07241,2024-03-11 09:44:58
+"500","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2080,21.82281,2024-03-11 09:44:58
+"501","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2085,21.50932,2024-03-11 09:44:58
+"502","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2090,21.16117,2024-03-11 09:44:58
+"503","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2095,20.78493,2024-03-11 09:44:58
+"504","Pcal","PolicyReference","Colombia","FoodDemand_Staples","FoodDemand_Staples",2100,20.384,2024-03-11 09:44:58
+"505","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,64.0023804,2024-03-11 09:44:58
+"506","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,62.987372,2024-03-11 09:44:58
+"507","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,63.2257101,2024-03-11 09:44:58
+"508","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,63.1382136,2024-03-11 09:44:58
+"509","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,66.503033826,2024-03-11 09:44:58
+"510","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,68.501863316,2024-03-11 09:44:58
+"511","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,70.281568123,2024-03-11 09:44:58
+"512","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,71.355149277,2024-03-11 09:44:58
+"513","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,71.991698076,2024-03-11 09:44:58
+"514","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,72.123166687,2024-03-11 09:44:58
+"515","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,72.059499907,2024-03-11 09:44:58
+"516","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,71.758174215,2024-03-11 09:44:58
+"517","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,71.300923613,2024-03-11 09:44:58
+"518","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,70.575493724,2024-03-11 09:44:58
+"519","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,69.547109124,2024-03-11 09:44:58
+"520","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,68.292069747,2024-03-11 09:44:58
+"521","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,66.97913266,2024-03-11 09:44:58
+"522","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,65.664627553,2024-03-11 09:44:58
+"523","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,64.440213552,2024-03-11 09:44:58
+"524","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,63.257073057,2024-03-11 09:44:58
+"525","Pcal","PolicyReference","EU-12","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,62.101679898,2024-03-11 09:44:58
+"526","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",1990,60.8196,2024-03-11 09:44:58
+"527","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2005,56.65066,2024-03-11 09:44:58
+"528","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2010,53.542861,2024-03-11 09:44:58
+"529","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2015,50.622151,2024-03-11 09:44:58
+"530","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2020,49.986387,2024-03-11 09:44:58
+"531","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2025,49.380652,2024-03-11 09:44:58
+"532","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2030,48.677016,2024-03-11 09:44:58
+"533","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2035,47.838949,2024-03-11 09:44:58
+"534","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2040,46.964017,2024-03-11 09:44:58
+"535","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2045,46.106902,2024-03-11 09:44:58
+"536","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2050,45.253617,2024-03-11 09:44:58
+"537","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2055,44.353363,2024-03-11 09:44:58
+"538","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2060,43.361298,2024-03-11 09:44:58
+"539","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2065,42.216548,2024-03-11 09:44:58
+"540","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2070,40.963527,2024-03-11 09:44:58
+"541","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2075,39.683106,2024-03-11 09:44:58
+"542","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2080,38.447371,2024-03-11 09:44:58
+"543","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2085,37.292935,2024-03-11 09:44:58
+"544","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2090,36.226407,2024-03-11 09:44:58
+"545","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2095,35.228699,2024-03-11 09:44:58
+"546","Pcal","PolicyReference","EU-12","FoodDemand_Staples","FoodDemand_Staples",2100,34.267704,2024-03-11 09:44:58
+"547","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,260.687988,2024-03-11 09:44:58
+"548","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,289.747519,2024-03-11 09:44:58
+"549","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,302.335502,2024-03-11 09:44:58
+"550","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,304.323223,2024-03-11 09:44:58
+"551","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,314.407034,2024-03-11 09:44:58
+"552","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,321.84364,2024-03-11 09:44:58
+"553","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,330.740772,2024-03-11 09:44:58
+"554","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,338.740961,2024-03-11 09:44:58
+"555","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,346.680557,2024-03-11 09:44:58
+"556","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,353.454726,2024-03-11 09:44:58
+"557","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,359.64523,2024-03-11 09:44:58
+"558","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,364.95513,2024-03-11 09:44:58
+"559","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,369.953352,2024-03-11 09:44:58
+"560","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,374.176217,2024-03-11 09:44:58
+"561","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,377.618811,2024-03-11 09:44:58
+"562","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,380.335374,2024-03-11 09:44:58
+"563","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,382.466542,2024-03-11 09:44:58
+"564","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,383.738227,2024-03-11 09:44:58
+"565","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,384.216815,2024-03-11 09:44:58
+"566","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,383.641675,2024-03-11 09:44:58
+"567","Pcal","PolicyReference","EU-15","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,381.938307,2024-03-11 09:44:58
+"568","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",1990,152.61025,2024-03-11 09:44:58
+"569","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2005,169.77916,2024-03-11 09:44:58
+"570","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2010,169.21889,2024-03-11 09:44:58
+"571","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2015,172.22513,2024-03-11 09:44:58
+"572","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2020,174.60146,2024-03-11 09:44:58
+"573","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2025,176.88022,2024-03-11 09:44:58
+"574","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2030,178.94184,2024-03-11 09:44:58
+"575","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2035,180.77788,2024-03-11 09:44:58
+"576","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2040,182.41283,2024-03-11 09:44:58
+"577","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2045,183.77738,2024-03-11 09:44:58
+"578","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2050,184.79935,2024-03-11 09:44:58
+"579","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2055,185.42989,2024-03-11 09:44:58
+"580","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2060,185.75514,2024-03-11 09:44:58
+"581","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2065,185.6562,2024-03-11 09:44:58
+"582","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2070,185.32089,2024-03-11 09:44:58
+"583","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2075,184.81701,2024-03-11 09:44:58
+"584","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2080,184.09772,2024-03-11 09:44:58
+"585","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2085,183.11707,2024-03-11 09:44:58
+"586","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2090,181.75401,2024-03-11 09:44:58
+"587","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2095,179.9953,2024-03-11 09:44:58
+"588","Pcal","PolicyReference","EU-15","FoodDemand_Staples","FoodDemand_Staples",2100,177.73252,2024-03-11 09:44:58
+"589","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,35.8876386,2024-03-11 09:44:58
+"590","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,28.441852,2024-03-11 09:44:58
+"591","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,31.6800603,2024-03-11 09:44:58
+"592","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,31.0908409,2024-03-11 09:44:58
+"593","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,32.05516714,2024-03-11 09:44:58
+"594","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,33.17706096,2024-03-11 09:44:58
+"595","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,34.5742005,2024-03-11 09:44:58
+"596","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,35.67386605,2024-03-11 09:44:58
+"597","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,36.57869249,2024-03-11 09:44:58
+"598","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,37.19884289,2024-03-11 09:44:58
+"599","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,37.65580355,2024-03-11 09:44:58
+"600","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,38.02250088,2024-03-11 09:44:58
+"601","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,38.40734299,2024-03-11 09:44:58
+"602","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,38.66931634,2024-03-11 09:44:58
+"603","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,38.76784864,2024-03-11 09:44:58
+"604","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,38.6843507,2024-03-11 09:44:58
+"605","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,38.45854483,2024-03-11 09:44:58
+"606","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,38.11996103,2024-03-11 09:44:58
+"607","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,37.72295169,2024-03-11 09:44:58
+"608","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,37.25509114,2024-03-11 09:44:58
+"609","Pcal","PolicyReference","Europe_Eastern","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,36.70406807,2024-03-11 09:44:58
+"610","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",1990,39.142535,2024-03-11 09:44:58
+"611","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2005,44.223058,2024-03-11 09:44:58
+"612","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2010,31.544722,2024-03-11 09:44:58
+"613","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2015,31.12312,2024-03-11 09:44:58
+"614","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2020,29.935001,2024-03-11 09:44:58
+"615","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2025,28.848442,2024-03-11 09:44:58
+"616","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2030,27.864193,2024-03-11 09:44:58
+"617","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2035,27.032292,2024-03-11 09:44:58
+"618","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2040,26.341776,2024-03-11 09:44:58
+"619","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2045,25.740226,2024-03-11 09:44:58
+"620","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2050,25.192171,2024-03-11 09:44:58
+"621","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2055,24.68032,2024-03-11 09:44:58
+"622","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2060,24.204081,2024-03-11 09:44:58
+"623","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2065,23.698422,2024-03-11 09:44:58
+"624","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2070,23.178658,2024-03-11 09:44:58
+"625","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2075,22.644514,2024-03-11 09:44:58
+"626","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2080,22.095411,2024-03-11 09:44:58
+"627","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2085,21.538466,2024-03-11 09:44:58
+"628","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2090,20.98436,2024-03-11 09:44:58
+"629","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2095,20.431724,2024-03-11 09:44:58
+"630","Pcal","PolicyReference","Europe_Eastern","FoodDemand_Staples","FoodDemand_Staples",2100,19.867722,2024-03-11 09:44:58
+"631","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,35.696555,2024-03-11 09:44:58
+"632","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,44.375059,2024-03-11 09:44:58
+"633","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,55.418327,2024-03-11 09:44:58
+"634","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,65.552749,2024-03-11 09:44:58
+"635","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,70.122196,2024-03-11 09:44:58
+"636","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,74.852439,2024-03-11 09:44:58
+"637","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,79.805286,2024-03-11 09:44:58
+"638","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,83.996364,2024-03-11 09:44:58
+"639","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,87.82629,2024-03-11 09:44:58
+"640","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,90.943539,2024-03-11 09:44:58
+"641","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,93.62522,2024-03-11 09:44:58
+"642","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,95.737264,2024-03-11 09:44:58
+"643","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,97.415604,2024-03-11 09:44:58
+"644","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,98.626398,2024-03-11 09:44:58
+"645","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,99.349195,2024-03-11 09:44:58
+"646","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,99.593455,2024-03-11 09:44:58
+"647","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,99.464706,2024-03-11 09:44:58
+"648","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,98.947107,2024-03-11 09:44:58
+"649","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,98.270346,2024-03-11 09:44:58
+"650","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,97.386844,2024-03-11 09:44:58
+"651","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,96.343308,2024-03-11 09:44:58
+"652","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",1990,63.417784,2024-03-11 09:44:58
+"653","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2005,64.834029,2024-03-11 09:44:58
+"654","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2010,60.37857,2024-03-11 09:44:58
+"655","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2015,59.23714,2024-03-11 09:44:58
+"656","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2020,61.29659,2024-03-11 09:44:58
+"657","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2025,63.04186,2024-03-11 09:44:58
+"658","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2030,64.53653,2024-03-11 09:44:58
+"659","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2035,65.78657,2024-03-11 09:44:58
+"660","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2040,66.77173,2024-03-11 09:44:58
+"661","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2045,67.48449,2024-03-11 09:44:58
+"662","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2050,67.92344,2024-03-11 09:44:58
+"663","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2055,68.05763,2024-03-11 09:44:58
+"664","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2060,67.92396,2024-03-11 09:44:58
+"665","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2065,67.55051,2024-03-11 09:44:58
+"666","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2070,66.94315,2024-03-11 09:44:58
+"667","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2075,66.11592,2024-03-11 09:44:58
+"668","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2080,65.10372,2024-03-11 09:44:58
+"669","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2085,63.95704,2024-03-11 09:44:58
+"670","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2090,62.76217,2024-03-11 09:44:58
+"671","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2095,61.53065,2024-03-11 09:44:58
+"672","Pcal","PolicyReference","Europe_Non_EU","FoodDemand_Staples","FoodDemand_Staples",2100,60.2565,2024-03-11 09:44:58
+"673","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,9.275272,2024-03-11 09:44:58
+"674","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,10.1799871,2024-03-11 09:44:58
+"675","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,10.6956925,2024-03-11 09:44:58
+"676","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,10.7137764,2024-03-11 09:44:58
+"677","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,11.2372619701,2024-03-11 09:44:58
+"678","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,11.6984735207,2024-03-11 09:44:58
+"679","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,12.237712349,2024-03-11 09:44:58
+"680","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,12.7189612274,2024-03-11 09:44:58
+"681","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,13.1927749846,2024-03-11 09:44:58
+"682","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,13.6363722476,2024-03-11 09:44:58
+"683","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,14.0956577666,2024-03-11 09:44:58
+"684","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,14.5281958478,2024-03-11 09:44:58
+"685","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,14.9512557739,2024-03-11 09:44:58
+"686","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,15.3303959804,2024-03-11 09:44:58
+"687","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,15.6631184277,2024-03-11 09:44:58
+"688","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,15.9503381304,2024-03-11 09:44:58
+"689","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,16.1954561426,2024-03-11 09:44:58
+"690","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,16.3764041049,2024-03-11 09:44:58
+"691","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,16.5037921912,2024-03-11 09:44:58
+"692","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,16.5584890862,2024-03-11 09:44:58
+"693","Pcal","PolicyReference","European Free Trade Association","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,16.544413856,2024-03-11 09:44:58
+"694","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",1990,4.4647113,2024-03-11 09:44:58
+"695","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2005,5.1328595,2024-03-11 09:44:58
+"696","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2010,4.9205779,2024-03-11 09:44:58
+"697","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2015,5.0074286,2024-03-11 09:44:58
+"698","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2020,5.1819727,2024-03-11 09:44:58
+"699","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2025,5.3651742,2024-03-11 09:44:58
+"700","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2030,5.5469099,2024-03-11 09:44:58
+"701","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2035,5.7161244,2024-03-11 09:44:58
+"702","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2040,5.8722912,2024-03-11 09:44:58
+"703","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2045,6.019641,2024-03-11 09:44:58
+"704","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2050,6.1601874,2024-03-11 09:44:58
+"705","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2055,6.291633,2024-03-11 09:44:58
+"706","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2060,6.4115828,2024-03-11 09:44:58
+"707","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2065,6.5070141,2024-03-11 09:44:58
+"708","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2070,6.5815418,2024-03-11 09:44:58
+"709","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2075,6.6393135,2024-03-11 09:44:58
+"710","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2080,6.6803432,2024-03-11 09:44:58
+"711","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2085,6.7034661,2024-03-11 09:44:58
+"712","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2090,6.7009258,2024-03-11 09:44:58
+"713","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2095,6.6714159,2024-03-11 09:44:58
+"714","Pcal","PolicyReference","European Free Trade Association","FoodDemand_Staples","FoodDemand_Staples",2100,6.6142432,2024-03-11 09:44:58
+"715","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,178.582025,2024-03-11 09:44:58
+"716","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,263.46352,2024-03-11 09:44:58
+"717","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,380.16146,2024-03-11 09:44:58
+"718","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,491.4424,2024-03-11 09:44:58
+"719","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,603.82847,2024-03-11 09:44:58
+"720","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,725.11525,2024-03-11 09:44:58
+"721","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,829.70675,2024-03-11 09:44:58
+"722","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,928.54313,2024-03-11 09:44:58
+"723","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,1020.19021,2024-03-11 09:44:58
+"724","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,1104.019,2024-03-11 09:44:58
+"725","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,1180.21658,2024-03-11 09:44:58
+"726","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,1245.32798,2024-03-11 09:44:58
+"727","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,1300.12896,2024-03-11 09:44:58
+"728","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,1345.0077,2024-03-11 09:44:58
+"729","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,1379.50269,2024-03-11 09:44:58
+"730","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,1406.69828,2024-03-11 09:44:58
+"731","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,1422.66164,2024-03-11 09:44:58
+"732","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,1428.2883,2024-03-11 09:44:58
+"733","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,1426.33276,2024-03-11 09:44:58
+"734","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,1416.95386,2024-03-11 09:44:58
+"735","Pcal","PolicyReference","India","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,1402.09687,2024-03-11 09:44:58
+"736","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",1990,540.1566,2024-03-11 09:44:58
+"737","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2005,653.095,2024-03-11 09:44:58
+"738","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2010,674.3598,2024-03-11 09:44:58
+"739","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2015,687.1938,2024-03-11 09:44:58
+"740","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2020,704.6914,2024-03-11 09:44:58
+"741","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2025,719.5942,2024-03-11 09:44:58
+"742","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2030,737.6538,2024-03-11 09:44:58
+"743","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2035,755.2743,2024-03-11 09:44:58
+"744","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2040,771.0942,2024-03-11 09:44:58
+"745","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2045,784.9482,2024-03-11 09:44:58
+"746","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2050,795.4491,2024-03-11 09:44:58
+"747","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2055,801.9724,2024-03-11 09:44:58
+"748","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2060,803.6371,2024-03-11 09:44:58
+"749","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2065,800.9737,2024-03-11 09:44:58
+"750","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2070,794.9274,2024-03-11 09:44:58
+"751","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2075,785.5906,2024-03-11 09:44:58
+"752","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2080,772.9843,2024-03-11 09:44:58
+"753","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2085,757.371,2024-03-11 09:44:58
+"754","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2090,739.6987,2024-03-11 09:44:58
+"755","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2095,720.1948,2024-03-11 09:44:58
+"756","Pcal","PolicyReference","India","FoodDemand_Staples","FoodDemand_Staples",2100,699.964,2024-03-11 09:44:58
+"757","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,34.127076,2024-03-11 09:44:58
+"758","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,51.879307,2024-03-11 09:44:58
+"759","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,62.767609,2024-03-11 09:44:58
+"760","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,86.609453,2024-03-11 09:44:58
+"761","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,101.655142,2024-03-11 09:44:58
+"762","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,117.148178,2024-03-11 09:44:58
+"763","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,134.160705,2024-03-11 09:44:58
+"764","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,148.620118,2024-03-11 09:44:58
+"765","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,161.53863,2024-03-11 09:44:58
+"766","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,171.409409,2024-03-11 09:44:58
+"767","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,179.617919,2024-03-11 09:44:58
+"768","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,185.734856,2024-03-11 09:44:58
+"769","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,189.989061,2024-03-11 09:44:58
+"770","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,192.748643,2024-03-11 09:44:58
+"771","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,194.022262,2024-03-11 09:44:58
+"772","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,194.180456,2024-03-11 09:44:58
+"773","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,193.432228,2024-03-11 09:44:58
+"774","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,191.870807,2024-03-11 09:44:58
+"775","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,189.621942,2024-03-11 09:44:58
+"776","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,186.728805,2024-03-11 09:44:58
+"777","Pcal","PolicyReference","Indonesia","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,183.46455,2024-03-11 09:44:58
+"778","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",1990,129.689562,2024-03-11 09:44:58
+"779","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2005,157.495396,2024-03-11 09:44:58
+"780","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2010,169.666635,2024-03-11 09:44:58
+"781","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2015,184.35344,2024-03-11 09:44:58
+"782","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2020,188.831937,2024-03-11 09:44:58
+"783","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2025,192.022637,2024-03-11 09:44:58
+"784","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2030,193.977816,2024-03-11 09:44:58
+"785","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2035,195.477225,2024-03-11 09:44:58
+"786","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2040,196.095736,2024-03-11 09:44:58
+"787","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2045,195.75233,2024-03-11 09:44:58
+"788","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2050,194.216268,2024-03-11 09:44:58
+"789","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2055,191.827749,2024-03-11 09:44:58
+"790","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2060,188.606304,2024-03-11 09:44:58
+"791","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2065,184.67842,2024-03-11 09:44:58
+"792","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2070,180.204429,2024-03-11 09:44:58
+"793","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2075,175.32404,2024-03-11 09:44:58
+"794","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2080,170.18437,2024-03-11 09:44:58
+"795","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2085,164.903993,2024-03-11 09:44:58
+"796","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2090,159.564729,2024-03-11 09:44:58
+"797","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2095,154.224963,2024-03-11 09:44:58
+"798","Pcal","PolicyReference","Indonesia","FoodDemand_Staples","FoodDemand_Staples",2100,148.930365,2024-03-11 09:44:58
+"799","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,50.2036655,2024-03-11 09:44:58
+"800","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,54.5680605,2024-03-11 09:44:58
+"801","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,56.0511703,2024-03-11 09:44:58
+"802","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,57.8491154,2024-03-11 09:44:58
+"803","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,61.4319706,2024-03-11 09:44:58
+"804","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,61.1038933,2024-03-11 09:44:58
+"805","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,61.2616845,2024-03-11 09:44:58
+"806","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,60.8360467,2024-03-11 09:44:58
+"807","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,60.1513423,2024-03-11 09:44:58
+"808","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,59.2908015,2024-03-11 09:44:58
+"809","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,58.398048,2024-03-11 09:44:58
+"810","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,57.5059731,2024-03-11 09:44:58
+"811","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,56.6040604,2024-03-11 09:44:58
+"812","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,55.551353,2024-03-11 09:44:58
+"813","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,54.3542891,2024-03-11 09:44:58
+"814","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,53.0656384,2024-03-11 09:44:58
+"815","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,51.7470911,2024-03-11 09:44:58
+"816","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,50.3241559,2024-03-11 09:44:58
+"817","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,48.8937838,2024-03-11 09:44:58
+"818","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,47.4345218,2024-03-11 09:44:58
+"819","Pcal","PolicyReference","Japan","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,45.9589409,2024-03-11 09:44:58
+"820","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",1990,64.540765,2024-03-11 09:44:58
+"821","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2005,59.087576,2024-03-11 09:44:58
+"822","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2010,55.4832,2024-03-11 09:44:58
+"823","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2015,55.11174,2024-03-11 09:44:58
+"824","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2020,54.37058,2024-03-11 09:44:58
+"825","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2025,53.41444,2024-03-11 09:44:58
+"826","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2030,52.21913,2024-03-11 09:44:58
+"827","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2035,50.9252,2024-03-11 09:44:58
+"828","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2040,49.573,2024-03-11 09:44:58
+"829","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2045,48.16596,2024-03-11 09:44:58
+"830","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2050,46.74512,2024-03-11 09:44:58
+"831","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2055,45.33426,2024-03-11 09:44:58
+"832","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2060,43.91797,2024-03-11 09:44:58
+"833","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2065,42.41773,2024-03-11 09:44:58
+"834","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2070,40.85766,2024-03-11 09:44:58
+"835","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2075,39.29815,2024-03-11 09:44:58
+"836","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2080,37.77501,2024-03-11 09:44:58
+"837","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2085,36.22053,2024-03-11 09:44:58
+"838","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2090,34.6859,2024-03-11 09:44:58
+"839","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2095,33.18924,2024-03-11 09:44:58
+"840","Pcal","PolicyReference","Japan","FoodDemand_Staples","FoodDemand_Staples",2100,31.73172,2024-03-11 09:44:58
+"841","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,33.382431,2024-03-11 09:44:58
+"842","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,51.075837,2024-03-11 09:44:58
+"843","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,62.7577437,2024-03-11 09:44:58
+"844","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,71.5146864,2024-03-11 09:44:58
+"845","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,76.5334252,2024-03-11 09:44:58
+"846","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,82.2044977,2024-03-11 09:44:58
+"847","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,88.4514789,2024-03-11 09:44:58
+"848","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,94.1466576,2024-03-11 09:44:58
+"849","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,99.3224018,2024-03-11 09:44:58
+"850","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,103.877937,2024-03-11 09:44:58
+"851","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,108.0450936,2024-03-11 09:44:58
+"852","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,111.5124613,2024-03-11 09:44:58
+"853","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,114.3892183,2024-03-11 09:44:58
+"854","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,116.8254477,2024-03-11 09:44:58
+"855","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,118.9502577,2024-03-11 09:44:58
+"856","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,120.7445725,2024-03-11 09:44:58
+"857","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,122.1858191,2024-03-11 09:44:58
+"858","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,123.1797726,2024-03-11 09:44:58
+"859","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,123.8754806,2024-03-11 09:44:58
+"860","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,124.3187709,2024-03-11 09:44:58
+"861","Pcal","PolicyReference","Mexico","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,124.5852457,2024-03-11 09:44:58
+"862","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",1990,51.23162,2024-03-11 09:44:58
+"863","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2005,62.85301,2024-03-11 09:44:58
+"864","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2010,60.93407,2024-03-11 09:44:58
+"865","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2015,63.07546,2024-03-11 09:44:58
+"866","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2020,66.12409,2024-03-11 09:44:58
+"867","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2025,68.71576,2024-03-11 09:44:58
+"868","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2030,70.8634,2024-03-11 09:44:58
+"869","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2035,72.62251,2024-03-11 09:44:58
+"870","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2040,74.0033,2024-03-11 09:44:58
+"871","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2045,74.98585,2024-03-11 09:44:58
+"872","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2050,75.57941,2024-03-11 09:44:58
+"873","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2055,75.79614,2024-03-11 09:44:58
+"874","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2060,75.63788,2024-03-11 09:44:58
+"875","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2065,75.33147,2024-03-11 09:44:58
+"876","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2070,74.95706,2024-03-11 09:44:58
+"877","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2075,74.49548,2024-03-11 09:44:58
+"878","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2080,73.91225,2024-03-11 09:44:58
+"879","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2085,73.19634,2024-03-11 09:44:58
+"880","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2090,72.36885,2024-03-11 09:44:58
+"881","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2095,71.50981,2024-03-11 09:44:58
+"882","Pcal","PolicyReference","Mexico","FoodDemand_Staples","FoodDemand_Staples",2100,70.6409,2024-03-11 09:44:58
+"883","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,44.5714731,2024-03-11 09:44:58
+"884","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,70.418924,2024-03-11 09:44:58
+"885","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,97.064896,2024-03-11 09:44:58
+"886","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,117.532367,2024-03-11 09:44:58
+"887","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,129.480145,2024-03-11 09:44:58
+"888","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,142.036731,2024-03-11 09:44:58
+"889","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,159.609688,2024-03-11 09:44:58
+"890","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,176.270101,2024-03-11 09:44:58
+"891","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,192.430718,2024-03-11 09:44:58
+"892","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,207.007097,2024-03-11 09:44:58
+"893","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,220.488608,2024-03-11 09:44:58
+"894","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,232.844778,2024-03-11 09:44:58
+"895","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,244.407247,2024-03-11 09:44:58
+"896","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,255.042863,2024-03-11 09:44:58
+"897","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,264.48221,2024-03-11 09:44:58
+"898","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,272.601332,2024-03-11 09:44:58
+"899","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,279.579248,2024-03-11 09:44:58
+"900","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,285.324575,2024-03-11 09:44:58
+"901","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,290.161797,2024-03-11 09:44:58
+"902","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,294.030536,2024-03-11 09:44:58
+"903","Pcal","PolicyReference","Middle East","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,296.982805,2024-03-11 09:44:58
+"904","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",1990,90.075,2024-03-11 09:44:58
+"905","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2005,125.24655,2024-03-11 09:44:58
+"906","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2010,121.09809,2024-03-11 09:44:58
+"907","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2015,129.48052,2024-03-11 09:44:58
+"908","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2020,141.78189,2024-03-11 09:44:58
+"909","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2025,153.24183,2024-03-11 09:44:58
+"910","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2030,163.487,2024-03-11 09:44:58
+"911","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2035,173.34344,2024-03-11 09:44:58
+"912","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2040,182.71968,2024-03-11 09:44:58
+"913","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2045,191.26914,2024-03-11 09:44:58
+"914","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2050,198.769,2024-03-11 09:44:58
+"915","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2055,205.07686,2024-03-11 09:44:58
+"916","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2060,210.12797,2024-03-11 09:44:58
+"917","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2065,213.9862,2024-03-11 09:44:58
+"918","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2070,216.75039,2024-03-11 09:44:58
+"919","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2075,218.43365,2024-03-11 09:44:58
+"920","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2080,219.14886,2024-03-11 09:44:58
+"921","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2085,219.06189,2024-03-11 09:44:58
+"922","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2090,218.34116,2024-03-11 09:44:58
+"923","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2095,217.1484,2024-03-11 09:44:58
+"924","Pcal","PolicyReference","Middle East","FoodDemand_Staples","FoodDemand_Staples",2100,215.47305,2024-03-11 09:44:58
+"925","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,28.724986,2024-03-11 09:44:58
+"926","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,47.629001,2024-03-11 09:44:58
+"927","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,59.792677,2024-03-11 09:44:58
+"928","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,71.6163377,2024-03-11 09:44:58
+"929","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,83.877341609,2024-03-11 09:44:58
+"930","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,93.099976107,2024-03-11 09:44:58
+"931","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,107.341132847,2024-03-11 09:44:58
+"932","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,122.881445755,2024-03-11 09:44:58
+"933","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,139.788405998,2024-03-11 09:44:58
+"934","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,157.395116948,2024-03-11 09:44:58
+"935","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,175.074019073,2024-03-11 09:44:58
+"936","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,192.059185507,2024-03-11 09:44:58
+"937","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,208.562164764,2024-03-11 09:44:58
+"938","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,224.41289443,2024-03-11 09:44:58
+"939","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,239.315402783,2024-03-11 09:44:58
+"940","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,253.044285274,2024-03-11 09:44:58
+"941","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,265.256589065,2024-03-11 09:44:58
+"942","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,275.773649719,2024-03-11 09:44:58
+"943","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,284.619221296,2024-03-11 09:44:58
+"944","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,291.87257599,2024-03-11 09:44:58
+"945","Pcal","PolicyReference","Pakistan","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,297.639167057,2024-03-11 09:44:58
+"946","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",1990,58.655327,2024-03-11 09:44:58
+"947","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2005,80.27012,2024-03-11 09:44:58
+"948","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2010,85.80522,2024-03-11 09:44:58
+"949","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2015,90.69995,2024-03-11 09:44:58
+"950","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2020,97.22258,2024-03-11 09:44:58
+"951","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2025,104.04497,2024-03-11 09:44:58
+"952","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2030,108.48726,2024-03-11 09:44:58
+"953","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2035,112.09327,2024-03-11 09:44:58
+"954","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2040,115.12176,2024-03-11 09:44:58
+"955","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2045,117.72655,2024-03-11 09:44:58
+"956","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2050,119.87506,2024-03-11 09:44:58
+"957","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2055,121.32121,2024-03-11 09:44:58
+"958","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2060,122.11207,2024-03-11 09:44:58
+"959","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2065,122.44252,2024-03-11 09:44:58
+"960","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2070,122.41601,2024-03-11 09:44:58
+"961","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2075,122.21699,2024-03-11 09:44:58
+"962","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2080,121.78163,2024-03-11 09:44:58
+"963","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2085,121.17907,2024-03-11 09:44:58
+"964","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2090,120.25761,2024-03-11 09:44:58
+"965","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2095,119.1336,2024-03-11 09:44:58
+"966","Pcal","PolicyReference","Pakistan","FoodDemand_Staples","FoodDemand_Staples",2100,117.82324,2024-03-11 09:44:58
+"967","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,73.215998,2024-03-11 09:44:58
+"968","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,66.765853,2024-03-11 09:44:58
+"969","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,83.433782,2024-03-11 09:44:58
+"970","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,89.68021,2024-03-11 09:44:58
+"971","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,91.589224,2024-03-11 09:44:58
+"972","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,93.519311,2024-03-11 09:44:58
+"973","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,97.151859,2024-03-11 09:44:58
+"974","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,99.73306,2024-03-11 09:44:58
+"975","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,101.868553,2024-03-11 09:44:58
+"976","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,103.216879,2024-03-11 09:44:58
+"977","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,104.135526,2024-03-11 09:44:58
+"978","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,104.873614,2024-03-11 09:44:58
+"979","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,105.879273,2024-03-11 09:44:58
+"980","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,106.651967,2024-03-11 09:44:58
+"981","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,107.105191,2024-03-11 09:44:58
+"982","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,107.147564,2024-03-11 09:44:58
+"983","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,106.859577,2024-03-11 09:44:58
+"984","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,106.281908,2024-03-11 09:44:58
+"985","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,105.566206,2024-03-11 09:44:58
+"986","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,104.679593,2024-03-11 09:44:58
+"987","Pcal","PolicyReference","Russia","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,103.547885,2024-03-11 09:44:58
+"988","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",1990,89.7159662,2024-03-11 09:44:58
+"989","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2005,81.939,2024-03-11 09:44:58
+"990","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2010,79.670143,2024-03-11 09:44:58
+"991","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2015,79.24385,2024-03-11 09:44:58
+"992","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2020,78.540395,2024-03-11 09:44:58
+"993","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2025,77.578078,2024-03-11 09:44:58
+"994","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2030,76.370931,2024-03-11 09:44:58
+"995","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2035,75.361362,2024-03-11 09:44:58
+"996","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2040,74.702481,2024-03-11 09:44:58
+"997","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2045,74.202872,2024-03-11 09:44:58
+"998","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2050,73.773896,2024-03-11 09:44:58
+"999","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2055,73.295862,2024-03-11 09:44:58
+"1000","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2060,72.778459,2024-03-11 09:44:58
+"1001","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2065,72.131264,2024-03-11 09:44:58
+"1002","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2070,71.417628,2024-03-11 09:44:58
+"1003","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2075,70.622186,2024-03-11 09:44:58
+"1004","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2080,69.709759,2024-03-11 09:44:58
+"1005","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2085,68.681443,2024-03-11 09:44:58
+"1006","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2090,67.573496,2024-03-11 09:44:58
+"1007","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2095,66.39285,2024-03-11 09:44:58
+"1008","Pcal","PolicyReference","Russia","FoodDemand_Staples","FoodDemand_Staples",2100,65.104698,2024-03-11 09:44:58
+"1009","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,9.7392672,2024-03-11 09:44:58
+"1010","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,14.8874417,2024-03-11 09:44:58
+"1011","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,20.3183446,2024-03-11 09:44:58
+"1012","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,24.2501556,2024-03-11 09:44:58
+"1013","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,25.189675,2024-03-11 09:44:58
+"1014","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,26.933505,2024-03-11 09:44:58
+"1015","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,29.6169825,2024-03-11 09:44:58
+"1016","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,31.9631298,2024-03-11 09:44:58
+"1017","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,34.1137718,2024-03-11 09:44:58
+"1018","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,35.9256149,2024-03-11 09:44:58
+"1019","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,37.5418816,2024-03-11 09:44:58
+"1020","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,39.0578215,2024-03-11 09:44:58
+"1021","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,40.4572181,2024-03-11 09:44:58
+"1022","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,41.6245516,2024-03-11 09:44:58
+"1023","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,42.5078534,2024-03-11 09:44:58
+"1024","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,43.1300197,2024-03-11 09:44:58
+"1025","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,43.5056163,2024-03-11 09:44:58
+"1026","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,43.7049495,2024-03-11 09:44:58
+"1027","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,43.7369741,2024-03-11 09:44:58
+"1028","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,43.5690714,2024-03-11 09:44:58
+"1029","Pcal","PolicyReference","South Africa","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,43.2257795,2024-03-11 09:44:58
+"1030","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",1990,25.102852,2024-03-11 09:44:58
+"1031","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2005,33.850541,2024-03-11 09:44:58
+"1032","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2010,32.28652,2024-03-11 09:44:58
+"1033","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2015,32.80211,2024-03-11 09:44:58
+"1034","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2020,34.22126,2024-03-11 09:44:58
+"1035","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2025,35.34096,2024-03-11 09:44:58
+"1036","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2030,36.12051,2024-03-11 09:44:58
+"1037","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2035,36.75128,2024-03-11 09:44:58
+"1038","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2040,37.27649,2024-03-11 09:44:58
+"1039","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2045,37.68496,2024-03-11 09:44:58
+"1040","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2050,37.99403,2024-03-11 09:44:58
+"1041","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2055,38.19312,2024-03-11 09:44:58
+"1042","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2060,38.29688,2024-03-11 09:44:58
+"1043","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2065,38.25115,2024-03-11 09:44:58
+"1044","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2070,38.04025,2024-03-11 09:44:58
+"1045","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2075,37.67265,2024-03-11 09:44:58
+"1046","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2080,37.15631,2024-03-11 09:44:58
+"1047","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2085,36.55953,2024-03-11 09:44:58
+"1048","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2090,35.88163,2024-03-11 09:44:58
+"1049","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2095,35.12013,2024-03-11 09:44:58
+"1050","Pcal","PolicyReference","South Africa","FoodDemand_Staples","FoodDemand_Staples",2100,34.27302,2024-03-11 09:44:58
+"1051","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,7.7104213,2024-03-11 09:44:58
+"1052","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,10.6529036,2024-03-11 09:44:58
+"1053","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,15.4757593,2024-03-11 09:44:58
+"1054","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,15.7927237,2024-03-11 09:44:58
+"1055","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,10.41274713,2024-03-11 09:44:58
+"1056","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,10.38899828,2024-03-11 09:44:58
+"1057","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,11.63902555,2024-03-11 09:44:58
+"1058","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,12.84674864,2024-03-11 09:44:58
+"1059","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,14.02619997,2024-03-11 09:44:58
+"1060","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,15.12306809,2024-03-11 09:44:58
+"1061","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,16.22813197,2024-03-11 09:44:58
+"1062","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,17.2820272,2024-03-11 09:44:58
+"1063","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,18.2705856,2024-03-11 09:44:58
+"1064","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,19.1484827,2024-03-11 09:44:58
+"1065","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,19.9096814,2024-03-11 09:44:58
+"1066","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,20.5565759,2024-03-11 09:44:58
+"1067","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,21.1225807,2024-03-11 09:44:58
+"1068","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,21.5694769,2024-03-11 09:44:58
+"1069","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,21.9358725,2024-03-11 09:44:58
+"1070","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,22.1978718,2024-03-11 09:44:58
+"1071","Pcal","PolicyReference","South America_Northern","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,22.3771894,2024-03-11 09:44:58
+"1072","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",1990,9.8580937,2024-03-11 09:44:58
+"1073","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2005,13.066648,2024-03-11 09:44:58
+"1074","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2010,15.501662,2024-03-11 09:44:58
+"1075","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2015,12.666096,2024-03-11 09:44:58
+"1076","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2020,15.105972,2024-03-11 09:44:58
+"1077","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2025,16.151106,2024-03-11 09:44:58
+"1078","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2030,16.680285,2024-03-11 09:44:58
+"1079","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2035,17.111347,2024-03-11 09:44:58
+"1080","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2040,17.444483,2024-03-11 09:44:58
+"1081","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2045,17.687205,2024-03-11 09:44:58
+"1082","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2050,17.82533,2024-03-11 09:44:58
+"1083","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2055,17.87787,2024-03-11 09:44:58
+"1084","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2060,17.85192,2024-03-11 09:44:58
+"1085","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2065,17.753378,2024-03-11 09:44:58
+"1086","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2070,17.580401,2024-03-11 09:44:58
+"1087","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2075,17.336863,2024-03-11 09:44:58
+"1088","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2080,17.04227,2024-03-11 09:44:58
+"1089","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2085,16.705426,2024-03-11 09:44:58
+"1090","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2090,16.33167,2024-03-11 09:44:58
+"1091","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2095,15.93147,2024-03-11 09:44:58
+"1092","Pcal","PolicyReference","South America_Northern","FoodDemand_Staples","FoodDemand_Staples",2100,15.512306,2024-03-11 09:44:58
+"1093","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,18.1005,2024-03-11 09:44:58
+"1094","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,26.665394,2024-03-11 09:44:58
+"1095","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,35.236252,2024-03-11 09:44:58
+"1096","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,41.888513,2024-03-11 09:44:58
+"1097","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,45.597671,2024-03-11 09:44:58
+"1098","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,49.592376,2024-03-11 09:44:58
+"1099","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,54.186742,2024-03-11 09:44:58
+"1100","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,58.184859,2024-03-11 09:44:58
+"1101","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,61.851584,2024-03-11 09:44:58
+"1102","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,64.993387,2024-03-11 09:44:58
+"1103","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,67.726725,2024-03-11 09:44:58
+"1104","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,69.933739,2024-03-11 09:44:58
+"1105","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,71.72186,2024-03-11 09:44:58
+"1106","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,73.176554,2024-03-11 09:44:58
+"1107","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,74.318955,2024-03-11 09:44:58
+"1108","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,75.142436,2024-03-11 09:44:58
+"1109","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,75.682492,2024-03-11 09:44:58
+"1110","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,75.899661,2024-03-11 09:44:58
+"1111","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,75.924141,2024-03-11 09:44:58
+"1112","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,75.752812,2024-03-11 09:44:58
+"1113","Pcal","PolicyReference","South America_Southern","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,75.450118,2024-03-11 09:44:58
+"1114","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",1990,26.289352,2024-03-11 09:44:58
+"1115","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2005,35.984387,2024-03-11 09:44:58
+"1116","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2010,37.22852,2024-03-11 09:44:58
+"1117","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2015,40.91684,2024-03-11 09:44:58
+"1118","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2020,42.49904,2024-03-11 09:44:58
+"1119","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2025,43.78478,2024-03-11 09:44:58
+"1120","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2030,44.78441,2024-03-11 09:44:58
+"1121","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2035,45.58151,2024-03-11 09:44:58
+"1122","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2040,46.15586,2024-03-11 09:44:58
+"1123","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2045,46.4948,2024-03-11 09:44:58
+"1124","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2050,46.60288,2024-03-11 09:44:58
+"1125","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2055,46.49262,2024-03-11 09:44:58
+"1126","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2060,46.18887,2024-03-11 09:44:58
+"1127","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2065,45.78121,2024-03-11 09:44:58
+"1128","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2070,45.2895,2024-03-11 09:44:58
+"1129","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2075,44.71419,2024-03-11 09:44:58
+"1130","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2080,44.0534,2024-03-11 09:44:58
+"1131","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2085,43.3181,2024-03-11 09:44:58
+"1132","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2090,42.53368,2024-03-11 09:44:58
+"1133","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2095,41.73122,2024-03-11 09:44:58
+"1134","Pcal","PolicyReference","South America_Southern","FoodDemand_Staples","FoodDemand_Staples",2100,40.9251,2024-03-11 09:44:58
+"1135","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,18.9337847,2024-03-11 09:44:58
+"1136","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,31.078239,2024-03-11 09:44:58
+"1137","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,42.742385,2024-03-11 09:44:58
+"1138","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,55.7554148,2024-03-11 09:44:58
+"1139","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,68.7148934,2024-03-11 09:44:58
+"1140","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,83.274422,2024-03-11 09:44:58
+"1141","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,98.476265,2024-03-11 09:44:58
+"1142","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,113.411088,2024-03-11 09:44:58
+"1143","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,128.74022,2024-03-11 09:44:58
+"1144","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,143.832565,2024-03-11 09:44:58
+"1145","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,158.742338,2024-03-11 09:44:58
+"1146","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,173.085039,2024-03-11 09:44:58
+"1147","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,186.820224,2024-03-11 09:44:58
+"1148","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,199.737772,2024-03-11 09:44:58
+"1149","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,211.62998,2024-03-11 09:44:58
+"1150","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,222.457499,2024-03-11 09:44:58
+"1151","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,232.116545,2024-03-11 09:44:58
+"1152","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,240.43232,2024-03-11 09:44:58
+"1153","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,247.545707,2024-03-11 09:44:58
+"1154","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,253.439871,2024-03-11 09:44:58
+"1155","Pcal","PolicyReference","South Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,258.283584,2024-03-11 09:44:58
+"1156","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",1990,108.11227,2024-03-11 09:44:58
+"1157","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2005,158.36173,2024-03-11 09:44:58
+"1158","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2010,159.47297,2024-03-11 09:44:58
+"1159","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2015,163.81181,2024-03-11 09:44:58
+"1160","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2020,171.41102,2024-03-11 09:44:58
+"1161","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2025,178.25021,2024-03-11 09:44:58
+"1162","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2030,184.42969,2024-03-11 09:44:58
+"1163","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2035,190.05117,2024-03-11 09:44:58
+"1164","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2040,194.79591,2024-03-11 09:44:58
+"1165","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2045,198.59766,2024-03-11 09:44:58
+"1166","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2050,201.38524,2024-03-11 09:44:58
+"1167","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2055,203.17587,2024-03-11 09:44:58
+"1168","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2060,203.95555,2024-03-11 09:44:58
+"1169","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2065,203.97505,2024-03-11 09:44:58
+"1170","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2070,203.36695,2024-03-11 09:44:58
+"1171","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2075,202.2487,2024-03-11 09:44:58
+"1172","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2080,200.68223,2024-03-11 09:44:58
+"1173","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2085,198.71335,2024-03-11 09:44:58
+"1174","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2090,196.41057,2024-03-11 09:44:58
+"1175","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2095,193.86822,2024-03-11 09:44:58
+"1176","Pcal","PolicyReference","South Asia","FoodDemand_Staples","FoodDemand_Staples",2100,191.17519,2024-03-11 09:44:58
+"1177","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,13.3241727,2024-03-11 09:44:58
+"1178","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,19.4855581,2024-03-11 09:44:58
+"1179","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,25.4370497,2024-03-11 09:44:58
+"1180","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,31.466528,2024-03-11 09:44:58
+"1181","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,33.4250497,2024-03-11 09:44:58
+"1182","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,34.6249018,2024-03-11 09:44:58
+"1183","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,35.6903858,2024-03-11 09:44:58
+"1184","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,36.2422725,2024-03-11 09:44:58
+"1185","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,36.359612,2024-03-11 09:44:58
+"1186","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,36.0487387,2024-03-11 09:44:58
+"1187","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,35.4510296,2024-03-11 09:44:58
+"1188","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,34.6274616,2024-03-11 09:44:58
+"1189","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,33.6363967,2024-03-11 09:44:58
+"1190","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,32.5466591,2024-03-11 09:44:58
+"1191","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,31.4194917,2024-03-11 09:44:58
+"1192","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,30.2632064,2024-03-11 09:44:58
+"1193","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,29.130029,2024-03-11 09:44:58
+"1194","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,28.0174908,2024-03-11 09:44:58
+"1195","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,26.9497512,2024-03-11 09:44:58
+"1196","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,25.9253184,2024-03-11 09:44:58
+"1197","Pcal","PolicyReference","South Korea","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,24.9093814,2024-03-11 09:44:58
+"1198","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",1990,29.276411,2024-03-11 09:44:58
+"1199","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2005,27.04148,2024-03-11 09:44:58
+"1200","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2010,27.629331,2024-03-11 09:44:58
+"1201","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2015,25.273066,2024-03-11 09:44:58
+"1202","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2020,25.376902,2024-03-11 09:44:58
+"1203","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2025,25.389505,2024-03-11 09:44:58
+"1204","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2030,25.298282,2024-03-11 09:44:58
+"1205","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2035,25.058113,2024-03-11 09:44:58
+"1206","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2040,24.633447,2024-03-11 09:44:58
+"1207","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2045,24.037752,2024-03-11 09:44:58
+"1208","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2050,23.296942,2024-03-11 09:44:58
+"1209","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2055,22.456582,2024-03-11 09:44:58
+"1210","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2060,21.572508,2024-03-11 09:44:58
+"1211","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2065,20.664948,2024-03-11 09:44:58
+"1212","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2070,19.753506,2024-03-11 09:44:58
+"1213","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2075,18.860428,2024-03-11 09:44:58
+"1214","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2080,17.999095,2024-03-11 09:44:58
+"1215","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2085,17.179046,2024-03-11 09:44:58
+"1216","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2090,16.406577,2024-03-11 09:44:58
+"1217","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2095,15.684859,2024-03-11 09:44:58
+"1218","Pcal","PolicyReference","South Korea","FoodDemand_Staples","FoodDemand_Staples",2100,14.978963,2024-03-11 09:44:58
+"1219","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,61.586384,2024-03-11 09:44:58
+"1220","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,102.4019212,2024-03-11 09:44:58
+"1221","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,141.455844,2024-03-11 09:44:58
+"1222","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,170.402685,2024-03-11 09:44:58
+"1223","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,195.17551,2024-03-11 09:44:58
+"1224","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,219.959532,2024-03-11 09:44:58
+"1225","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,243.947546,2024-03-11 09:44:58
+"1226","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,265.350156,2024-03-11 09:44:58
+"1227","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,285.206688,2024-03-11 09:44:58
+"1228","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,302.643533,2024-03-11 09:44:58
+"1229","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,318.017092,2024-03-11 09:44:58
+"1230","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,331.195659,2024-03-11 09:44:58
+"1231","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,342.434439,2024-03-11 09:44:58
+"1232","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,351.635432,2024-03-11 09:44:58
+"1233","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,358.811242,2024-03-11 09:44:58
+"1234","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,363.956204,2024-03-11 09:44:58
+"1235","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,367.296325,2024-03-11 09:44:58
+"1236","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,368.848082,2024-03-11 09:44:58
+"1237","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,369.051149,2024-03-11 09:44:58
+"1238","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,368.039854,2024-03-11 09:44:58
+"1239","Pcal","PolicyReference","Southeast Asia","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,366.101943,2024-03-11 09:44:58
+"1240","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",1990,152.60083,2024-03-11 09:44:58
+"1241","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2005,215.9136,2024-03-11 09:44:58
+"1242","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2010,218.67711,2024-03-11 09:44:58
+"1243","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2015,225.29601,2024-03-11 09:44:58
+"1244","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2020,232.31921,2024-03-11 09:44:58
+"1245","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2025,238.11368,2024-03-11 09:44:58
+"1246","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2030,242.9422,2024-03-11 09:44:58
+"1247","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2035,246.69976,2024-03-11 09:44:58
+"1248","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2040,249.19734,2024-03-11 09:44:58
+"1249","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2045,250.47069,2024-03-11 09:44:58
+"1250","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2050,250.52644,2024-03-11 09:44:58
+"1251","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2055,249.61815,2024-03-11 09:44:58
+"1252","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2060,247.85927,2024-03-11 09:44:58
+"1253","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2065,245.29667,2024-03-11 09:44:58
+"1254","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2070,242.09098,2024-03-11 09:44:58
+"1255","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2075,238.2421,2024-03-11 09:44:58
+"1256","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2080,233.87679,2024-03-11 09:44:58
+"1257","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2085,229.13462,2024-03-11 09:44:58
+"1258","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2090,224.15373,2024-03-11 09:44:58
+"1259","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2095,219.06605,2024-03-11 09:44:58
+"1260","Pcal","PolicyReference","Southeast Asia","FoodDemand_Staples","FoodDemand_Staples",2100,213.91467,2024-03-11 09:44:58
+"1261","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,12.0535619,2024-03-11 09:44:58
+"1262","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,13.9051588,2024-03-11 09:44:58
+"1263","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,15.4372197,2024-03-11 09:44:58
+"1264","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,16.2302019,2024-03-11 09:44:58
+"1265","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,16.72608,2024-03-11 09:44:58
+"1266","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,17.0922224,2024-03-11 09:44:58
+"1267","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,17.4175457,2024-03-11 09:44:58
+"1268","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,17.6591714,2024-03-11 09:44:58
+"1269","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,17.8505859,2024-03-11 09:44:58
+"1270","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,17.9451104,2024-03-11 09:44:58
+"1271","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,17.9887912,2024-03-11 09:44:58
+"1272","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,17.9829265,2024-03-11 09:44:58
+"1273","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,17.9841828,2024-03-11 09:44:58
+"1274","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,18.106997,2024-03-11 09:44:58
+"1275","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,18.2158459,2024-03-11 09:44:58
+"1276","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,18.3028494,2024-03-11 09:44:58
+"1277","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,18.3709534,2024-03-11 09:44:58
+"1278","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,18.4065073,2024-03-11 09:44:58
+"1279","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,18.4253046,2024-03-11 09:44:58
+"1280","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,18.4225833,2024-03-11 09:44:58
+"1281","Pcal","PolicyReference","Taiwan","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,18.4099756,2024-03-11 09:44:58
+"1282","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",1990,8.2210037,2024-03-11 09:44:58
+"1283","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2005,8.978314,2024-03-11 09:44:58
+"1284","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2010,8.602498,2024-03-11 09:44:58
+"1285","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2015,8.51804,2024-03-11 09:44:58
+"1286","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2020,8.475653,2024-03-11 09:44:58
+"1287","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2025,8.438788,2024-03-11 09:44:58
+"1288","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2030,8.41339,2024-03-11 09:44:58
+"1289","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2035,8.392046,2024-03-11 09:44:58
+"1290","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2040,8.374663,2024-03-11 09:44:58
+"1291","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2045,8.361743,2024-03-11 09:44:58
+"1292","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2050,8.353822,2024-03-11 09:44:58
+"1293","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2055,8.349254,2024-03-11 09:44:58
+"1294","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2060,8.34516,2024-03-11 09:44:58
+"1295","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2065,8.333825,2024-03-11 09:44:58
+"1296","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2070,8.323351,2024-03-11 09:44:58
+"1297","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2075,8.314465,2024-03-11 09:44:58
+"1298","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2080,8.307281,2024-03-11 09:44:58
+"1299","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2085,8.302044,2024-03-11 09:44:58
+"1300","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2090,8.298395,2024-03-11 09:44:58
+"1301","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2095,8.295996,2024-03-11 09:44:58
+"1302","Pcal","PolicyReference","Taiwan","FoodDemand_Staples","FoodDemand_Staples",2100,8.294671,2024-03-11 09:44:58
+"1303","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",1990,196.864055,2024-03-11 09:44:58
+"1304","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2005,248.9760114,2024-03-11 09:44:58
+"1305","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2010,243.447312,2024-03-11 09:44:58
+"1306","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2015,246.455387,2024-03-11 09:44:58
+"1307","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2020,259.875237,2024-03-11 09:44:58
+"1308","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2025,271.361794,2024-03-11 09:44:58
+"1309","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2030,283.993459,2024-03-11 09:44:58
+"1310","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2035,294.985008,2024-03-11 09:44:58
+"1311","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2040,305.006623,2024-03-11 09:44:58
+"1312","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2045,313.569932,2024-03-11 09:44:58
+"1313","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2050,321.702395,2024-03-11 09:44:58
+"1314","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2055,329.634162,2024-03-11 09:44:58
+"1315","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2060,337.837662,2024-03-11 09:44:58
+"1316","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2065,345.708823,2024-03-11 09:44:58
+"1317","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2070,352.707524,2024-03-11 09:44:58
+"1318","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2075,358.61584,2024-03-11 09:44:58
+"1319","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2080,363.652315,2024-03-11 09:44:58
+"1320","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2085,367.494923,2024-03-11 09:44:58
+"1321","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2090,370.57656,2024-03-11 09:44:58
+"1322","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2095,372.783673,2024-03-11 09:44:58
+"1323","Pcal","PolicyReference","USA","FoodDemand_NonStaples","FoodDemand_NonStaples",2100,374.206767,2024-03-11 09:44:58
+"1324","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",1990,111.25944,2024-03-11 09:44:58
+"1325","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2005,133.64027,2024-03-11 09:44:58
+"1326","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2010,126.53019,2024-03-11 09:44:58
+"1327","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2015,124.97603,2024-03-11 09:44:58
+"1328","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2020,129.59731,2024-03-11 09:44:58
+"1329","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2025,134.27849,2024-03-11 09:44:58
+"1330","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2030,138.69183,2024-03-11 09:44:58
+"1331","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2035,142.8231,2024-03-11 09:44:58
+"1332","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2040,146.6503,2024-03-11 09:44:58
+"1333","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2045,150.1435,2024-03-11 09:44:58
+"1334","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2050,153.4669,2024-03-11 09:44:58
+"1335","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2055,156.7834,2024-03-11 09:44:58
+"1336","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2060,160.1396,2024-03-11 09:44:58
+"1337","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2065,163.2851,2024-03-11 09:44:58
+"1338","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2070,166.0807,2024-03-11 09:44:58
+"1339","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2075,168.4187,2024-03-11 09:44:58
+"1340","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2080,170.226,2024-03-11 09:44:58
+"1341","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2085,171.5292,2024-03-11 09:44:58
+"1342","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2090,172.4077,2024-03-11 09:44:58
+"1343","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2095,172.9026,2024-03-11 09:44:58
+"1344","Pcal","PolicyReference","USA","FoodDemand_Staples","FoodDemand_Staples",2100,172.9837,2024-03-11 09:44:58

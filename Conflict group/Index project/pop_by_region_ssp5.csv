@@ -1,0 +1,705 @@
+"","Units","scenario","region","year","value","rundate"
+"1","thous","Reference","Africa_Eastern",1975,91890,2024-02-25 19:37:56
+"2","thous","Reference","Africa_Eastern",1990,145593,2024-02-25 19:37:56
+"3","thous","Reference","Africa_Eastern",2005,222829,2024-02-25 19:37:56
+"4","thous","Reference","Africa_Eastern",2010,255333,2024-02-25 19:37:56
+"5","thous","Reference","Africa_Eastern",2015,292560,2024-02-25 19:37:56
+"6","thous","Reference","Africa_Eastern",2020,322577,2024-02-25 19:37:56
+"7","thous","Reference","Africa_Eastern",2025,351017,2024-02-25 19:37:56
+"8","thous","Reference","Africa_Eastern",2030,376925,2024-02-25 19:37:56
+"9","thous","Reference","Africa_Eastern",2035,401048,2024-02-25 19:37:56
+"10","thous","Reference","Africa_Eastern",2040,422552,2024-02-25 19:37:56
+"11","thous","Reference","Africa_Eastern",2045,440815,2024-02-25 19:37:56
+"12","thous","Reference","Africa_Eastern",2050,455652,2024-02-25 19:37:56
+"13","thous","Reference","Africa_Eastern",2055,467361,2024-02-25 19:37:56
+"14","thous","Reference","Africa_Eastern",2060,476083,2024-02-25 19:37:56
+"15","thous","Reference","Africa_Eastern",2065,482314,2024-02-25 19:37:56
+"16","thous","Reference","Africa_Eastern",2070,485990,2024-02-25 19:37:56
+"17","thous","Reference","Africa_Eastern",2075,487044,2024-02-25 19:37:56
+"18","thous","Reference","Africa_Eastern",2080,485582,2024-02-25 19:37:56
+"19","thous","Reference","Africa_Eastern",2085,481746,2024-02-25 19:37:56
+"20","thous","Reference","Africa_Eastern",2090,475685,2024-02-25 19:37:56
+"21","thous","Reference","Africa_Eastern",2095,467600,2024-02-25 19:37:56
+"22","thous","Reference","Africa_Eastern",2100,457713,2024-02-25 19:37:56
+"23","thous","Reference","Africa_Northern",1975,81330,2024-02-25 19:37:56
+"24","thous","Reference","Africa_Northern",1990,119597,2024-02-25 19:37:56
+"25","thous","Reference","Africa_Northern",2005,155472,2024-02-25 19:37:56
+"26","thous","Reference","Africa_Northern",2010,168395,2024-02-25 19:37:56
+"27","thous","Reference","Africa_Northern",2015,184959,2024-02-25 19:37:56
+"28","thous","Reference","Africa_Northern",2020,194564,2024-02-25 19:37:56
+"29","thous","Reference","Africa_Northern",2025,202008,2024-02-25 19:37:56
+"30","thous","Reference","Africa_Northern",2030,207561,2024-02-25 19:37:56
+"31","thous","Reference","Africa_Northern",2035,211993,2024-02-25 19:37:56
+"32","thous","Reference","Africa_Northern",2040,215275,2024-02-25 19:37:56
+"33","thous","Reference","Africa_Northern",2045,217208,2024-02-25 19:37:56
+"34","thous","Reference","Africa_Northern",2050,217623,2024-02-25 19:37:56
+"35","thous","Reference","Africa_Northern",2055,216661,2024-02-25 19:37:56
+"36","thous","Reference","Africa_Northern",2060,214427,2024-02-25 19:37:56
+"37","thous","Reference","Africa_Northern",2065,211266,2024-02-25 19:37:56
+"38","thous","Reference","Africa_Northern",2070,207232,2024-02-25 19:37:56
+"39","thous","Reference","Africa_Northern",2075,202348,2024-02-25 19:37:56
+"40","thous","Reference","Africa_Northern",2080,196705,2024-02-25 19:37:56
+"41","thous","Reference","Africa_Northern",2085,190457,2024-02-25 19:37:56
+"42","thous","Reference","Africa_Northern",2090,183833,2024-02-25 19:37:56
+"43","thous","Reference","Africa_Northern",2095,176932,2024-02-25 19:37:56
+"44","thous","Reference","Africa_Northern",2100,169415,2024-02-25 19:37:56
+"45","thous","Reference","Africa_Southern",1975,53046,2024-02-25 19:37:56
+"46","thous","Reference","Africa_Southern",1990,83159,2024-02-25 19:37:56
+"47","thous","Reference","Africa_Southern",2005,121701,2024-02-25 19:37:56
+"48","thous","Reference","Africa_Southern",2010,139244,2024-02-25 19:37:56
+"49","thous","Reference","Africa_Southern",2015,160447,2024-02-25 19:37:56
+"50","thous","Reference","Africa_Southern",2020,176478,2024-02-25 19:37:56
+"51","thous","Reference","Africa_Southern",2025,191903,2024-02-25 19:37:56
+"52","thous","Reference","Africa_Southern",2030,206180,2024-02-25 19:37:56
+"53","thous","Reference","Africa_Southern",2035,219861,2024-02-25 19:37:56
+"54","thous","Reference","Africa_Southern",2040,232245,2024-02-25 19:37:56
+"55","thous","Reference","Africa_Southern",2045,242900,2024-02-25 19:37:56
+"56","thous","Reference","Africa_Southern",2050,251738,2024-02-25 19:37:56
+"57","thous","Reference","Africa_Southern",2055,258993,2024-02-25 19:37:56
+"58","thous","Reference","Africa_Southern",2060,264720,2024-02-25 19:37:56
+"59","thous","Reference","Africa_Southern",2065,269219,2024-02-25 19:37:56
+"60","thous","Reference","Africa_Southern",2070,272379,2024-02-25 19:37:56
+"61","thous","Reference","Africa_Southern",2075,274182,2024-02-25 19:37:56
+"62","thous","Reference","Africa_Southern",2080,274686,2024-02-25 19:37:56
+"63","thous","Reference","Africa_Southern",2085,273948,2024-02-25 19:37:56
+"64","thous","Reference","Africa_Southern",2090,271989,2024-02-25 19:37:56
+"65","thous","Reference","Africa_Southern",2095,268823,2024-02-25 19:37:56
+"66","thous","Reference","Africa_Southern",2100,264517,2024-02-25 19:37:56
+"67","thous","Reference","Africa_Western",1975,159160,2024-02-25 19:37:56
+"68","thous","Reference","Africa_Western",1990,239535,2024-02-25 19:37:56
+"69","thous","Reference","Africa_Western",2005,360464,2024-02-25 19:37:56
+"70","thous","Reference","Africa_Western",2010,415301,2024-02-25 19:37:56
+"71","thous","Reference","Africa_Western",2015,478031,2024-02-25 19:37:56
+"72","thous","Reference","Africa_Western",2020,529514,2024-02-25 19:37:56
+"73","thous","Reference","Africa_Western",2025,580789,2024-02-25 19:37:56
+"74","thous","Reference","Africa_Western",2030,629853,2024-02-25 19:37:56
+"75","thous","Reference","Africa_Western",2035,678460,2024-02-25 19:37:56
+"76","thous","Reference","Africa_Western",2040,724711,2024-02-25 19:37:56
+"77","thous","Reference","Africa_Western",2045,766859,2024-02-25 19:37:56
+"78","thous","Reference","Africa_Western",2050,803883,2024-02-25 19:37:56
+"79","thous","Reference","Africa_Western",2055,836044,2024-02-25 19:37:56
+"80","thous","Reference","Africa_Western",2060,863325,2024-02-25 19:37:56
+"81","thous","Reference","Africa_Western",2065,886413,2024-02-25 19:37:56
+"82","thous","Reference","Africa_Western",2070,904965,2024-02-25 19:37:56
+"83","thous","Reference","Africa_Western",2075,918760,2024-02-25 19:37:56
+"84","thous","Reference","Africa_Western",2080,927833,2024-02-25 19:37:56
+"85","thous","Reference","Africa_Western",2085,932458,2024-02-25 19:37:56
+"86","thous","Reference","Africa_Western",2090,932871,2024-02-25 19:37:56
+"87","thous","Reference","Africa_Western",2095,929311,2024-02-25 19:37:56
+"88","thous","Reference","Africa_Western",2100,921993,2024-02-25 19:37:56
+"89","thous","Reference","Argentina",1975,25866,2024-02-25 19:37:56
+"90","thous","Reference","Argentina",1990,32619,2024-02-25 19:37:56
+"91","thous","Reference","Argentina",2005,38893,2024-02-25 19:37:56
+"92","thous","Reference","Argentina",2010,40896,2024-02-25 19:37:56
+"93","thous","Reference","Argentina",2015,43075,2024-02-25 19:37:56
+"94","thous","Reference","Argentina",2020,44208,2024-02-25 19:37:56
+"95","thous","Reference","Argentina",2025,45024,2024-02-25 19:37:56
+"96","thous","Reference","Argentina",2030,45570,2024-02-25 19:37:56
+"97","thous","Reference","Argentina",2035,45939,2024-02-25 19:37:56
+"98","thous","Reference","Argentina",2040,46089,2024-02-25 19:37:56
+"99","thous","Reference","Argentina",2045,45987,2024-02-25 19:37:56
+"100","thous","Reference","Argentina",2050,45641,2024-02-25 19:37:56
+"101","thous","Reference","Argentina",2055,45101,2024-02-25 19:37:56
+"102","thous","Reference","Argentina",2060,44386,2024-02-25 19:37:56
+"103","thous","Reference","Argentina",2065,43536,2024-02-25 19:37:56
+"104","thous","Reference","Argentina",2070,42548,2024-02-25 19:37:56
+"105","thous","Reference","Argentina",2075,41426,2024-02-25 19:37:56
+"106","thous","Reference","Argentina",2080,40176,2024-02-25 19:37:56
+"107","thous","Reference","Argentina",2085,38694,2024-02-25 19:37:56
+"108","thous","Reference","Argentina",2090,37032,2024-02-25 19:37:56
+"109","thous","Reference","Argentina",2095,35246,2024-02-25 19:37:56
+"110","thous","Reference","Argentina",2100,33379,2024-02-25 19:37:56
+"111","thous","Reference","Australia_NZ",1975,16856,2024-02-25 19:37:56
+"112","thous","Reference","Australia_NZ",1990,20359,2024-02-25 19:37:56
+"113","thous","Reference","Australia_NZ",2005,24314,2024-02-25 19:37:56
+"114","thous","Reference","Australia_NZ",2010,26525,2024-02-25 19:37:56
+"115","thous","Reference","Australia_NZ",2015,28547,2024-02-25 19:37:56
+"116","thous","Reference","Australia_NZ",2020,31215,2024-02-25 19:37:56
+"117","thous","Reference","Australia_NZ",2025,34202,2024-02-25 19:37:56
+"118","thous","Reference","Australia_NZ",2030,37248,2024-02-25 19:37:56
+"119","thous","Reference","Australia_NZ",2035,40306,2024-02-25 19:37:56
+"120","thous","Reference","Australia_NZ",2040,43464,2024-02-25 19:37:56
+"121","thous","Reference","Australia_NZ",2045,46770,2024-02-25 19:37:56
+"122","thous","Reference","Australia_NZ",2050,50213,2024-02-25 19:37:56
+"123","thous","Reference","Australia_NZ",2055,53709,2024-02-25 19:37:56
+"124","thous","Reference","Australia_NZ",2060,57215,2024-02-25 19:37:56
+"125","thous","Reference","Australia_NZ",2065,60503,2024-02-25 19:37:56
+"126","thous","Reference","Australia_NZ",2070,63539,2024-02-25 19:37:56
+"127","thous","Reference","Australia_NZ",2075,66349,2024-02-25 19:37:56
+"128","thous","Reference","Australia_NZ",2080,68828,2024-02-25 19:37:56
+"129","thous","Reference","Australia_NZ",2085,70895,2024-02-25 19:37:56
+"130","thous","Reference","Australia_NZ",2090,72546,2024-02-25 19:37:56
+"131","thous","Reference","Australia_NZ",2095,73834,2024-02-25 19:37:56
+"132","thous","Reference","Australia_NZ",2100,74831,2024-02-25 19:37:56
+"133","thous","Reference","Brazil",1975,107216,2024-02-25 19:37:56
+"134","thous","Reference","Brazil",1990,149003,2024-02-25 19:37:56
+"135","thous","Reference","Brazil",2005,186127,2024-02-25 19:37:56
+"136","thous","Reference","Brazil",2010,195714,2024-02-25 19:37:56
+"137","thous","Reference","Brazil",2015,204472,2024-02-25 19:37:56
+"138","thous","Reference","Brazil",2020,210322,2024-02-25 19:37:56
+"139","thous","Reference","Brazil",2025,214687,2024-02-25 19:37:56
+"140","thous","Reference","Brazil",2030,217430,2024-02-25 19:37:56
+"141","thous","Reference","Brazil",2035,218905,2024-02-25 19:37:56
+"142","thous","Reference","Brazil",2040,219053,2024-02-25 19:37:56
+"143","thous","Reference","Brazil",2045,217944,2024-02-25 19:37:56
+"144","thous","Reference","Brazil",2050,215464,2024-02-25 19:37:56
+"145","thous","Reference","Brazil",2055,211751,2024-02-25 19:37:56
+"146","thous","Reference","Brazil",2060,206881,2024-02-25 19:37:56
+"147","thous","Reference","Brazil",2065,201032,2024-02-25 19:37:56
+"148","thous","Reference","Brazil",2070,194359,2024-02-25 19:37:56
+"149","thous","Reference","Brazil",2075,186966,2024-02-25 19:37:56
+"150","thous","Reference","Brazil",2080,178993,2024-02-25 19:37:56
+"151","thous","Reference","Brazil",2085,170490,2024-02-25 19:37:56
+"152","thous","Reference","Brazil",2090,161057,2024-02-25 19:37:56
+"153","thous","Reference","Brazil",2095,151022,2024-02-25 19:37:56
+"154","thous","Reference","Brazil",2100,140661,2024-02-25 19:37:56
+"155","thous","Reference","Canada",1975,23059,2024-02-25 19:37:56
+"156","thous","Reference","Canada",1990,27541,2024-02-25 19:37:56
+"157","thous","Reference","Canada",2005,32164,2024-02-25 19:37:56
+"158","thous","Reference","Canada",2010,34148,2024-02-25 19:37:56
+"159","thous","Reference","Canada",2015,36027,2024-02-25 19:37:56
+"160","thous","Reference","Canada",2020,38681,2024-02-25 19:37:56
+"161","thous","Reference","Canada",2025,41731,2024-02-25 19:37:56
+"162","thous","Reference","Canada",2030,44880,2024-02-25 19:37:56
+"163","thous","Reference","Canada",2035,48036,2024-02-25 19:37:56
+"164","thous","Reference","Canada",2040,51317,2024-02-25 19:37:56
+"165","thous","Reference","Canada",2045,54811,2024-02-25 19:37:56
+"166","thous","Reference","Canada",2050,58522,2024-02-25 19:37:56
+"167","thous","Reference","Canada",2055,62356,2024-02-25 19:37:56
+"168","thous","Reference","Canada",2060,66262,2024-02-25 19:37:56
+"169","thous","Reference","Canada",2065,70030,2024-02-25 19:37:56
+"170","thous","Reference","Canada",2070,73555,2024-02-25 19:37:56
+"171","thous","Reference","Canada",2075,76860,2024-02-25 19:37:56
+"172","thous","Reference","Canada",2080,79931,2024-02-25 19:37:56
+"173","thous","Reference","Canada",2085,82553,2024-02-25 19:37:56
+"174","thous","Reference","Canada",2090,84673,2024-02-25 19:37:56
+"175","thous","Reference","Canada",2095,86344,2024-02-25 19:37:56
+"176","thous","Reference","Canada",2100,87658,2024-02-25 19:37:56
+"177","thous","Reference","Central America and Caribbean",1975,45127,2024-02-25 19:37:56
+"178","thous","Reference","Central America and Caribbean",1990,59989,2024-02-25 19:37:56
+"179","thous","Reference","Central America and Caribbean",2005,75932,2024-02-25 19:37:56
+"180","thous","Reference","Central America and Caribbean",2010,80984,2024-02-25 19:37:56
+"181","thous","Reference","Central America and Caribbean",2015,86156,2024-02-25 19:37:56
+"182","thous","Reference","Central America and Caribbean",2020,88799,2024-02-25 19:37:56
+"183","thous","Reference","Central America and Caribbean",2025,90361,2024-02-25 19:37:56
+"184","thous","Reference","Central America and Caribbean",2030,91104,2024-02-25 19:37:56
+"185","thous","Reference","Central America and Caribbean",2035,91254,2024-02-25 19:37:56
+"186","thous","Reference","Central America and Caribbean",2040,90760,2024-02-25 19:37:56
+"187","thous","Reference","Central America and Caribbean",2045,89640,2024-02-25 19:37:56
+"188","thous","Reference","Central America and Caribbean",2050,87951,2024-02-25 19:37:56
+"189","thous","Reference","Central America and Caribbean",2055,85812,2024-02-25 19:37:56
+"190","thous","Reference","Central America and Caribbean",2060,83283,2024-02-25 19:37:56
+"191","thous","Reference","Central America and Caribbean",2065,80659,2024-02-25 19:37:56
+"192","thous","Reference","Central America and Caribbean",2070,77963,2024-02-25 19:37:56
+"193","thous","Reference","Central America and Caribbean",2075,75200,2024-02-25 19:37:56
+"194","thous","Reference","Central America and Caribbean",2080,72344,2024-02-25 19:37:56
+"195","thous","Reference","Central America and Caribbean",2085,69403,2024-02-25 19:37:56
+"196","thous","Reference","Central America and Caribbean",2090,66384,2024-02-25 19:37:56
+"197","thous","Reference","Central America and Caribbean",2095,63241,2024-02-25 19:37:56
+"198","thous","Reference","Central America and Caribbean",2100,59990,2024-02-25 19:37:56
+"199","thous","Reference","Central Asia",1975,51975,2024-02-25 19:37:56
+"200","thous","Reference","Central Asia",1990,68498,2024-02-25 19:37:56
+"201","thous","Reference","Central Asia",2005,76706,2024-02-25 19:37:56
+"202","thous","Reference","Central Asia",2010,81534,2024-02-25 19:37:56
+"203","thous","Reference","Central Asia",2015,88051,2024-02-25 19:37:56
+"204","thous","Reference","Central Asia",2020,90238,2024-02-25 19:37:56
+"205","thous","Reference","Central Asia",2025,91180,2024-02-25 19:37:56
+"206","thous","Reference","Central Asia",2030,91279,2024-02-25 19:37:56
+"207","thous","Reference","Central Asia",2035,90913,2024-02-25 19:37:56
+"208","thous","Reference","Central Asia",2040,90051,2024-02-25 19:37:56
+"209","thous","Reference","Central Asia",2045,88594,2024-02-25 19:37:56
+"210","thous","Reference","Central Asia",2050,86537,2024-02-25 19:37:56
+"211","thous","Reference","Central Asia",2055,84048,2024-02-25 19:37:56
+"212","thous","Reference","Central Asia",2060,81253,2024-02-25 19:37:56
+"213","thous","Reference","Central Asia",2065,78367,2024-02-25 19:37:56
+"214","thous","Reference","Central Asia",2070,75392,2024-02-25 19:37:56
+"215","thous","Reference","Central Asia",2075,72304,2024-02-25 19:37:56
+"216","thous","Reference","Central Asia",2080,69118,2024-02-25 19:37:56
+"217","thous","Reference","Central Asia",2085,65897,2024-02-25 19:37:56
+"218","thous","Reference","Central Asia",2090,62726,2024-02-25 19:37:56
+"219","thous","Reference","Central Asia",2095,59674,2024-02-25 19:37:56
+"220","thous","Reference","Central Asia",2100,56751,2024-02-25 19:37:56
+"221","thous","Reference","China",1975,930691,2024-02-25 19:37:56
+"222","thous","Reference","China",1990,1182960,2024-02-25 19:37:56
+"223","thous","Reference","China",2005,1338030,2024-02-25 19:37:56
+"224","thous","Reference","China",2010,1376320,2024-02-25 19:37:56
+"225","thous","Reference","China",2015,1414640,2024-02-25 19:37:56
+"226","thous","Reference","China",2020,1425970,2024-02-25 19:37:56
+"227","thous","Reference","China",2025,1425980,2024-02-25 19:37:56
+"228","thous","Reference","China",2030,1414750,2024-02-25 19:37:56
+"229","thous","Reference","China",2035,1394030,2024-02-25 19:37:56
+"230","thous","Reference","China",2040,1363520,2024-02-25 19:37:56
+"231","thous","Reference","China",2045,1324170,2024-02-25 19:37:56
+"232","thous","Reference","China",2050,1277210,2024-02-25 19:37:56
+"233","thous","Reference","China",2055,1224350,2024-02-25 19:37:56
+"234","thous","Reference","China",2060,1167000,2024-02-25 19:37:56
+"235","thous","Reference","China",2065,1106610,2024-02-25 19:37:56
+"236","thous","Reference","China",2070,1045000,2024-02-25 19:37:56
+"237","thous","Reference","China",2075,983392,2024-02-25 19:37:56
+"238","thous","Reference","China",2080,921626,2024-02-25 19:37:56
+"239","thous","Reference","China",2085,859510,2024-02-25 19:37:56
+"240","thous","Reference","China",2090,797955,2024-02-25 19:37:56
+"241","thous","Reference","China",2095,736564,2024-02-25 19:37:56
+"242","thous","Reference","China",2100,674796,2024-02-25 19:37:56
+"243","thous","Reference","Colombia",1975,24066,2024-02-25 19:37:56
+"244","thous","Reference","Colombia",1990,33103,2024-02-25 19:37:56
+"245","thous","Reference","Colombia",2005,42648,2024-02-25 19:37:56
+"246","thous","Reference","Colombia",2010,45223,2024-02-25 19:37:56
+"247","thous","Reference","Colombia",2015,47521,2024-02-25 19:37:56
+"248","thous","Reference","Colombia",2020,49793,2024-02-25 19:37:56
+"249","thous","Reference","Colombia",2025,51677,2024-02-25 19:37:56
+"250","thous","Reference","Colombia",2030,53170,2024-02-25 19:37:56
+"251","thous","Reference","Colombia",2035,54356,2024-02-25 19:37:56
+"252","thous","Reference","Colombia",2040,55188,2024-02-25 19:37:56
+"253","thous","Reference","Colombia",2045,55643,2024-02-25 19:37:56
+"254","thous","Reference","Colombia",2050,55729,2024-02-25 19:37:56
+"255","thous","Reference","Colombia",2055,55502,2024-02-25 19:37:56
+"256","thous","Reference","Colombia",2060,54987,2024-02-25 19:37:56
+"257","thous","Reference","Colombia",2065,54228,2024-02-25 19:37:56
+"258","thous","Reference","Colombia",2070,53244,2024-02-25 19:37:56
+"259","thous","Reference","Colombia",2075,52052,2024-02-25 19:37:56
+"260","thous","Reference","Colombia",2080,50665,2024-02-25 19:37:56
+"261","thous","Reference","Colombia",2085,49074,2024-02-25 19:37:56
+"262","thous","Reference","Colombia",2090,47168,2024-02-25 19:37:56
+"263","thous","Reference","Colombia",2095,45014,2024-02-25 19:37:56
+"264","thous","Reference","Colombia",2100,42682,2024-02-25 19:37:56
+"265","thous","Reference","EU-12",1975,99629,2024-02-25 19:37:56
+"266","thous","Reference","EU-12",1990,107358,2024-02-25 19:37:56
+"267","thous","Reference","EU-12",2005,103595,2024-02-25 19:37:56
+"268","thous","Reference","EU-12",2010,102240,2024-02-25 19:37:56
+"269","thous","Reference","EU-12",2015,100885,2024-02-25 19:37:56
+"270","thous","Reference","EU-12",2020,101050,2024-02-25 19:37:56
+"271","thous","Reference","EU-12",2025,101269,2024-02-25 19:37:56
+"272","thous","Reference","EU-12",2030,101338,2024-02-25 19:37:56
+"273","thous","Reference","EU-12",2035,101191,2024-02-25 19:37:56
+"274","thous","Reference","EU-12",2040,101038,2024-02-25 19:37:56
+"275","thous","Reference","EU-12",2045,100975,2024-02-25 19:37:56
+"276","thous","Reference","EU-12",2050,100963,2024-02-25 19:37:56
+"277","thous","Reference","EU-12",2055,100882,2024-02-25 19:37:56
+"278","thous","Reference","EU-12",2060,100667,2024-02-25 19:37:56
+"279","thous","Reference","EU-12",2065,100140,2024-02-25 19:37:56
+"280","thous","Reference","EU-12",2070,99357,2024-02-25 19:37:56
+"281","thous","Reference","EU-12",2075,98399,2024-02-25 19:37:56
+"282","thous","Reference","EU-12",2080,97274,2024-02-25 19:37:56
+"283","thous","Reference","EU-12",2085,95965,2024-02-25 19:37:56
+"284","thous","Reference","EU-12",2090,94473,2024-02-25 19:37:56
+"285","thous","Reference","EU-12",2095,92933,2024-02-25 19:37:56
+"286","thous","Reference","EU-12",2100,91400,2024-02-25 19:37:56
+"287","thous","Reference","EU-15",1975,350014,2024-02-25 19:37:56
+"288","thous","Reference","EU-15",1990,365030,2024-02-25 19:37:56
+"289","thous","Reference","EU-15",2005,387123,2024-02-25 19:37:56
+"290","thous","Reference","EU-15",2010,396932,2024-02-25 19:37:56
+"291","thous","Reference","EU-15",2015,404066,2024-02-25 19:37:56
+"292","thous","Reference","EU-15",2020,415810,2024-02-25 19:37:56
+"293","thous","Reference","EU-15",2025,429565,2024-02-25 19:37:56
+"294","thous","Reference","EU-15",2030,444325,2024-02-25 19:37:56
+"295","thous","Reference","EU-15",2035,459541,2024-02-25 19:37:56
+"296","thous","Reference","EU-15",2040,475582,2024-02-25 19:37:56
+"297","thous","Reference","EU-15",2045,492481,2024-02-25 19:37:56
+"298","thous","Reference","EU-15",2050,510082,2024-02-25 19:37:56
+"299","thous","Reference","EU-15",2055,527909,2024-02-25 19:37:56
+"300","thous","Reference","EU-15",2060,545917,2024-02-25 19:37:56
+"301","thous","Reference","EU-15",2065,562657,2024-02-25 19:37:56
+"302","thous","Reference","EU-15",2070,577951,2024-02-25 19:37:56
+"303","thous","Reference","EU-15",2075,591907,2024-02-25 19:37:56
+"304","thous","Reference","EU-15",2080,604831,2024-02-25 19:37:56
+"305","thous","Reference","EU-15",2085,615888,2024-02-25 19:37:56
+"306","thous","Reference","EU-15",2090,625053,2024-02-25 19:37:56
+"307","thous","Reference","EU-15",2095,632748,2024-02-25 19:37:56
+"308","thous","Reference","EU-15",2100,639288,2024-02-25 19:37:56
+"309","thous","Reference","Europe_Eastern",1975,61848,2024-02-25 19:37:56
+"310","thous","Reference","Europe_Eastern",1990,65980,2024-02-25 19:37:56
+"311","thous","Reference","Europe_Eastern",2005,60612,2024-02-25 19:37:56
+"312","thous","Reference","Europe_Eastern",2010,59299,2024-02-25 19:37:56
+"313","thous","Reference","Europe_Eastern",2015,58432,2024-02-25 19:37:56
+"314","thous","Reference","Europe_Eastern",2020,56716,2024-02-25 19:37:56
+"315","thous","Reference","Europe_Eastern",2025,55259,2024-02-25 19:37:56
+"316","thous","Reference","Europe_Eastern",2030,54043,2024-02-25 19:37:56
+"317","thous","Reference","Europe_Eastern",2035,53026,2024-02-25 19:37:56
+"318","thous","Reference","Europe_Eastern",2040,52117,2024-02-25 19:37:56
+"319","thous","Reference","Europe_Eastern",2045,51177,2024-02-25 19:37:56
+"320","thous","Reference","Europe_Eastern",2050,50152,2024-02-25 19:37:56
+"321","thous","Reference","Europe_Eastern",2055,49064,2024-02-25 19:37:56
+"322","thous","Reference","Europe_Eastern",2060,47943,2024-02-25 19:37:56
+"323","thous","Reference","Europe_Eastern",2065,46655,2024-02-25 19:37:56
+"324","thous","Reference","Europe_Eastern",2070,45196,2024-02-25 19:37:56
+"325","thous","Reference","Europe_Eastern",2075,43553,2024-02-25 19:37:56
+"326","thous","Reference","Europe_Eastern",2080,41745,2024-02-25 19:37:56
+"327","thous","Reference","Europe_Eastern",2085,39833,2024-02-25 19:37:56
+"328","thous","Reference","Europe_Eastern",2090,37876,2024-02-25 19:37:56
+"329","thous","Reference","Europe_Eastern",2095,35906,2024-02-25 19:37:56
+"330","thous","Reference","Europe_Eastern",2100,33816,2024-02-25 19:37:56
+"331","thous","Reference","Europe_Non_EU",1975,61029,2024-02-25 19:37:56
+"332","thous","Reference","Europe_Non_EU",1990,78577,2024-02-25 19:37:56
+"333","thous","Reference","Europe_Non_EU",2005,91004,2024-02-25 19:37:56
+"334","thous","Reference","Europe_Non_EU",2010,94995,2024-02-25 19:37:56
+"335","thous","Reference","Europe_Non_EU",2015,100665,2024-02-25 19:37:56
+"336","thous","Reference","Europe_Non_EU",2020,103834,2024-02-25 19:37:56
+"337","thous","Reference","Europe_Non_EU",2025,106395,2024-02-25 19:37:56
+"338","thous","Reference","Europe_Non_EU",2030,108327,2024-02-25 19:37:56
+"339","thous","Reference","Europe_Non_EU",2035,109845,2024-02-25 19:37:56
+"340","thous","Reference","Europe_Non_EU",2040,110863,2024-02-25 19:37:56
+"341","thous","Reference","Europe_Non_EU",2045,111238,2024-02-25 19:37:56
+"342","thous","Reference","Europe_Non_EU",2050,110914,2024-02-25 19:37:56
+"343","thous","Reference","Europe_Non_EU",2055,109977,2024-02-25 19:37:56
+"344","thous","Reference","Europe_Non_EU",2060,108513,2024-02-25 19:37:56
+"345","thous","Reference","Europe_Non_EU",2065,106523,2024-02-25 19:37:56
+"346","thous","Reference","Europe_Non_EU",2070,104052,2024-02-25 19:37:56
+"347","thous","Reference","Europe_Non_EU",2075,101118,2024-02-25 19:37:56
+"348","thous","Reference","Europe_Non_EU",2080,97757,2024-02-25 19:37:56
+"349","thous","Reference","Europe_Non_EU",2085,94052,2024-02-25 19:37:56
+"350","thous","Reference","Europe_Non_EU",2090,90085,2024-02-25 19:37:56
+"351","thous","Reference","Europe_Non_EU",2095,85928,2024-02-25 19:37:56
+"352","thous","Reference","Europe_Non_EU",2100,81324,2024-02-25 19:37:56
+"353","thous","Reference","European Free Trade Association",1975,10587,2024-02-25 19:37:56
+"354","thous","Reference","European Free Trade Association",1990,11184,2024-02-25 19:37:56
+"355","thous","Reference","European Free Trade Association",2005,12349,2024-02-25 19:37:56
+"356","thous","Reference","European Free Trade Association",2010,13051,2024-02-25 19:37:56
+"357","thous","Reference","European Free Trade Association",2015,13864,2024-02-25 19:37:56
+"358","thous","Reference","European Free Trade Association",2020,14593,2024-02-25 19:37:56
+"359","thous","Reference","European Free Trade Association",2025,15469,2024-02-25 19:37:56
+"360","thous","Reference","European Free Trade Association",2030,16412,2024-02-25 19:37:56
+"361","thous","Reference","European Free Trade Association",2035,17370,2024-02-25 19:37:56
+"362","thous","Reference","European Free Trade Association",2040,18357,2024-02-25 19:37:56
+"363","thous","Reference","European Free Trade Association",2045,19396,2024-02-25 19:37:56
+"364","thous","Reference","European Free Trade Association",2050,20496,2024-02-25 19:37:56
+"365","thous","Reference","European Free Trade Association",2055,21634,2024-02-25 19:37:56
+"366","thous","Reference","European Free Trade Association",2060,22787,2024-02-25 19:37:56
+"367","thous","Reference","European Free Trade Association",2065,23857,2024-02-25 19:37:56
+"368","thous","Reference","European Free Trade Association",2070,24831,2024-02-25 19:37:56
+"369","thous","Reference","European Free Trade Association",2075,25729,2024-02-25 19:37:56
+"370","thous","Reference","European Free Trade Association",2080,26543,2024-02-25 19:37:56
+"371","thous","Reference","European Free Trade Association",2085,27258,2024-02-25 19:37:56
+"372","thous","Reference","European Free Trade Association",2090,27870,2024-02-25 19:37:56
+"373","thous","Reference","European Free Trade Association",2095,28383,2024-02-25 19:37:56
+"374","thous","Reference","European Free Trade Association",2100,28811,2024-02-25 19:37:56
+"375","thous","Reference","India",1975,623103,2024-02-25 19:37:56
+"376","thous","Reference","India",1990,873278,2024-02-25 19:37:56
+"377","thous","Reference","India",2005,1147610,2024-02-25 19:37:56
+"378","thous","Reference","India",2010,1234280,2024-02-25 19:37:56
+"379","thous","Reference","India",2015,1310150,2024-02-25 19:37:56
+"380","thous","Reference","India",2020,1373800,2024-02-25 19:37:56
+"381","thous","Reference","India",2025,1427760,2024-02-25 19:37:56
+"382","thous","Reference","India",2030,1471450,2024-02-25 19:37:56
+"383","thous","Reference","India",2035,1508070,2024-02-25 19:37:56
+"384","thous","Reference","India",2040,1535820,2024-02-25 19:37:56
+"385","thous","Reference","India",2045,1554090,2024-02-25 19:37:56
+"386","thous","Reference","India",2050,1561890,2024-02-25 19:37:56
+"387","thous","Reference","India",2055,1559580,2024-02-25 19:37:56
+"388","thous","Reference","India",2060,1546810,2024-02-25 19:37:56
+"389","thous","Reference","India",2065,1523720,2024-02-25 19:37:56
+"390","thous","Reference","India",2070,1490980,2024-02-25 19:37:56
+"391","thous","Reference","India",2075,1449190,2024-02-25 19:37:56
+"392","thous","Reference","India",2080,1399320,2024-02-25 19:37:56
+"393","thous","Reference","India",2085,1342430,2024-02-25 19:37:56
+"394","thous","Reference","India",2090,1280040,2024-02-25 19:37:56
+"395","thous","Reference","India",2095,1213760,2024-02-25 19:37:56
+"396","thous","Reference","India",2100,1145260,2024-02-25 19:37:56
+"397","thous","Reference","Indonesia",1975,130681,2024-02-25 19:37:56
+"398","thous","Reference","Indonesia",1990,181413,2024-02-25 19:37:56
+"399","thous","Reference","Indonesia",2005,226289,2024-02-25 19:37:56
+"400","thous","Reference","Indonesia",2010,241834,2024-02-25 19:37:56
+"401","thous","Reference","Indonesia",2015,258383,2024-02-25 19:37:56
+"402","thous","Reference","Indonesia",2020,267212,2024-02-25 19:37:56
+"403","thous","Reference","Indonesia",2025,273693,2024-02-25 19:37:56
+"404","thous","Reference","Indonesia",2030,277985,2024-02-25 19:37:56
+"405","thous","Reference","Indonesia",2035,280627,2024-02-25 19:37:56
+"406","thous","Reference","Indonesia",2040,281419,2024-02-25 19:37:56
+"407","thous","Reference","Indonesia",2045,280295,2024-02-25 19:37:56
+"408","thous","Reference","Indonesia",2050,277177,2024-02-25 19:37:56
+"409","thous","Reference","Indonesia",2055,272303,2024-02-25 19:37:56
+"410","thous","Reference","Indonesia",2060,265840,2024-02-25 19:37:56
+"411","thous","Reference","Indonesia",2065,258084,2024-02-25 19:37:56
+"412","thous","Reference","Indonesia",2070,249310,2024-02-25 19:37:56
+"413","thous","Reference","Indonesia",2075,239717,2024-02-25 19:37:56
+"414","thous","Reference","Indonesia",2080,229541,2024-02-25 19:37:56
+"415","thous","Reference","Indonesia",2085,218950,2024-02-25 19:37:56
+"416","thous","Reference","Indonesia",2090,208109,2024-02-25 19:37:56
+"417","thous","Reference","Indonesia",2095,197147,2024-02-25 19:37:56
+"418","thous","Reference","Indonesia",2100,186152,2024-02-25 19:37:56
+"419","thous","Reference","Japan",1975,112413,2024-02-25 19:37:56
+"420","thous","Reference","Japan",1990,124505,2024-02-25 19:37:56
+"421","thous","Reference","Japan",2005,128326,2024-02-25 19:37:56
+"422","thous","Reference","Japan",2010,128542,2024-02-25 19:37:56
+"423","thous","Reference","Japan",2015,127985,2024-02-25 19:37:56
+"424","thous","Reference","Japan",2020,127747,2024-02-25 19:37:56
+"425","thous","Reference","Japan",2025,127283,2024-02-25 19:37:56
+"426","thous","Reference","Japan",2030,126680,2024-02-25 19:37:56
+"427","thous","Reference","Japan",2035,125909,2024-02-25 19:37:56
+"428","thous","Reference","Japan",2040,125077,2024-02-25 19:37:56
+"429","thous","Reference","Japan",2045,124282,2024-02-25 19:37:56
+"430","thous","Reference","Japan",2050,123589,2024-02-25 19:37:56
+"431","thous","Reference","Japan",2055,123013,2024-02-25 19:37:56
+"432","thous","Reference","Japan",2060,122203,2024-02-25 19:37:56
+"433","thous","Reference","Japan",2065,120910,2024-02-25 19:37:56
+"434","thous","Reference","Japan",2070,119207,2024-02-25 19:37:56
+"435","thous","Reference","Japan",2075,117268,2024-02-25 19:37:56
+"436","thous","Reference","Japan",2080,115238,2024-02-25 19:37:56
+"437","thous","Reference","Japan",2085,113005,2024-02-25 19:37:56
+"438","thous","Reference","Japan",2090,110754,2024-02-25 19:37:56
+"439","thous","Reference","Japan",2095,108564,2024-02-25 19:37:56
+"440","thous","Reference","Japan",2100,106443,2024-02-25 19:37:56
+"441","thous","Reference","Mexico",1975,59608,2024-02-25 19:37:56
+"442","thous","Reference","Mexico",1990,83943,2024-02-25 19:37:56
+"443","thous","Reference","Mexico",2005,106005,2024-02-25 19:37:56
+"444","thous","Reference","Mexico",2010,114093,2024-02-25 19:37:56
+"445","thous","Reference","Mexico",2015,121858,2024-02-25 19:37:56
+"446","thous","Reference","Mexico",2020,126217,2024-02-25 19:37:56
+"447","thous","Reference","Mexico",2025,129122,2024-02-25 19:37:56
+"448","thous","Reference","Mexico",2030,130866,2024-02-25 19:37:56
+"449","thous","Reference","Mexico",2035,131720,2024-02-25 19:37:56
+"450","thous","Reference","Mexico",2040,131627,2024-02-25 19:37:56
+"451","thous","Reference","Mexico",2045,130578,2024-02-25 19:37:56
+"452","thous","Reference","Mexico",2050,128634,2024-02-25 19:37:56
+"453","thous","Reference","Mexico",2055,125987,2024-02-25 19:37:56
+"454","thous","Reference","Mexico",2060,122748,2024-02-25 19:37:56
+"455","thous","Reference","Mexico",2065,119354,2024-02-25 19:37:56
+"456","thous","Reference","Mexico",2070,115848,2024-02-25 19:37:56
+"457","thous","Reference","Mexico",2075,112275,2024-02-25 19:37:56
+"458","thous","Reference","Mexico",2080,108671,2024-02-25 19:37:56
+"459","thous","Reference","Mexico",2085,104713,2024-02-25 19:37:56
+"460","thous","Reference","Mexico",2090,100467,2024-02-25 19:37:56
+"461","thous","Reference","Mexico",2095,95948,2024-02-25 19:37:56
+"462","thous","Reference","Mexico",2100,90971,2024-02-25 19:37:56
+"463","thous","Reference","Middle East",1975,78298,2024-02-25 19:37:56
+"464","thous","Reference","Middle East",1990,133782,2024-02-25 19:37:56
+"465","thous","Reference","Middle East",2005,190643,2024-02-25 19:37:56
+"466","thous","Reference","Middle East",2010,216724,2024-02-25 19:37:56
+"467","thous","Reference","Middle East",2015,240169,2024-02-25 19:37:56
+"468","thous","Reference","Middle East",2020,261131,2024-02-25 19:37:56
+"469","thous","Reference","Middle East",2025,280457,2024-02-25 19:37:56
+"470","thous","Reference","Middle East",2030,297779,2024-02-25 19:37:56
+"471","thous","Reference","Middle East",2035,313919,2024-02-25 19:37:56
+"472","thous","Reference","Middle East",2040,328436,2024-02-25 19:37:56
+"473","thous","Reference","Middle East",2045,340596,2024-02-25 19:37:56
+"474","thous","Reference","Middle East",2050,349982,2024-02-25 19:37:56
+"475","thous","Reference","Middle East",2055,356807,2024-02-25 19:37:56
+"476","thous","Reference","Middle East",2060,361249,2024-02-25 19:37:56
+"477","thous","Reference","Middle East",2065,363470,2024-02-25 19:37:56
+"478","thous","Reference","Middle East",2070,363472,2024-02-25 19:37:56
+"479","thous","Reference","Middle East",2075,361267,2024-02-25 19:37:56
+"480","thous","Reference","Middle East",2080,357041,2024-02-25 19:37:56
+"481","thous","Reference","Middle East",2085,350830,2024-02-25 19:37:56
+"482","thous","Reference","Middle East",2090,342999,2024-02-25 19:37:56
+"483","thous","Reference","Middle East",2095,333595,2024-02-25 19:37:56
+"484","thous","Reference","Middle East",2100,322582,2024-02-25 19:37:56
+"485","thous","Reference","Pakistan",1975,66817,2024-02-25 19:37:56
+"486","thous","Reference","Pakistan",1990,107648,2024-02-25 19:37:56
+"487","thous","Reference","Pakistan",2005,160304,2024-02-25 19:37:56
+"488","thous","Reference","Pakistan",2010,179425,2024-02-25 19:37:56
+"489","thous","Reference","Pakistan",2015,199427,2024-02-25 19:37:56
+"490","thous","Reference","Pakistan",2020,213848,2024-02-25 19:37:56
+"491","thous","Reference","Pakistan",2025,226292,2024-02-25 19:37:56
+"492","thous","Reference","Pakistan",2030,236473,2024-02-25 19:37:56
+"493","thous","Reference","Pakistan",2035,245206,2024-02-25 19:37:56
+"494","thous","Reference","Pakistan",2040,252374,2024-02-25 19:37:56
+"495","thous","Reference","Pakistan",2045,257720,2024-02-25 19:37:56
+"496","thous","Reference","Pakistan",2050,261049,2024-02-25 19:37:56
+"497","thous","Reference","Pakistan",2055,262559,2024-02-25 19:37:56
+"498","thous","Reference","Pakistan",2060,262335,2024-02-25 19:37:56
+"499","thous","Reference","Pakistan",2065,260776,2024-02-25 19:37:56
+"500","thous","Reference","Pakistan",2070,257925,2024-02-25 19:37:56
+"501","thous","Reference","Pakistan",2075,253791,2024-02-25 19:37:56
+"502","thous","Reference","Pakistan",2080,248454,2024-02-25 19:37:56
+"503","thous","Reference","Pakistan",2085,242091,2024-02-25 19:37:56
+"504","thous","Reference","Pakistan",2090,234946,2024-02-25 19:37:56
+"505","thous","Reference","Pakistan",2095,227246,2024-02-25 19:37:56
+"506","thous","Reference","Pakistan",2100,219177,2024-02-25 19:37:56
+"507","thous","Reference","Russia",1975,133805,2024-02-25 19:37:56
+"508","thous","Reference","Russia",1990,147532,2024-02-25 19:37:56
+"509","thous","Reference","Russia",2005,143672,2024-02-25 19:37:56
+"510","thous","Reference","Russia",2010,143479,2024-02-25 19:37:56
+"511","thous","Reference","Russia",2015,144985,2024-02-25 19:37:56
+"512","thous","Reference","Russia",2020,144396,2024-02-25 19:37:56
+"513","thous","Reference","Russia",2025,143795,2024-02-25 19:37:56
+"514","thous","Reference","Russia",2030,143054,2024-02-25 19:37:56
+"515","thous","Reference","Russia",2035,142597,2024-02-25 19:37:56
+"516","thous","Reference","Russia",2040,142235,2024-02-25 19:37:56
+"517","thous","Reference","Russia",2045,141595,2024-02-25 19:37:56
+"518","thous","Reference","Russia",2050,140426,2024-02-25 19:37:56
+"519","thous","Reference","Russia",2055,138873,2024-02-25 19:37:56
+"520","thous","Reference","Russia",2060,137073,2024-02-25 19:37:56
+"521","thous","Reference","Russia",2065,134716,2024-02-25 19:37:56
+"522","thous","Reference","Russia",2070,131759,2024-02-25 19:37:56
+"523","thous","Reference","Russia",2075,128119,2024-02-25 19:37:56
+"524","thous","Reference","Russia",2080,123809,2024-02-25 19:37:56
+"525","thous","Reference","Russia",2085,119049,2024-02-25 19:37:56
+"526","thous","Reference","Russia",2090,114079,2024-02-25 19:37:56
+"527","thous","Reference","Russia",2095,109022,2024-02-25 19:37:56
+"528","thous","Reference","Russia",2100,103402,2024-02-25 19:37:56
+"529","thous","Reference","South Africa",1975,25195,2024-02-25 19:37:56
+"530","thous","Reference","South Africa",1990,36801,2024-02-25 19:37:56
+"531","thous","Reference","South Africa",2005,47881,2024-02-25 19:37:56
+"532","thous","Reference","South Africa",2010,51217,2024-02-25 19:37:56
+"533","thous","Reference","South Africa",2015,55386,2024-02-25 19:37:56
+"534","thous","Reference","South Africa",2020,58117,2024-02-25 19:37:56
+"535","thous","Reference","South Africa",2025,60749,2024-02-25 19:37:56
+"536","thous","Reference","South Africa",2030,62971,2024-02-25 19:37:56
+"537","thous","Reference","South Africa",2035,64920,2024-02-25 19:37:56
+"538","thous","Reference","South Africa",2040,66577,2024-02-25 19:37:56
+"539","thous","Reference","South Africa",2045,67891,2024-02-25 19:37:56
+"540","thous","Reference","South Africa",2050,68829,2024-02-25 19:37:56
+"541","thous","Reference","South Africa",2055,69338,2024-02-25 19:37:56
+"542","thous","Reference","South Africa",2060,69384,2024-02-25 19:37:56
+"543","thous","Reference","South Africa",2065,68947,2024-02-25 19:37:56
+"544","thous","Reference","South Africa",2070,68023,2024-02-25 19:37:56
+"545","thous","Reference","South Africa",2075,66640,2024-02-25 19:37:56
+"546","thous","Reference","South Africa",2080,64861,2024-02-25 19:37:56
+"547","thous","Reference","South Africa",2085,62765,2024-02-25 19:37:56
+"548","thous","Reference","South Africa",2090,60426,2024-02-25 19:37:56
+"549","thous","Reference","South Africa",2095,57897,2024-02-25 19:37:56
+"550","thous","Reference","South Africa",2100,55223,2024-02-25 19:37:56
+"551","thous","Reference","South America_Northern",1975,14351,2024-02-25 19:37:56
+"552","thous","Reference","South America_Northern",1990,20897,2024-02-25 19:37:56
+"553","thous","Reference","South America_Northern",2005,27881,2024-02-25 19:37:56
+"554","thous","Reference","South America_Northern",2010,29952,2024-02-25 19:37:56
+"555","thous","Reference","South America_Northern",2015,31669,2024-02-25 19:37:56
+"556","thous","Reference","South America_Northern",2020,33385,2024-02-25 19:37:56
+"557","thous","Reference","South America_Northern",2025,34851,2024-02-25 19:37:56
+"558","thous","Reference","South America_Northern",2030,36047,2024-02-25 19:37:56
+"559","thous","Reference","South America_Northern",2035,37023,2024-02-25 19:37:56
+"560","thous","Reference","South America_Northern",2040,37741,2024-02-25 19:37:56
+"561","thous","Reference","South America_Northern",2045,38192,2024-02-25 19:37:56
+"562","thous","Reference","South America_Northern",2050,38385,2024-02-25 19:37:56
+"563","thous","Reference","South America_Northern",2055,38359,2024-02-25 19:37:56
+"564","thous","Reference","South America_Northern",2060,38125,2024-02-25 19:37:56
+"565","thous","Reference","South America_Northern",2065,37695,2024-02-25 19:37:56
+"566","thous","Reference","South America_Northern",2070,37076,2024-02-25 19:37:56
+"567","thous","Reference","South America_Northern",2075,36280,2024-02-25 19:37:56
+"568","thous","Reference","South America_Northern",2080,35322,2024-02-25 19:37:56
+"569","thous","Reference","South America_Northern",2085,34193,2024-02-25 19:37:56
+"570","thous","Reference","South America_Northern",2090,32821,2024-02-25 19:37:56
+"571","thous","Reference","South America_Northern",2095,31255,2024-02-25 19:37:56
+"572","thous","Reference","South America_Northern",2100,29546,2024-02-25 19:37:56
+"573","thous","Reference","South America_Southern",1975,43634,2024-02-25 19:37:56
+"574","thous","Reference","South America_Southern",1990,59775,2024-02-25 19:37:56
+"575","thous","Reference","South America_Southern",2005,76253,2024-02-25 19:37:56
+"576","thous","Reference","South America_Southern",2010,80757,2024-02-25 19:37:56
+"577","thous","Reference","South America_Southern",2015,85623,2024-02-25 19:37:56
+"578","thous","Reference","South America_Southern",2020,88303,2024-02-25 19:37:56
+"579","thous","Reference","South America_Southern",2025,90039,2024-02-25 19:37:56
+"580","thous","Reference","South America_Southern",2030,91003,2024-02-25 19:37:56
+"581","thous","Reference","South America_Southern",2035,91394,2024-02-25 19:37:56
+"582","thous","Reference","South America_Southern",2040,91180,2024-02-25 19:37:56
+"583","thous","Reference","South America_Southern",2045,90352,2024-02-25 19:37:56
+"584","thous","Reference","South America_Southern",2050,88946,2024-02-25 19:37:56
+"585","thous","Reference","South America_Southern",2055,87075,2024-02-25 19:37:56
+"586","thous","Reference","South America_Southern",2060,84793,2024-02-25 19:37:56
+"587","thous","Reference","South America_Southern",2065,82340,2024-02-25 19:37:56
+"588","thous","Reference","South America_Southern",2070,79727,2024-02-25 19:37:56
+"589","thous","Reference","South America_Southern",2075,76940,2024-02-25 19:37:56
+"590","thous","Reference","South America_Southern",2080,73992,2024-02-25 19:37:56
+"591","thous","Reference","South America_Southern",2085,70869,2024-02-25 19:37:56
+"592","thous","Reference","South America_Southern",2090,67574,2024-02-25 19:37:56
+"593","thous","Reference","South America_Southern",2095,64082,2024-02-25 19:37:56
+"594","thous","Reference","South America_Southern",2100,60438,2024-02-25 19:37:56
+"595","thous","Reference","South Asia",1975,110416,2024-02-25 19:37:56
+"596","thous","Reference","South Asia",1990,152569,2024-02-25 19:37:56
+"597","thous","Reference","South Asia",2005,210948,2024-02-25 19:37:56
+"598","thous","Reference","South Asia",2010,225087,2024-02-25 19:37:56
+"599","thous","Reference","South Asia",2015,239776,2024-02-25 19:37:56
+"600","thous","Reference","South Asia",2020,252769,2024-02-25 19:37:56
+"601","thous","Reference","South Asia",2025,263488,2024-02-25 19:37:56
+"602","thous","Reference","South Asia",2030,271848,2024-02-25 19:37:56
+"603","thous","Reference","South Asia",2035,278420,2024-02-25 19:37:56
+"604","thous","Reference","South Asia",2040,282922,2024-02-25 19:37:56
+"605","thous","Reference","South Asia",2045,285163,2024-02-25 19:37:56
+"606","thous","Reference","South Asia",2050,285104,2024-02-25 19:37:56
+"607","thous","Reference","South Asia",2055,283093,2024-02-25 19:37:56
+"608","thous","Reference","South Asia",2060,279291,2024-02-25 19:37:56
+"609","thous","Reference","South Asia",2065,274353,2024-02-25 19:37:56
+"610","thous","Reference","South Asia",2070,268372,2024-02-25 19:37:56
+"611","thous","Reference","South Asia",2075,261433,2024-02-25 19:37:56
+"612","thous","Reference","South Asia",2080,253651,2024-02-25 19:37:56
+"613","thous","Reference","South Asia",2085,245177,2024-02-25 19:37:56
+"614","thous","Reference","South Asia",2090,236091,2024-02-25 19:37:56
+"615","thous","Reference","South Asia",2095,226569,2024-02-25 19:37:56
+"616","thous","Reference","South Asia",2100,216730,2024-02-25 19:37:56
+"617","thous","Reference","South Korea",1975,35379,2024-02-25 19:37:56
+"618","thous","Reference","South Korea",1990,42918,2024-02-25 19:37:56
+"619","thous","Reference","South Korea",2005,48701,2024-02-25 19:37:56
+"620","thous","Reference","South Korea",2010,49546,2024-02-25 19:37:56
+"621","thous","Reference","South Korea",2015,50823,2024-02-25 19:37:56
+"622","thous","Reference","South Korea",2020,51684,2024-02-25 19:37:56
+"623","thous","Reference","South Korea",2025,52479,2024-02-25 19:37:56
+"624","thous","Reference","South Korea",2030,53155,2024-02-25 19:37:56
+"625","thous","Reference","South Korea",2035,53559,2024-02-25 19:37:56
+"626","thous","Reference","South Korea",2040,53664,2024-02-25 19:37:56
+"627","thous","Reference","South Korea",2045,53515,2024-02-25 19:37:56
+"628","thous","Reference","South Korea",2050,53166,2024-02-25 19:37:56
+"629","thous","Reference","South Korea",2055,52659,2024-02-25 19:37:56
+"630","thous","Reference","South Korea",2060,52044,2024-02-25 19:37:56
+"631","thous","Reference","South Korea",2065,51334,2024-02-25 19:37:56
+"632","thous","Reference","South Korea",2070,50451,2024-02-25 19:37:56
+"633","thous","Reference","South Korea",2075,49384,2024-02-25 19:37:56
+"634","thous","Reference","South Korea",2080,48268,2024-02-25 19:37:56
+"635","thous","Reference","South Korea",2085,47195,2024-02-25 19:37:56
+"636","thous","Reference","South Korea",2090,46152,2024-02-25 19:37:56
+"637","thous","Reference","South Korea",2095,45062,2024-02-25 19:37:56
+"638","thous","Reference","South Korea",2100,43998,2024-02-25 19:37:56
+"639","thous","Reference","Southeast Asia",1975,209955,2024-02-25 19:37:56
+"640","thous","Reference","Southeast Asia",1990,290435,2024-02-25 19:37:56
+"641","thous","Reference","Southeast Asia",2005,368399,2024-02-25 19:37:56
+"642","thous","Reference","Southeast Asia",2010,390297,2024-02-25 19:37:56
+"643","thous","Reference","Southeast Asia",2015,412741,2024-02-25 19:37:56
+"644","thous","Reference","Southeast Asia",2020,429241,2024-02-25 19:37:56
+"645","thous","Reference","Southeast Asia",2025,442065,2024-02-25 19:37:56
+"646","thous","Reference","Southeast Asia",2030,451033,2024-02-25 19:37:56
+"647","thous","Reference","Southeast Asia",2035,457195,2024-02-25 19:37:56
+"648","thous","Reference","Southeast Asia",2040,460255,2024-02-25 19:37:56
+"649","thous","Reference","Southeast Asia",2045,460003,2024-02-25 19:37:56
+"650","thous","Reference","Southeast Asia",2050,456594,2024-02-25 19:37:56
+"651","thous","Reference","Southeast Asia",2055,450612,2024-02-25 19:37:56
+"652","thous","Reference","Southeast Asia",2060,442473,2024-02-25 19:37:56
+"653","thous","Reference","Southeast Asia",2065,432591,2024-02-25 19:37:56
+"654","thous","Reference","Southeast Asia",2070,421165,2024-02-25 19:37:56
+"655","thous","Reference","Southeast Asia",2075,408228,2024-02-25 19:37:56
+"656","thous","Reference","Southeast Asia",2080,393897,2024-02-25 19:37:56
+"657","thous","Reference","Southeast Asia",2085,378290,2024-02-25 19:37:56
+"658","thous","Reference","Southeast Asia",2090,361398,2024-02-25 19:37:56
+"659","thous","Reference","Southeast Asia",2095,343713,2024-02-25 19:37:56
+"660","thous","Reference","Southeast Asia",2100,325413,2024-02-25 19:37:56
+"661","thous","Reference","Taiwan",1975,16465,2024-02-25 19:37:56
+"662","thous","Reference","Taiwan",1990,20479,2024-02-25 19:37:56
+"663","thous","Reference","Taiwan",2005,22706,2024-02-25 19:37:56
+"664","thous","Reference","Taiwan",2010,23188,2024-02-25 19:37:56
+"665","thous","Reference","Taiwan",2015,23557,2024-02-25 19:37:56
+"666","thous","Reference","Taiwan",2020,23557,2024-02-25 19:37:56
+"667","thous","Reference","Taiwan",2025,23557,2024-02-25 19:37:56
+"668","thous","Reference","Taiwan",2030,23557,2024-02-25 19:37:56
+"669","thous","Reference","Taiwan",2035,23557,2024-02-25 19:37:56
+"670","thous","Reference","Taiwan",2040,23557,2024-02-25 19:37:56
+"671","thous","Reference","Taiwan",2045,23557,2024-02-25 19:37:56
+"672","thous","Reference","Taiwan",2050,23557,2024-02-25 19:37:56
+"673","thous","Reference","Taiwan",2055,23557,2024-02-25 19:37:56
+"674","thous","Reference","Taiwan",2060,23557,2024-02-25 19:37:56
+"675","thous","Reference","Taiwan",2065,23557,2024-02-25 19:37:56
+"676","thous","Reference","Taiwan",2070,23557,2024-02-25 19:37:56
+"677","thous","Reference","Taiwan",2075,23557,2024-02-25 19:37:56
+"678","thous","Reference","Taiwan",2080,23557,2024-02-25 19:37:56
+"679","thous","Reference","Taiwan",2085,23557,2024-02-25 19:37:56
+"680","thous","Reference","Taiwan",2090,23557,2024-02-25 19:37:56
+"681","thous","Reference","Taiwan",2095,23557,2024-02-25 19:37:56
+"682","thous","Reference","Taiwan",2100,23557,2024-02-25 19:37:56
+"683","thous","Reference","USA",1975,222013,2024-02-25 19:37:56
+"684","thous","Reference","USA",1990,255627,2024-02-25 19:37:56
+"685","thous","Reference","USA",2005,298733,2024-02-25 19:37:56
+"686","thous","Reference","USA",2010,312697,2024-02-25 19:37:56
+"687","thous","Reference","USA",2015,324365,2024-02-25 19:37:56
+"688","thous","Reference","USA",2020,341776,2024-02-25 19:37:56
+"689","thous","Reference","USA",2025,361756,2024-02-25 19:37:56
+"690","thous","Reference","USA",2030,382783,2024-02-25 19:37:56
+"691","thous","Reference","USA",2035,404016,2024-02-25 19:37:56
+"692","thous","Reference","USA",2040,425725,2024-02-25 19:37:56
+"693","thous","Reference","USA",2045,448116,2024-02-25 19:37:56
+"694","thous","Reference","USA",2050,471738,2024-02-25 19:37:56
+"695","thous","Reference","USA",2055,496610,2024-02-25 19:37:56
+"696","thous","Reference","USA",2060,522733,2024-02-25 19:37:56
+"697","thous","Reference","USA",2065,548993,2024-02-25 19:37:56
+"698","thous","Reference","USA",2070,575055,2024-02-25 19:37:56
+"699","thous","Reference","USA",2075,600847,2024-02-25 19:37:56
+"700","thous","Reference","USA",2080,625390,2024-02-25 19:37:56
+"701","thous","Reference","USA",2085,648213,2024-02-25 19:37:56
+"702","thous","Reference","USA",2090,669398,2024-02-25 19:37:56
+"703","thous","Reference","USA",2095,688269,2024-02-25 19:37:56
+"704","thous","Reference","USA",2100,704555,2024-02-25 19:37:56
